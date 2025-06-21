@@ -1,0 +1,114 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 139 138 160 }
+revolutionary_colors = { 0 13 10 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+	quality_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Alan #0" = -1
+	"Aydaq #0" = 0
+	"Bachman #1" = 10
+	"Boyla #1" = 10
+	"Bughraçuq #0" = 0
+	"Bulït #0" = -1
+	"Buyruq #2" = 10
+	"Böritegin #0" = 0
+	"Börtil #0" = 0
+	"Elig #1" = 10
+	"Eregje #1" = 10
+	"Ershen #0" = -1
+	"Ilbeslik #0" = -1
+	"Ilbilgä #0" = -1
+	"Ilterish #0" = 0
+	"Iltughun #2" = 10
+	"Jelme #1" = 10
+	"Katun #0" = -1
+	"Kutan #2" = 10
+	"Kültegin #0" = 0
+	"Otqan #0" = -1
+	"Qaraqaz #0" = -1
+	"Qunï #0" = 0
+	"Saru #1" = 10
+	"Sarïgha #0" = -1
+	"Shughur #0" = 0
+	"Sugr #1" = 10
+	"Süçüg #1" = 10
+	"Tabgaç #1" = 10
+	"Tadqïsh #0" = 0
+	"Tarqan #1" = 10
+	"Terek #0" = -1
+	"Teçush #0" = -1
+	"Toghrïl #1" = 10
+	"Tograk #0" = -1
+	"Toñra #0" = 0
+	"Toñuz #1" = 10
+	"Tugor #1" = 10
+	"Tugun #1" = 10
+	"Tutuq #1" = 10
+	"Törtogul #1" = 10
+	"Udur #0" = 0
+	"Uzluk #1" = 10
+	"Yïlgun #0" = -1
+	"Yïlqï #0" = -1
+	"Çeçek #0" = -1
+	"Çigshi #0" = 0
+	"Öge #0" = 0
+}
+leader_names = {
+	"Arinin"
+	"Aven"
+	"Balna"
+	"Kanin"
+	"Maimbava"
+	"Ravna"
+	"Salmiianov"
+	"Taiborey"
+	"Tsoy"
+	"Vylka"
+}
+ship_names = {
+	"Baraq"
+	"Bayan"
+	"Chimtai"
+	"Devlat Berdi"
+	"Ghengis Khan"
+	"Ilbasan"
+	"Jabbar Berdi"
+	"Jalal Ad-Din"
+	"Karim Berdi"
+	"Kebek"
+	"Kochu"
+	"Mubarrak Kwaja"
+	"Orda"
+	"Pulad"
+	"Sasibuga"
+	"Sayyid Ahmad"
+	"Shadi Beg"
+	"Timur Malik"
+	"Timur Qutlugh"
+	"Toqtamish"
+	"Tuqtaqiya"
+	"Ulugh Muhammad"
+	"Urus"
+}

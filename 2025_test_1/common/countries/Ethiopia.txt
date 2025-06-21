@@ -1,0 +1,83 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 56 120 191 }
+revolutionary_colors = { 9 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	influence_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hussar
+	african_mossi_horsemen
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	ethiopian_guerilla_warfare
+	ethiopian_gunpowder_warfare
+	ethiopian_mountain_warfare
+	westernized_ethiopian
+}
+monarch_names = {
+	"Aarôn #1" = 10
+	"Abraam #0" = 0
+	"Athanasios #0" = 0
+	"Balô #1" = 10
+	"Christina #1" = -1
+	"Douriko #1" = -1
+	"Epiphanios #1" = 10
+	"Gabriel #1" = 10
+	"Gennatios #1" = 10
+	"Habiba #0" = -1
+	"Ieremias #0" = 0
+	"Kel #1" = -1
+	"Kuriakos #2" = 10
+	"Mariana #0" = 0
+	"Marios #1" = 10
+	"Marturophoros #0" = 0
+	"Mašanñal #1" = 10
+	"Michaêlkouda #1" = 10
+	"Papasinkouda #1" = 10
+	"Petronia #0" = -1
+	"Philemon #1" = 10
+	"Samson #1" = 10
+	"Senouthios #1" = 10
+	"Sentiko #1" = 10
+	"Soizuros #1" = 10
+	"Solomôn #1" = 10
+	"Stephanou #0" = 0
+	"Ñašša #1" = -1
+}
+leader_names = {
+	"Ambo"
+	"Asfaw"
+	"Asres"
+	"Bayisa"
+	"Degife"
+	"Dereje"
+	"Eshete"
+	"Eyob"
+	"Ezana"
+	"Wami"
+}
+ship_names = {
+	"Kedus Harbe"
+	"Lalibela"
+	"Mara Takla"
+	"Na'akueto La'ab"
+	"Seyum"
+	"Shewa"
+	"Tatadum"
+	"Tigray"
+	"Yekuno Amlak"
+	"Yetbarak"
+	"Yodit"
+}

@@ -1,0 +1,115 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 103 62 185 }
+revolutionary_colors = { 8 4 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_tercio
+	dutch_maurician
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Abbán #0" = 0
+	"Adalhard #0" = 0
+	"Ailill #0" = 0
+	"Audoïn #0" = 0
+	"Badeloge #0" = -1
+	"Baldarich #0" = 0
+	"Bavor #0" = 0
+	"Bòna #0" = -1
+	"Cailte #0" = 0
+	"Crínóch #0" = -1
+	"Dirk #0" = 0
+	"Doumenge #0" = 0
+	"Dub-Dil #0" = -1
+	"Effros #0" = -1
+	"Emmanuèl #0" = 0
+	"Eufèmia #0" = -1
+	"Flamula #0" = -1
+	"Gundemar #0" = 0
+	"Gwijde #0" = 0
+	"Ide #0" = -1
+	"Kamila #0" = -1
+	"Kettil #0" = 0
+	"Láegaire #0" = 0
+	"Masinissa #0" = 0
+	"Merfyn #0" = 0
+	"Murad #0" = 0
+	"Otto #0" = 0
+	"Otwin #0" = 0
+	"Pelagio #0" = 0
+	"Perinne #0" = -1
+	"Petro #0" = 0
+	"Pieter #0" = 0
+	"Premysl #0" = 0
+	"Resmen #0" = 0
+	"Ruaidrí #0" = 0
+	"Sadb #0" = -1
+	"Theodolf #0" = 0
+	"Ugues #0" = 0
+	"Veremondo #0" = 0
+	"Yvon #0" = -1
+}
+leader_names = {
+	"Brouckaert"
+	"Galindez"
+	"Liderie"
+	"Waerseggers"
+	"d'Avesnes"
+	"de Cuire"
+	"de Freest"
+	"de Namur"
+	"de Roucy"
+	"du Trieux"
+	"van Bylandt"
+	"van Dinther"
+	"van Heerdt"
+	"van Heiden"
+	"van Hogendorp"
+	"van Lynden"
+	"van Oberndorff"
+	"von Quadt"
+	"von Ranzow"
+	"von Rechteren"
+}
+ship_names = {
+	"Amalric"
+	"Arnulf"
+	"Baldvin I"
+	"Baldvin II"
+	"Godfrey"
+	"Godfrey II"
+	"Herman"
+	"Reginald"
+	"Reginar I"
+	"Reginar II"
+	"Reginar III"
+	"Richar"
+	"Sigard"
+	"Warin"
+}
+army_names = {
+	"Leger van $PROVINCE$"
+}
+fleet_names = {
+	"Vloot van $PROVINCE$"
+}

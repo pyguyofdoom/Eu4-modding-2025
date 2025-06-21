@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = indian
+religion = jain
+primary_culture = sinhala
+capital = 560
+fixed_capital = 560
+add_accepted_culture = bengali
+1444.11.11= {
+	monarch = {
+		name = "Dharmapala"
+		dynasty = "Desaid"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1425.5.2
+		religion = jain
+		culture = sinhala
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Dhamarajha"
+		dynasty = "Saverid"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = W07
+		birth_date = 1424.4.15
+		death_date = 1484.4.15
+		female = yes
+		religion = jain
+		culture = sinhala
+	}
+	add_queen_personality = loose_lips_personality
+	add_queen_personality = righteous_personality
+}
+1444.11.11= {
+	add_prestige = 55
+	add_treasury = 72
+}

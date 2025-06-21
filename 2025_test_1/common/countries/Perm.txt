@@ -1,0 +1,131 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 236 159 90 }
+revolutionary_colors = { 5 0 15 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Aba #0" = 0
+	"Arnaz #0" = 0
+	"Artis #0" = 0
+	"Azeg #0" = 0
+	"Azra-Va #0" = -1
+	"Batulia #0" = 0
+	"Biyar #0" = 0
+	"Chichayka #2" = 10
+	"Chinzhay #0" = -1
+	"Chuga #0" = 0
+	"Deryab #0" = 0
+	"Esin #0" = -1
+	"Ilme #0" = -1
+	"Ipa #0" = 0
+	"Kezhapa #1" = 10
+	"Kezhedey #1" = 10
+	"Kujku #0" = -1
+	"Malyaka #0" = 0
+	"Nuyaksha #0" = 0
+	"Nyayka #0" = -1
+	"Odeg #1" = 10
+	"Osh #0" = 0
+	"Oshypel #2" = 10
+	"Pokshava #0" = -1
+	"Pyera #1" = 10
+	"Rayda #0" = -1
+	"Salinder #1" = 10
+	"Sektev #0" = 0
+	"Senda #0" = -1
+	"Shindyay #3" = 10
+	"Spira #1" = 10
+	"Syrka #1" = 10
+	"Tikshayka #0" = -1
+	"Tuhan #0" = 0
+	"Tundava #0" = -1
+	"Tyueykezhut #0" = 0
+	"Tyutyuk #0" = 0
+	"Utyayka #0" = -1
+	"Varaka #1" = 10
+	"Yar #0" = 0
+}
+leader_names = {
+	"Burmatov"
+	"Cheskidov"
+	"Dozmorov"
+	"Ichetkin"
+	"Kachesov"
+	"Kanev"
+	"Kochev"
+	"Koinov"
+	"Kolegov"
+	"Kudymov"
+	"Kychanov"
+	"Kykin"
+	"Kynev"
+	"Kynkurogov"
+	"Kyrnyshev"
+	"Kyrov"
+	"Kysov"
+	"Lyurov"
+	"Michkin"
+	"Moshev"
+	"Oshev"
+	"Oshkokov"
+	"Porsin"
+	"Purtov"
+	"Rakin"
+	"Rochev"
+	"Ruchev"
+	"Syuzev"
+	"Vilesov"
+	"Volegov"
+	"Yusev"
+	"Zerov"
+	"Zyrianov"
+}
+ship_names = {
+	"Baseg"
+	"Cherdyn"
+	"Iskor"
+	"Kama"
+	"Koleg"
+	"Kolva"
+	"Kudym-Osha"
+	"Pelym"
+	"Pokcha"
+	"Rateg"
+	"Shudeg"
+	"Sysola"
+	"Uros"
+	"Uzheg"
+	"Vilgort"
+	"Vishera"
+	"Voleg"
+	"Vychegda"
+	"Yazva"
+	"Yus"
+}

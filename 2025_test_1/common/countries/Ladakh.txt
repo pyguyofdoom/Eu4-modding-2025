@@ -1,0 +1,101 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 23 110 90 }
+revolutionary_colors = { 8 10 0 }
+historical_idea_groups = {
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ajinai #1" = 10
+	"Alchi #0" = 0
+	"Altani #0" = -1
+	"Azgan #0" = -1
+	"Bagaridai #0" = 0
+	"Bhairabendranarayan #2" = 10
+	"Bolkhadar #0" = 0
+	"Boru #0" = 0
+	"Brahmdevpal #2" = 10
+	"Bukha #0" = 0
+	"Chonggui #0" = 0
+	"Chormakhan #0" = 0
+	"Chotan #0" = -1
+	"Dashi #0" = 0
+	"Dinah #0" = -1
+	"Donyö #0" = 0
+	"Gulay #0" = -1
+	"Hafez #0" = 0
+	"Irge #0" = -1
+	"Jamileh #0" = -1
+	"Jamugha #0" = 0
+	"Jayavarma #4" = 10
+	"Kalkurna #2" = 10
+	"Kegen #0" = 0
+	"Khal #0" = 0
+	"Kharmandar #0" = 0
+	"Khetrapal #1" = 10
+	"Khrimalod #0" = -1
+	"Khugurchin #0" = -1
+	"Lakhshaman-Singh #1" = 10
+	"Machig #1" = -1
+	"Mahendrapala #1" = 10
+	"Mongke #0" = 0
+	"Namri #1" = 10
+	"Naveed #0" = 0
+	"Nyendrak #1" = -1
+	"Okhotur #0" = 0
+	"Orbei #1" = -1
+	"Pal #1" = 10
+	"Parween #0" = -1
+	"Ruhollah #0" = 0
+	"Shirgugetu #0" = 0
+	"Sokhatai #0" = -1
+	"Targhutai #0" = 0
+	"Temujin #1" = 10
+	"Thrimalö #1" = -1
+	"Todogen #0" = 0
+	"Tolui #1" = 10
+	"Töregene #0" = -1
+	"Yokhunan #0" = 0
+}
+leader_names = {
+	"Balti"
+	"Heniskat"
+	"Kartse"
+	"Khaplu"
+	"Mulbek"
+	"Phokar"
+	"Purig"
+	"Rupshu"
+	"Shigar"
+	"Sot"
+	"Zanskar"
+}
+ship_names = {
+	"Balti"
+	"Heniskat"
+	"Kartse"
+	"Khaplu"
+	"Leh"
+	"Mulbek"
+	"Phokar"
+	"Purig"
+	"Rupshu"
+	"Shigar"
+	"Sot"
+	"Zanskar"
+}

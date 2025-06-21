@@ -1,0 +1,122 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 34 131 193 }
+revolutionary_colors = { 0 15 16 }
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	germanized_pike
+	hungarian_hussar
+	polish_hussar
+	polish_musketeer
+	polish_tercio
+	polish_winged_hussar
+	slavic_stradioti
+}
+monarch_names = {
+	"Aleksander #1" = 10
+	"Amalrich #0" = 0
+	"Arnost #2" = 10
+	"Barbora #0" = -1
+	"Berta #1" = -1
+	"Blazena #0" = -1
+	"Bogumil #1" = 10
+	"Bozislava #0" = -1
+	"Chval #0" = 0
+	"Csák #1" = 10
+	"Ctirad #0" = 0
+	"Domaslava #0" = -1
+	"Drahoslava #0" = -1
+	"Drslav #0" = 0
+	"Eliska #0" = -1
+	"Ernõ #1" = 10
+	"Eufemie #0" = -1
+	"Gierolt #1" = 10
+	"Golovke #1" = 10
+	"Guta #0" = -1
+	"Györgyi #1" = -1
+	"Gábor #1" = 10
+	"Helena #0" = -1
+	"Herman #0" = 0
+	"István #1" = 10
+	"Jana #0" = -1
+	"Janislaw #1" = 10
+	"Jaroslava #0" = -1
+	"Kristóf #0" = 0
+	"Kunhuta #0" = -1
+	"Litold #0" = 0
+	"Luboš #1" = 10
+	"Lõrinc #1" = 10
+	"Marie #0" = -1
+	"Matous #1" = 10
+	"Milic #0" = 0
+	"Msciwoj #1" = 10
+	"Pechna #1" = -1
+	"Rostislav #0" = 0
+	"Slavena #0" = -1
+	"Svatobor #0" = 0
+	"Szczesny #2" = 10
+	"Tundér #0" = -1
+	"Ute #0" = -1
+	"Vazul #1" = 10
+	"Vladislav #0" = 0
+	"Vseslav #1" = 10
+	"Vysheslav #1" = 10
+	"Václav #0" = 0
+	"Vítek #0" = 0
+	"Wielislaw #1" = 10
+	"Witosz #0" = 0
+	"Zbislava #1" = -1
+	"Zoltána #0" = -1
+	"Zubrivoj #0" = 0
+}
+leader_names = {
+	"Balaša"
+	"Beckovský"
+	"Bel"
+	"Benyovszky"
+	"Bosniak"
+	"Elefánthy"
+	"Hatnanský"
+	"Jesenský"
+	"Kollar"
+	"Podmanický"
+	"Pongrac"
+	"Pongrácz"
+	"Stibor"
+	"Veseléni"
+	"Wesselényi"
+}
+ship_names = {
+	"Bebrava"
+	"Belá"
+	"Blava"
+	"Bodrog"
+	"Bodva"
+	"Cierna voda"
+	"Dunajec"
+	"Hornád"
+	"Ipel"
+	"Latorica"
+	"Morava"
+	"Ondava"
+	"Poprad"
+	"Rimava"
+	"Slaná"
+	"Torysa"
+	"Žitava"
+}

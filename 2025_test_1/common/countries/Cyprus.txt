@@ -1,0 +1,81 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 245 200 30 }
+revolutionary_colors = { 8 0 16 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Acfred #0" = 0
+	"Alexandra #0" = -1
+	"Andreas #1" = 10
+	"Boethios #0" = 0
+	"Damianos #1" = 10
+	"Dionysios #1" = 10
+	"Ermengau #1" = 10
+	"Eusebia #1" = -1
+	"Eusebios #0" = 0
+	"Gabrielia #0" = -1
+	"Komitas #1" = 10
+	"Kyriakos #0" = 0
+	"Megistos #1" = 10
+	"Milo #0" = 0
+	"Pantoleon #2" = 10
+	"Paschalis #0" = 0
+	"Philaretos #0" = 0
+	"Photios #2" = 10
+	"Piamun #0" = -1
+	"Porphyrios #1" = 10
+	"Rainaut #0" = 0
+	"Stephanos #1" = 10
+	"Theodotos #1" = 10
+}
+leader_names = {
+	"Bragadin"
+	"Crispo"
+	"Doria"
+	"Fadrigue"
+	"Lusignans"
+	"Melissinos"
+	"Plethon"
+	"Rendis"
+	"Saraceno"
+	"Tocco"
+}
+ship_names = {
+	"Agios Georgios"
+	"Kato Yialla"
+	"Lachi"
+	"Leivadi"
+	"Lempa"
+	"Maa"
+	"Maurvoll"
+	"Pakhyammos"
+	"Pomos"
+	"Symvoulos"
+}

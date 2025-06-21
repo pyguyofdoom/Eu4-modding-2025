@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = norse_pagan_reformed
+primary_culture = dutch
+capital = 97
+fixed_capital = 97
+add_accepted_culture = czech
+1444.11.11= {
+	monarch = {
+		name = "Luthard"
+		dynasty = "van Vlissingen"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1406.6.13
+		religion = norse_pagan_reformed
+		culture = dutch
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = inspiring_leader_personality
+	queen = {
+		name = "Elisabèta"
+		dynasty = "de Kerret"
+		adm = 2
+		dip = 3
+		mil = 4
+		country_of_origin = W91
+		birth_date = 1409.3.19
+		death_date = 1469.3.19
+		female = yes
+		religion = norse_pagan_reformed
+		culture = occitain
+	}
+	add_queen_personality = craven_personality
+	add_queen_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Olinde"
+		monarch_name = "Olinde"
+		dynasty = "van Vlissingen"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1439.6.11
+		death_date = 1504.6.11
+		female = yes
+		claim = 89
+		religion = norse_pagan_reformed
+		culture = dutch
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 60
+	add_treasury = 48
+}

@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 144 110 60 }
+monarch_names = {
+	"Bahudhiva #0" = 0
+	"Bulït #0" = -1
+	"Kamnai #0" = 0
+	"Kayam #0" = 0
+	"Nanda #0" = -1
+	"Nirmala #0" = -1
+	"Shri #0" = -1
+	"Siladharma #0" = 0
+	"Tisyarakshita #0" = -1
+	"Vagiti #0" = 0
+	"Vimalaprabha #0" = -1
+}

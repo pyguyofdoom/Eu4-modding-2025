@@ -1,0 +1,82 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 173 176 113 }
+revolutionary_colors = { 8 5 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_tercio
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_drill
+	prussian_frederickian
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Bertold #0" = 0
+	"Brunhilde #0" = -1
+	"Cecily #0" = -1
+	"Cobflaith #0" = -1
+	"Derbáil #0" = -1
+	"Gerrit #0" = 0
+	"Heike #0" = -1
+	"Hildeburg #0" = -1
+	"Julian #0" = 0
+	"Laidíne #0" = 0
+	"Lúcia #0" = -1
+	"Romane #0" = -1
+	"Sancho #0" = 0
+}
+leader_names = {
+	"Angenendt"
+	"Becker"
+	"Becking"
+	"Contze"
+	"Cronenberg"
+	"Dennessen"
+	"Derksen"
+	"Engelbronner"
+	"Holler"
+	"Jenster"
+	"Kroeger"
+	"Meurs"
+	"Nagel"
+	"Rundt"
+	"Sinsteden"
+	"Van Gelder"
+	"von Beinom"
+	"von Oven"
+}
+ship_names = {
+	"Adolf von Kleve"
+	"Agnes"
+	"Arnold I von Kleve"
+	"Arnold II von Kleve"
+	"Dietrich von Kleve"
+	"Elisabeth"
+	"Gerhard von Kleve"
+	"Johann I von Kleve"
+	"Johann II von Kleve"
+	"Margarete"
+	"Mathilde"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

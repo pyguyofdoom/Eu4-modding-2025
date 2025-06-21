@@ -1,0 +1,174 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 20 14 150 }
+revolutionary_colors = { 5 9 0 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	administrative_ideas
+	economic_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Albrecht #1" = 10
+	"Aras #1" = 10
+	"Arni #1" = 10
+	"Buðli #0" = 0
+	"Cathèrine #1" = -1
+	"Dag #0" = 0
+	"Drahoslava #1" = -1
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Froði #1" = 10
+	"Gerðr #0" = -1
+	"Gloð #0" = -1
+	"Grima #0" = -1
+	"Hjalmar #2" = 10
+	"Hrabis #2" = 10
+	"Hrafn #1" = 10
+	"Inga #0" = -1
+	"Jedvard #0" = 0
+	"Kjartan #0" = 0
+	"Lalli #2" = 10
+	"Luule #1" = -1
+	"Maer #0" = -1
+	"Slavomír #1" = 10
+	"Sofia #0" = -1
+	"Steinn #0" = 0
+	"Sturla #0" = 0
+	"Sune #1" = 10
+	"Suni #1" = 10
+	"Swietoslaw #1" = 10
+	"Tautvila #1" = 10
+	"Trojden #1" = 10
+	"Vladimír #1" = 10
+	"Þordis #0" = -1
+}
+leader_names = {
+	"Ascheberg"
+	"Behr"
+	"Bilderling"
+	"Blomberg"
+	"Borch"
+	"Brincken"
+	"Brüggen"
+	"Buchholtz"
+	"Derschau"
+	"Drachenfels"
+	"Düsterlohe"
+	"Engelhardt"
+	"Fircks"
+	"Funck"
+	"Fölkersam"
+	"Grotthuss"
+	"Haaren"
+	"Hahn"
+	"Heyking"
+	"Howen"
+	"Kleist"
+	"Klopmann"
+	"Komorowski"
+	"Koskull"
+	"Lambsdorff"
+	"Mirbach"
+	"Nettelhorst"
+	"Nolcken"
+	"Oelsen"
+	"Offenberg"
+	"Osten-Sacken"
+	"Pahlen"
+	"Raczynski"
+	"Recke"
+	"Ropp"
+	"Rosenberg"
+	"Schlippenbach"
+	"Seefeld"
+	"Stackelberg"
+	"Stromberg"
+	"Taube"
+	"von Altenbockum"
+	"von Bach"
+	"von Boetticher"
+	"von Hoerner"
+	"von Lysander"
+	"von Rummel"
+	"von Schroeders"
+	"von Timroth"
+	"von der Launitz"
+}
+ship_names = {
+	"Aa"
+	"Blumentopf"
+	"Bruno"
+	"Dame"
+	"Das Wappen der Herzogin von Kurland"
+	"Diderick Tork"
+	"Drei Heringe"
+	"Düna"
+	"Franco Kerskorff"
+	"Goldingen"
+	"Hasenpoth"
+	"Herzogenstein"
+	"Hoffnung"
+	"Johannes Ungenade"
+	"Krokodil"
+	"Lynn kurländische Möwe"
+	"Mitau"
+	"Reimar Hane"
+	"Seeburg"
+	"Tukums"
+	"Windau"
+	"von Bockenvorde"
+	"von Breithausen"
+	"von Bürggeneye"
+	"von Dreileben"
+	"von Eltz"
+	"von Endorp"
+	"von Feuchtwangen"
+	"von Fürstenberg"
+	"von Galen"
+	"von Grüningen"
+	"von Hercke"
+	"von Herse"
+	"von Hohembach"
+	"von Hornhausen"
+	"von Jocke"
+	"von Loringhofe"
+	"von Lutterberg"
+	"von Mandern"
+	"von Mengede"
+	"von Monheim"
+	"von Nortecken"
+	"von Overbergen"
+	"von Plettenberg"
+	"von Rassburg"
+	"von Rogga"
+	"von Rutenberg"
+	"von Sangershausen"
+	"von Spanheim"
+	"von Stierland"
+	"von Vietinghof"
+	"von Vrymersheim"
+	"von der Borch"
+	"von der Recke"
+	"von dinkelaghe"
+}

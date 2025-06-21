@@ -1,0 +1,11 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 255 202 3 }
+monarch_names = {
+	"Beladora #0" = -1
+	"Deurhoiarn #0" = 0
+	"Gurceneu #0" = 0
+	"Herri #0" = 0
+	"Hysing #0" = 0
+	"Putrael #0" = 0
+}

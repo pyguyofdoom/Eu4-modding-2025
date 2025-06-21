@@ -1,0 +1,91 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 138 110 130 }
+revolutionary_colors = { 15 0 15 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Acfred #0" = 0
+	"Adrianos #1" = 10
+	"Agne #1" = -1
+	"Alam #1" = 10
+	"Alexandra #0" = -1
+	"Amalrich #1" = 10
+	"Anthemios #1" = 10
+	"Boethios #0" = 0
+	"Chrysogonos #1" = 10
+	"Demetra #1" = -1
+	"Ermengau #1" = 10
+	"Eusebios #0" = 0
+	"Gabrielia #0" = -1
+	"Gregoras #1" = 10
+	"Herakleios #3" = 10
+	"Hypatios #1" = 10
+	"Ioseph #1" = 10
+	"Irmeltrud #1" = -1
+	"Kallinikos #1" = 10
+	"Kyriakos #0" = 0
+	"Milo #0" = 0
+	"Parthena #2" = -1
+	"Paschalis #0" = 0
+	"Petros #2" = 10
+	"Philaretos #0" = 0
+	"Philotheos #1" = 10
+	"Piamun #0" = -1
+	"Rainaut #1" = 10
+	"Symmachos #1" = 10
+	"Theodotos #1" = 10
+}
+leader_names = {
+	"Argyrus"
+	"Artavasdus"
+	"Basileus"
+	"Diogenes"
+	"Ducas"
+	"Monomachus"
+	"Morosini"
+	"Romanus"
+	"Stauracius"
+	"Stratioticus"
+	"Vataces"
+	"Zimisces"
+	"de Vendôme"
+}
+ship_names = {
+	"Dermoaros"
+	"Frangokastelo"
+	"Glalos"
+	"Koudouras"
+	"Lentas"
+	"Matala"
+	"Paleochora"
+	"Papadogiannis"
+	"Plakias"
+	"Sougia"
+}

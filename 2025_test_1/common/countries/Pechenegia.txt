@@ -1,0 +1,162 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 132 108 72 }
+historical_idea_groups = {
+	expansion_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Aba #1" = 10
+	"Adïgh #0" = 0
+	"Agut #0" = 0
+	"Armaiti #0" = -1
+	"Ayasun #0" = -1
+	"Ayten #0" = -1
+	"Azgan #0" = -1
+	"Balgor #1" = 10
+	"Batan #2" = 10
+	"Batas #2" = 10
+	"Bayça #1" = 10
+	"Bizel #2" = 10
+	"Biçkili #1" = 10
+	"Boru #1" = 10
+	"Bula #1" = 10
+	"Bulït #0" = -1
+	"Bumïn #0" = 0
+	"Buqa #0" = 0
+	"Burtam #0" = -1
+	"Buyruq #0" = 0
+	"Börtil #0" = 0
+	"Elbeslik #0" = -1
+	"Esin #0" = -1
+	"Gundes #0" = -1
+	"Gunes #0" = -1
+	"Hua #0" = -1
+	"Ilbilgä #0" = -1
+	"Ilkay #0" = -1
+	"Inançu #1" = 10
+	"Ipa #1" = 10
+	"Irge #0" = -1
+	"Jüzyapïq #0" = 0
+	"Kabuksin #1" = 10
+	"Kara #0" = 0
+	"Karacik #1" = -1
+	"Kaydum #1" = 10
+	"Ketim #0" = 0
+	"Khojin #0" = -1
+	"Kishan #0" = -1
+	"Korkutan #1" = 10
+	"Kuerçi #1" = 10
+	"Kugel #1" = 10
+	"Kül #0" = 0
+	"Küçlüg #0" = 0
+	"Nanaifarn #0" = 0
+	"Ontutuq #0" = 0
+	"Orbei #0" = -1
+	"Otqan #0" = -1
+	"Qunï #0" = 0
+	"Sarica #0" = -1
+	"Sarïgha #0" = -1
+	"Sernyava #0" = -1
+	"Sevindik #0" = -1
+	"Señram #0" = 0
+	"Shayn #0" = -1
+	"Shümül #0" = 0
+	"Sol #1" = 10
+	"Suru #1" = 10
+	"Tamgaç #1" = 10
+	"Tamghançur #0" = 0
+	"Tekine #0" = -1
+	"Terek #0" = -1
+	"Teñriken #0" = -1
+	"Tirig #0" = 0
+	"Toghrïl #0" = 0
+	"Tograk #0" = -1
+	"Tojgan #0" = 0
+	"Tunyuquq #0" = 0
+	"Tura #0" = -1
+	"Tyrach #2" = 10
+	"Tüzmish #0" = 0
+	"Uruñ #0" = 0
+	"Yarïsh #0" = 0
+	"Yasar #0" = -1
+	"Yildiz #0" = -1
+	"Yolluq #0" = 0
+	"Yïlgun #0" = -1
+	"Çelgil #2" = 10
+	"Çeçek #0" = -1
+	"Ïshbara #0" = 0
+	"Örüñ #0" = -1
+	"Özlem #0" = -1
+}
+leader_names = {
+	"Bayangge"
+	"Boke Temur"
+	"Bora Chinua"
+	"Chinuagene"
+	"Delger Bayar"
+	"Koke Burilgi"
+	"Nasange"
+	"Qutlugh Vachir"
+	"Qutughqan"
+	"Shria Gan"
+	"Suren Chinua"
+	"Surenchar"
+	"Temur-chi"
+	"Toluilun"
+}
+ship_names = {
+	"Abdallah"
+	"Baraq"
+	"Batu"
+	"Berdi Beg"
+	"Berke"
+	"Dawlat Berdi"
+	"Ediguh"
+	"Jabbar Berdi"
+	"Jalal ad-Din"
+	"Jani Beg"
+	"Karim Berdi"
+	"Kebek"
+	"Khidr"
+	"Mamai Khan"
+	"Mengu-Timur"
+	"Muhammad Bolak"
+	"Nawruz Beg"
+	"Nogai Khan"
+	"Polad Khan"
+	"Qulpa"
+	"Sartaq"
+	"Sayud Ahmad"
+	"Shadi Beg"
+	"Talabuga"
+	"TemÃ¼r"
+	"TemÃ¼r Qutlugh"
+	"Timur Khwaja"
+	"Tini Beg"
+	"Tokhta"
+	"Toqtamish"
+	"Tuda-Mengu"
+	"Ulaghchi"
+	"Ulugh Muhammad"
+	"Ã–z Beg"
+}

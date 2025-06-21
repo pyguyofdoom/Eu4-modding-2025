@@ -1,0 +1,113 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 84 124 48 }
+revolutionary_colors = { 5 1 0 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbert #1" = 10
+	"Adela #1" = -1
+	"Ales #0" = 0
+	"Arnulf #0" = 0
+	"Bedrich #0" = 0
+	"Beorhtric #1" = 10
+	"Bohemond #1" = 10
+	"Borijov #0" = 0
+	"Cenek #0" = 0
+	"Diepold #0" = 0
+	"Domawuj #1" = 10
+	"Gertruda #1" = -1
+	"Gundemar #1" = 10
+	"Géraud #1" = 10
+	"Isabeau #1" = -1
+	"Karl #0" = 0
+	"Kuník #0" = 0
+	"Libuse #0" = -1
+	"Maertijn #2" = 10
+	"Olga #0" = -1
+	"Petr #1" = 10
+	"Pribyslava #0" = -1
+	"Rajmund #1" = 10
+	"Sobieslav #0" = 0
+	"Vilemína #0" = -1
+	"Vitomir #1" = 10
+	"Václav #0" = 0
+	"Wistan #1" = 10
+	"Æthelberht #1" = 10
+}
+leader_names = {
+	"Baten"
+	"Bombeck"
+	"Boymann"
+	"Bremer"
+	"Breucker"
+	"Buschmann"
+	"Bühmer"
+	"Diekmann"
+	"Eckrath"
+	"Fischedick"
+	"Fortkamp"
+	"Glaser"
+	"Grüter"
+	"Hegemann"
+	"Kappenberg"
+	"Knümann"
+	"Leggewe"
+	"Liesenfeld"
+	"Limberg"
+	"Lochtkemper"
+	"Lohe"
+	"Lohmann"
+	"Nathrath"
+	"Ortmann"
+	"Perdekamp"
+	"Pickenbrock"
+	"Sankühler"
+	"Springmann"
+	"Stenkhoff"
+	"Stratmann"
+	"Wessels"
+	"von Wedich"
+	"von Westerburg"
+}
+ship_names = {
+	"Agger"
+	"Bischof Hildebold"
+	"Engelbert II"
+	"Erbischof Anno"
+	"Erft"
+	"Erzbischof Brun"
+	"Erzbischof Gero"
+	"Erzbischof Gunthar"
+	"Konrad Hochstaden"
+	"Rainald von Dassel"
+	"Rhein"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Erzbischofliche Garde"
+}

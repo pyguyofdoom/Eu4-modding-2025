@@ -1,0 +1,257 @@
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="KOR"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="RYU"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="DAI"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="AYU"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="CHA"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="LXA"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="KHM"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="MMA"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="MLC"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="PGS"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="TDO"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="MJZ"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="YUA"
+	second="MHX"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="KRK"
+	second="Z75"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="NBI"
+	second="ALO"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="RJP"
+	second="Z14"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="Z07"
+	second="Z19"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="SIB"
+	second="X97"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="Z07"
+	second="MLO"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="RIG"
+	second="Z95"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="RIG"
+	second="X13"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="RIG"
+	second="W40"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="RIG"
+	second="WLS"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="ALS"
+	second="Y66"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="PUN"
+	second="KSH"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="X90"
+	second="SLZ"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="X90"
+	second="Y29"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="ASU"
+	second="SAR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="Z02"
+	second="Z04"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HAU"
+	second="MOR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+

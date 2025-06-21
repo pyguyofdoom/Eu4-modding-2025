@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = ryazanian
+capital = 297
+fixed_capital = 297
+1444.11.11= {
+	add_prestige = -27
+	add_treasury = 56
+}

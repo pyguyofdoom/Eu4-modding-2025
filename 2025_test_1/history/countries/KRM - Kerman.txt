@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = beylik_government
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = kurdish
+capital = 432
+fixed_capital = 432
+add_accepted_culture = persian
+1444.11.11= {
+	monarch = {
+		name = "Mozaffar"
+		dynasty = "Mozaffarid"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1426.11.6
+		religion = sunni
+		culture = kurdish
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Ahu"
+		dynasty = "Keykhosrau"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = KRM
+		birth_date = 1426.6.27
+		death_date = 1486.6.27
+		female = yes
+		religion = sunni
+		culture = persian
+	}
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = sinner_personality
+	heir = {
+		name = "Cehangir"
+		monarch_name = "Cehangir"
+		dynasty = "Mozaffarid"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1443.10.28
+		death_date = 1508.10.28
+		claim = 89
+		religion = sunni
+		culture = kurdish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 0
+	add_treasury = 60
+}

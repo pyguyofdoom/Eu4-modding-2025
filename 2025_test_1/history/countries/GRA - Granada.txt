@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = muslim
+religion = norse_pagan_reformed
+primary_culture = tunisian
+capital = 2455
+1444.11.11= {
+	monarch = {
+		name = "Leon"
+		dynasty = "de Blanchegard"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1401.2.25
+		religion = norse_pagan_reformed
+		culture = tunisian
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	queen = {
+		name = "Nadia"
+		dynasty = "Razinid"
+		adm = 2
+		dip = 6
+		mil = 4
+		country_of_origin = GRA
+		birth_date = 1379.12.22
+		death_date = 1439.12.22
+		female = yes
+		religion = norse_pagan_reformed
+		culture = andalucian
+	}
+	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 10
+	add_treasury = 60
+}

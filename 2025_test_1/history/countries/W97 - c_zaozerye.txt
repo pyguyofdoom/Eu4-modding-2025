@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = norse_pagan_reformed
+primary_culture = holmgardrian
+capital = 4261
+fixed_capital = 4261
+add_accepted_culture = karelian
+1444.11.11= {
+	monarch = {
+		name = "Ingjald"
+		dynasty = "Inger"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1406.6.2
+		religion = norse_pagan_reformed
+		culture = holmgardrian
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Alfrið"
+		dynasty = "Toki"
+		adm = 2
+		dip = 2
+		mil = 3
+		country_of_origin = W97
+		birth_date = 1389.11.11
+		death_date = 1449.11.11
+		female = yes
+		religion = norse_pagan_reformed
+		culture = holmgardrian
+	}
+	add_queen_personality = benevolent_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Asa"
+		monarch_name = "Asa"
+		dynasty = "Inger"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 1424.12.5
+		death_date = 1489.12.5
+		female = yes
+		claim = 89
+		religion = norse_pagan_reformed
+		culture = holmgardrian
+	}
+	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = secretive_personality
+}
+1444.11.11= {
+	add_prestige = 25
+	add_treasury = 55
+}

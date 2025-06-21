@@ -1,0 +1,104 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 255 213 51 }
+revolutionary_colors = { 4 8 4 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Akakios #1" = 10
+	"Alp #1" = 10
+	"Andronikos #1" = 10
+	"Anna #0" = -1
+	"Anthemios #1" = 10
+	"Antonios #0" = 0
+	"Athanasios #1" = 10
+	"Carlo #1" = 10
+	"Chrysogonos #1" = 10
+	"Eirenaios #0" = 0
+	"Eskild #1" = 10
+	"Eudoxios #0" = 0
+	"Eugenia #0" = -1
+	"Euphrosyne #0" = -1
+	"Ezio #1" = 10
+	"Filomena #1" = -1
+	"Gregoras #1" = 10
+	"Helene #0" = -1
+	"Hypatios #1" = 10
+	"Isaias #0" = 0
+	"Komitas #1" = 10
+	"Kyriake #0" = -1
+	"Laurentios #0" = 0
+	"Lazaros #0" = 0
+	"Marko #1" = 10
+	"Matthaios #1" = 10
+	"Nikephoros #1" = 10
+	"Nikoletta #0" = -1
+	"Nonna #1" = -1
+	"Oddone #1" = 10
+	"Olafr #1" = 10
+	"Pantoleon #0" = 0
+	"Parthena #1" = -1
+	"Petros #2" = 10
+	"Sabas #1" = 10
+	"Simonis #1" = -1
+	"Theodoros #0" = 0
+	"Theodosia #1" = -1
+	"Timotheos #0" = 0
+	"Xene #0" = -1
+	"Zacharias #0" = 0
+}
+leader_names = {
+	"Angelus"
+	"Asan"
+	"Branas"
+	"Cantacuzene"
+	"Comnenus"
+	"Ducas"
+	"Mavros"
+	"Notaras"
+	"Palaeologus"
+	"Phocas"
+	"Raoul"
+	"Spagnoli"
+	"Sphrantzes"
+	"Tocco"
+	"Zaccaria"
+}
+ship_names = {
+	"Agios Kyprianos"
+	"Areopoli"
+	"Elika"
+	"Geronlimenas"
+	"Gytheio"
+	"Kardamyli"
+	"Kokkala"
+	"Kotronas"
+	"Skoutari"
+	"Vathia"
+}

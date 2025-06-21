@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 181 155 75 }
+monarch_names = {
+	"Aselaya #0" = -1
+	"Cadana #0" = -1
+	"Devarakita #0" = -1
+	"Gajabahu #0" = 0
+	"Kalyanavati #0" = -1
+	"Kubira #0" = -1
+	"Lilavati #0" = -1
+	"Nirmala #0" = 0
+	"Pamatissa #0" = -1
+	"Parakkamabahu #0" = 0
+	"Sanghamitta #0" = 0
+	"Sanghatissa #0" = 0
+	"Sankha #0" = 0
+	"Sena #0" = 0
+	"Sugula #0" = -1
+	"Suri #0" = -1
+	"Udaya #0" = 0
+	"Vepali #0" = 0
+	"Vikrama #0" = 0
+	"Yahasaya #0" = -1
+}

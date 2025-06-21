@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = norse_pagan_reformed
+primary_culture = marisbaltician
+capital = 36
+add_accepted_culture = estonian
+1444.11.11= {
+	monarch = {
+		name = "Rikulfr"
+		dynasty = "Stormfiend"
+		adm = 4
+		dip = 2
+		mil = 6
+		birth_date = 1402.7.27
+		religion = norse_pagan_reformed
+		culture = marisbaltician
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = careful_personality
+	queen = {
+		name = "Katarina"
+		dynasty = "af Suomi"
+		adm = 3
+		dip = 5
+		mil = 3
+		country_of_origin = EST
+		birth_date = 1399.9.1
+		death_date = 1459.9.1
+		female = yes
+		religion = norse_pagan_reformed
+		culture = marisbaltician
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Aslaug"
+		monarch_name = "Aslaug"
+		dynasty = "Stormfiend"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1432.7.2
+		death_date = 1497.7.2
+		female = yes
+		claim = 89
+		religion = norse_pagan_reformed
+		culture = marisbaltician
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = cruel_personality
+}
+1444.11.11= {
+	add_prestige = 70
+	add_treasury = 39
+}

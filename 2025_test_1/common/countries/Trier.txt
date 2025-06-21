@@ -1,0 +1,111 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 208 104 44 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Abbán #0" = 0
+	"Adalhard #0" = 0
+	"Ailill #0" = 0
+	"Audoïn #0" = 0
+	"Badeloge #0" = -1
+	"Baldarich #0" = 0
+	"Bavor #0" = 0
+	"Bòna #0" = -1
+	"Cailte #0" = 0
+	"Crínóch #0" = -1
+	"Dirk #0" = 0
+	"Doumenge #0" = 0
+	"Dub-Dil #0" = -1
+	"Effros #0" = -1
+	"Emmanuèl #0" = 0
+	"Eufèmia #0" = -1
+	"Flamula #0" = -1
+	"Gundemar #0" = 0
+	"Gwijde #0" = 0
+	"Ide #0" = -1
+	"Kamila #0" = -1
+	"Kettil #0" = 0
+	"Láegaire #0" = 0
+	"Masinissa #0" = 0
+	"Merfyn #0" = 0
+	"Murad #0" = 0
+	"Otto #0" = 0
+	"Otwin #0" = 0
+	"Pelagio #0" = 0
+	"Perinne #0" = -1
+	"Petro #0" = 0
+	"Pieter #0" = 0
+	"Premysl #0" = 0
+	"Resmen #0" = 0
+	"Ruaidrí #0" = 0
+	"Sadb #0" = -1
+	"Theodolf #0" = 0
+	"Ugues #0" = 0
+	"Veremondo #0" = 0
+	"Yvon #0" = -1
+}
+leader_names = {
+	"Backes"
+	"Corgell"
+	"Dahnfels"
+	"Feltes"
+	"Haerig"
+	"Hecker"
+	"Herrich"
+	"Kettler"
+	"Lohmann"
+	"Longnich"
+	"Pinkernell"
+	"Schmitt"
+	"Tristant"
+	"Wellner"
+	"Zimmer"
+}
+ship_names = {
+	"Aach"
+	"Gusterath"
+	"Hockweiler"
+	"Igel"
+	"Kasel"
+	"Kenn"
+	"Kordel"
+	"Korlingen"
+	"Longuich"
+	"Mertesdorf"
+	"Morscheid"
+	"Newel"
+	"Schweich"
+	"Waldrach"
+	"Zemmer"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Erzbischofliche Garde"
+}

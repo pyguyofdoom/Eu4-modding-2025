@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = vajrayana
+primary_culture = karluk
+capital = 465
+1444.11.11= {
+	monarch = {
+		name = "Tekesh II"
+		dynasty = "Burtamid"
+		adm = 5
+		dip = 4
+		mil = 6
+		birth_date = 1403.5.9
+		religion = vajrayana
+		culture = karluk
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Ilbeslik"
+		dynasty = "Alïptegin"
+		adm = 2
+		dip = 2
+		mil = 2
+		country_of_origin = NOG
+		birth_date = 1401.5.1
+		death_date = 1461.5.1
+		female = yes
+		religion = vajrayana
+		culture = karluk
+	}
+	add_queen_personality = naive_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Qutlugh"
+		monarch_name = "Qutlugh"
+		dynasty = "Burtamid"
+		adm = 1
+		dip = 1
+		mil = 0
+		birth_date = 1441.9.11
+		death_date = 1506.9.11
+		claim = 89
+		religion = vajrayana
+		culture = karluk
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = -50
+	add_treasury = 53
+}

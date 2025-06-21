@@ -1,0 +1,25 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = uralic
+capital = 1777
+1444.11.11= {
+	monarch = {
+		name = "Falki II"
+		dynasty = "Bleik"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1415.5.24
+		religion = finnish_pagan
+		culture = uralic
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 47
+	add_treasury = 55
+}

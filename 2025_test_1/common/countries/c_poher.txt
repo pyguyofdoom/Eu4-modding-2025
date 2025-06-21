@@ -1,0 +1,13 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 133 84 19 }
+monarch_names = {
+	"Beatritz #0" = -1
+	"Brigualt #0" = 0
+	"Brochuael #0" = 0
+	"Budguoret #0" = 0
+	"Congar #0" = 0
+	"Iumael #0" = 0
+	"Morguethen #0" = 0
+	"Ralf #0" = 0
+}

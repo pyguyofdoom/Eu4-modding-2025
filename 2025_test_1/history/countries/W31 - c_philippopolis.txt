@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = greek
+capital = 147
+fixed_capital = 147
+1444.11.11= {
+	add_prestige = 24
+	add_treasury = 66
+}

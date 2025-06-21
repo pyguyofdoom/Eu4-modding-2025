@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 255 90 20 }
+monarch_names = {
+	"Asbjörn #0" = 0
+	"Caradoc #0" = 0
+	"Conan #0" = 0
+	"Donuallon #0" = 0
+	"Ennoguent #0" = -1
+	"Iunmonoc #0" = 0
+	"Janed #0" = -1
+	"Riuallon #0" = 0
+	"Vagn #0" = 0
+}

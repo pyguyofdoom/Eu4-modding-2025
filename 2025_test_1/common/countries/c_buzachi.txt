@@ -1,0 +1,27 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 140 150 38 }
+monarch_names = {
+	"Artuç #0" = -1
+	"Azgan #0" = -1
+	"Beslik #0" = -1
+	"Elbeslik #0" = -1
+	"Eneligçur #0" = 0
+	"Eshinke #0" = 0
+	"Jämï #0" = 0
+	"Maqraç #0" = 0
+	"Otqan #0" = -1
+	"Saghunaq #0" = 0
+	"Tabgaç #0" = 0
+	"Teçush #0" = -1
+	"Tograk #0" = -1
+	"Udur #0" = 0
+	"Umay #0" = -1
+	"Yiltïs #0" = -1
+	"Yïgash #0" = -1
+	"Yïlqï #0" = -1
+	"Çeçem #0" = 0
+	"Örüñ #0" = -1
+	"Ötüken #0" = -1
+	"Ükükün #0" = -1
+}

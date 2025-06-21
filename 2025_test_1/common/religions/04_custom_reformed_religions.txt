@@ -1,0 +1,141 @@
+pagan = {
+	hellenic_pagan_reformed = {
+		icon = 58
+		color = { 153 26 26 }
+		country = {
+			
+
+		shock_damage = 0.1
+	
+
+		stability_cost_modifier = -0.1
+		global_unrest = -1
+	
+		}
+		province = {
+			
+		}
+				country_as_secondary = {
+			
+
+		stability_cost_modifier = -0.1
+	
+		}
+		
+		
+		heretic = {  GOAT_SKULL  }
+	}
+	norse_pagan_reformed = {
+		icon = 21
+		color = { 191 191 191 }
+		country = {
+			
+
+		shock_damage = 0.1
+	
+
+		female_advisor_chance = -0.9
+	
+
+		stability_cost_modifier = -0.1
+		global_unrest = -1
+	
+
+		global_missionary_strength = 0.02
+		tolerance_heathen = -1
+	
+		}
+		province = {
+			
+		}
+				country_as_secondary = {
+			
+
+		shock_damage_received = -0.1
+	
+
+		stability_cost_modifier = -0.1
+	
+		}
+		
+		
+		heretic = {  OLD_NORSE  }
+	}
+	tengri_pagan_reformed = {
+		icon = 27
+		color = { 25 76 217 }
+		country = {
+			
+
+		heir_chance = 1
+	
+
+		ae_impact = -0.1
+	
+
+		global_autonomy = -0.05
+	
+
+		female_advisor_chance = 0.5
+	
+		}
+		province = {
+			
+		}
+				country_as_secondary = {
+			
+
+		heir_chance = 1
+	
+
+		ae_impact = -0.1
+	
+
+		global_autonomy = -0.05
+	
+
+		female_advisor_chance = 0.5
+		fire_damage_received = -0.1
+	
+		}
+		
+		
+
+		may_recruit_female_generals = yes
+	
+		heretic = {  GOAT_SKULL  }
+	}
+	west_african_pagan_reformed = {
+		icon = 52
+		color = { 255 160 0 }
+		country = {
+			
+
+		heir_chance = 1
+	
+
+		global_missionary_strength = 0.02
+		tolerance_heathen = -1
+	
+
+		diplomatic_reputation = 1
+	
+		}
+		province = {
+			
+		}
+				country_as_secondary = {
+			
+
+		heir_chance = 1
+	
+
+		diplomatic_reputation = 1
+	
+		}
+		
+		
+		heretic = {  GOAT_SKULL  }
+	}
+	
+}

@@ -1,0 +1,87 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 178 103 5 }
+revolutionary_colors = { 0 5 5 }
+historical_idea_groups = {
+	diplomatic_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Ardahan #2" = 10
+	"Ardeshir #2" = 10
+	"Assad #1" = 10
+	"Ayeshah #1" = 10
+	"Darab #1" = 10
+	"Delbar #0" = -1
+	"Faramarz #1" = 10
+	"Farnaz #0" = -1
+	"Farrukhzad #0" = 0
+	"Farva #0" = -1
+	"Fereedun #1" = 10
+	"Hafiz #1" = 10
+	"Humayun #1" = 10
+	"Jamshid #1" = 10
+	"Kambiz #1" = 10
+	"Kavadh #1" = 10
+	"Mahdi #2" = 10
+	"Mahtab #0" = -1
+	"Mehrab #2" = 10
+	"Mehrzad #1" = 10
+	"Naveed #1" = 10
+	"Navvaba #0" = -1
+	"Nazgul #0" = -1
+	"Peroz #0" = 0
+	"Reza #1" = 10
+	"Ruhollah #1" = 10
+	"Shahbaz #0" = 0
+	"Shahram #0" = 0
+	"Shahryar #0" = 0
+	"Shahrzad #0" = -1
+	"Sholah #1" = -1
+	"Vishtasb #0" = 0
+}
+leader_names = {
+	"Al-Karachi"
+	"Al-Muwalid"
+	"Anwar"
+	"Atef"
+	"Faraj"
+	"Ismail"
+	"Madari"
+	"Saleh"
+	"Siham"
+}
+ship_names = {
+	"Abu Ali"
+	"Ad-Dammam"
+	"Al-Ahsa"
+	"Al-Jubayl"
+	"Al-Khubar"
+	"Al-Quatif"
+	"Al-Zahran"
+	"An-Naqirah"
+	"As-Saffaniyah"
+	"Hofuf"
+	"Ra's Al-Mish'ab"
+	"Ra's Tannurah"
+	"Wabrah"
+}

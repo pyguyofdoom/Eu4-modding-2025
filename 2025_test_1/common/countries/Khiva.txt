@@ -1,0 +1,124 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 210 175 60 }
+revolutionary_colors = { 10 1 10 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quality_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_cavalry_archers
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	shaybani
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Ahmad #1" = 10
+	"Ajinai #1" = 10
+	"Alchi #0" = 0
+	"Altani #0" = -1
+	"Amin #1" = 10
+	"Arnaz #1" = 10
+	"Aymort #1" = 10
+	"Azgan #0" = -1
+	"Bagaridai #0" = 0
+	"Bolkhadar #0" = 0
+	"Boru #0" = 0
+	"Bukha #0" = 0
+	"Burmort #1" = 10
+	"Chonggui #0" = 0
+	"Chormakhan #0" = 0
+	"Chotan #0" = -1
+	"Dashi #0" = 0
+	"Dinah #0" = -1
+	"Donyö #0" = 0
+	"Esma'il #1" = 10
+	"Farhad #2" = 10
+	"Farnaz #1" = -1
+	"Gulay #0" = -1
+	"Hafez #0" = 0
+	"Irge #0" = -1
+	"Jamileh #0" = -1
+	"Jamugha #0" = 0
+	"Kegen #0" = 0
+	"Khal #0" = 0
+	"Kharmandar #1" = 10
+	"Khrimalod #0" = -1
+	"Khugurchin #0" = -1
+	"Mongke #0" = 0
+	"Nabtiko #1" = 10
+	"Naveed #0" = 0
+	"Nuyanza #1" = 10
+	"Okhotur #0" = 0
+	"Orbei #1" = -1
+	"Ozhmeg #1" = 10
+	"Pakstyan #1" = 10
+	"Parween #0" = -1
+	"Pyera #1" = 10
+	"Rateg #2" = 10
+	"Ruhollah #0" = 0
+	"Setyamka #2" = 10
+	"Shirgugetu #0" = 0
+	"Sokhatai #0" = -1
+	"Targhutai #0" = 0
+	"Todogen #0" = 0
+	"Tolui #1" = 10
+	"Tyutyuk #1" = 10
+	"Töregene #0" = -1
+	"Viryas #1" = 10
+	"Yokhunan #0" = 0
+	"Zakaria #1" = 10
+}
+leader_names = {
+	"Arighqan"
+	"Batulun"
+	"Batutai"
+	"Bayan Arslan"
+	"Bayarnai"
+	"Bokejin"
+	"Bora Tolui"
+	"Burilgiteni"
+	"Mongke Bayar"
+	"Mongke Cheren"
+	"Oyugun Nasan"
+	"Qadancher"
+	"Subegene"
+	"Suren Chinua"
+	"Tegusdai"
+	"Yekedei"
+}
+ship_names = {
+	"Abu Hasan Ali"
+	"Abu Mamun"
+	"Ahmed Sanjar"
+	"Ala Aziz"
+	"Ala Takish"
+	"Altun Yash"
+	"Amu Darya"
+	"Anush Tigin"
+	"Bukhara"
+	"Din Muhammad"
+	"Harun"
+	"Ismail Khandan"
+	"Jalal Mingburnu"
+	"Jaxartes"
+	"Khwarezm"
+	"Kunya"
+	"Syr Darya"
+	"Urganj"
+	"Yelu Dashi"
+}

@@ -1,0 +1,99 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 224 74 54 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Aakrama #1" = 10
+	"Ahmad #1" = 10
+	"Akbar #0" = 0
+	"Anoushiravan #2" = 10
+	"Ardavan #0" = 0
+	"Ardeshir #0" = 0
+	"Arghavan #0" = -1
+	"Aryo #1" = 10
+	"Assad #1" = 10
+	"Bahulu #0" = 0
+	"Behrad #0" = 0
+	"Butuga #0" = 0
+	"Darab #0" = 0
+	"Delbar #0" = -1
+	"Dinah #0" = -1
+	"Doda #0" = 0
+	"Fath #1" = 10
+	"Ferdows #1" = 10
+	"Gholam #0" = 0
+	"Godarz #0" = 0
+	"Golbahar #0" = -1
+	"Golpari #0" = -1
+	"Goshtasb #2" = 10
+	"Govinda #0" = 0
+	"Hazarasp #0" = 0
+	"Hedayat #0" = 0
+	"Jahangir #0" = 0
+	"Jamshid #0" = 0
+	"Javaneh #0" = -1
+	"Jayasimha #0" = 0
+	"Jehanzaib #1" = 10
+	"Khashayar #1" = 10
+	"Khosrau #1" = 10
+	"Khudayar #0" = 0
+	"Laxmidevi #0" = -1
+	"Madhavi #0" = -1
+	"Mahdokht #0" = -1
+	"Mehrab #2" = 10
+	"Painda #1" = 10
+	"Roxana #0" = -1
+	"Rupadevi #0" = -1
+	"Sadri #0" = 0
+	"Shabahang #1" = -1
+	"Shahram #0" = 0
+	"Shirin #0" = -1
+	"Sina #1" = 10
+	"Zeynab #0" = -1
+}
+leader_names = {
+	"Ali"
+	"Bali"
+	"Karawi"
+	"Khan"
+	"Mirza"
+	"Nawaz"
+	"Quli"
+	"Tadj"
+	"Wali"
+	"Zaman"
+}
+ship_names = {
+	"Badam"
+	"Bardeskan"
+	"Dasht"
+	"Deyhuk"
+	"Germi"
+	"Jandaq"
+	"Khvor"
+	"Kondor"
+	"Tabas"
+	"Torud"
+}

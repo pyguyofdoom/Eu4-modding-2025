@@ -1,0 +1,140 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 78 75 39 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+}
+historical_units = {
+	anglofrench_line
+	french_caracolle
+	french_dragoon
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aaron #0" = 0
+	"Adelfonso #0" = 0
+	"Alain #1" = 10
+	"Alberico #1" = 10
+	"Alexios #0" = 0
+	"Antoniotto #1" = 10
+	"Artemio #0" = 0
+	"Aymar #0" = 0
+	"Azzo #1" = 10
+	"Benoîte #0" = -1
+	"Charlotte #0" = -1
+	"Csák #1" = 10
+	"David #0" = 0
+	"Dema #0" = -1
+	"Demmán #1" = 10
+	"Dergun #0" = 0
+	"Dragoman #0" = 0
+	"Eriprando #0" = 0
+	"Eudes #1" = 10
+	"Ferruccio #0" = 0
+	"Gauthier #1" = 10
+	"Gelduin #0" = 0
+	"Gilbert #1" = 10
+	"Gilpatrick #1" = 10
+	"Gisèle #0" = -1
+	"Guenhael #1" = 10
+	"Guichard #1" = 10
+	"Guiges #0" = 0
+	"Havel #0" = 0
+	"Helvis #0" = -1
+	"Hocar #0" = 0
+	"Hélie #0" = 0
+	"Innocenzo #0" = 0
+	"Isabeau #0" = -1
+	"Jaromír #1" = 10
+	"Khalil #0" = 0
+	"Malyaka #0" = 0
+	"Mugrón #1" = 10
+	"Onni #1" = 10
+	"Pernelle #0" = -1
+	"Pernette #0" = -1
+	"Raphail #1" = 10
+	"Richard #1" = 10
+	"Sebastianos #0" = 0
+	"Simeon #0" = 0
+	"Spytihnev #1" = 10
+	"Thomas #0" = 0
+	"Valerios #0" = 0
+	"Éléonore #0" = -1
+}
+leader_names = {
+	"Arenberg"
+	"Bragadin"
+	"Crispo"
+	"Doria"
+	"Douglas"
+	"Duncan"
+	"Fadrigue"
+	"Hagedorn"
+	"Le Tellier"
+	"Lusignans"
+	"Maxwell"
+	"Melissinos"
+	"Minucci"
+	"Paleologi Montferrato"
+	"Pallavicini"
+	"Paradisi"
+	"Petrucci"
+	"Pico"
+	"Pignatelli"
+	"Plethon"
+	"Rendis"
+	"Saraceno"
+	"Sauerzapff"
+	"SchrÃ¼der"
+	"Selkirk"
+	"Stichsenstein"
+	"Sulerzycki"
+	"Tocco"
+	"dalla Rosa"
+	"de La Barthe"
+	"de La Ferrandie"
+	"de La GalissoniÃ¨re"
+	"de La Mothe"
+	"de La Motte d'Airan"
+	"de La Porte"
+	"de LhÃ©ry"
+	"de Luynes"
+	"della Rovere"
+	"di Paesana"
+}
+ship_names = {
+	"Absolution"
+	"Avenger"
+	"Baldwin's Gate"
+	"Crusader"
+	"God Will Know His Own"
+	"Guardian"
+	"Hammer of God"
+	"Paladin"
+	"Pilgrim"
+	"Purifier"
+	"The Cleansing"
+	"The Faithful"
+	"The Grail"
+	"The Holy Cross"
+	"The Rapture"
+	"The Scourge"
+	"True Believer"
+	"Vindicator"
+}

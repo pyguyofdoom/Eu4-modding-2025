@@ -1,0 +1,27 @@
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 1769
+add_accepted_culture = czech
+add_accepted_culture = slovene
+1444.11.11= {
+	monarch = {
+		name = "Eudes"
+		dynasty = "Diószegi"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1399.10.10
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11= {
+	add_prestige = 28
+	add_treasury = 75
+}

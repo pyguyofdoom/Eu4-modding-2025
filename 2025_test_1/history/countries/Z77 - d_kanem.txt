@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = west_african_pagan_reformed
+primary_culture = hausa
+capital = 1158
+1444.11.11= {
+	monarch = {
+		name = "Nasir III"
+		dynasty = "Kufena"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1406.8.14
+		religion = west_african_pagan_reformed
+		culture = hausa
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = fierce_negotiator_personality
+	queen = {
+		name = "Habibah"
+		dynasty = "Kufena"
+		adm = 3
+		dip = 4
+		mil = 1
+		country_of_origin = Z77
+		birth_date = 1402.6.17
+		death_date = 1462.6.17
+		female = yes
+		religion = west_african_pagan_reformed
+		culture = hausa
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Salim"
+		monarch_name = "Salim"
+		dynasty = "Kufena"
+		adm = 0
+		dip = 1
+		mil = 0
+		birth_date = 1437.8.13
+		death_date = 1502.8.13
+		claim = 89
+		religion = west_african_pagan_reformed
+		culture = hausa
+	}
+	add_heir_personality = babbling_buffoon_personality
+	add_heir_personality = infertile_personality
+}
+1444.11.11= {
+	add_prestige = 43
+	add_treasury = 60
+}

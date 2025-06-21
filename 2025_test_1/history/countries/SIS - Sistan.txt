@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = beylik_government
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = khorasani
+capital = 435
+1444.11.11= {
+	add_prestige = -11
+	add_treasury = 70
+	add_loan = {
+		interest_modifier = 0.06 #Plus the default 4% = 10% of usury
+		fixed_interest = 1
+		duration = 60
+	}
+}

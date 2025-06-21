@@ -1,0 +1,130 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 117 161 67 }
+revolutionary_colors = { 8 5 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	halberd_infantry
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aarto #1" = 10
+	"Adalbero #1" = 10
+	"Adelheid #0" = -1
+	"Agathe #0" = -1
+	"Alajos #1" = 10
+	"Arnost #0" = 0
+	"Baldarich #0" = 0
+	"Balin #0" = 0
+	"Balázs #1" = 10
+	"Barbara #1" = -1
+	"Basso #0" = 0
+	"Christopher #2" = 10
+	"Derborgaill #0" = -1
+	"Ermengard #0" = -1
+	"Euphemios #1" = 10
+	"Ezio #1" = 10
+	"Folkmar #0" = 0
+	"Friedrica #0" = -1
+	"Fíachnae #0" = 0
+	"Georg #1" = 10
+	"Hedwig #0" = -1
+	"Helferich #3" = 10
+	"Hildegard #0" = -1
+	"Hypatios #0" = 0
+	"Iouliana #0" = -1
+	"Ioustinos #1" = 10
+	"Jakob #0" = 0
+	"Jirík #0" = 0
+	"Johann #1" = 10
+	"Jürgen #0" = 0
+	"Kallinikos #1" = 10
+	"Karlotte #0" = -1
+	"Liutpold #0" = 0
+	"Milic #1" = 10
+	"Padern #1" = 10
+	"Pol #1" = 10
+	"Prokop #0" = 0
+	"Prokopios #0" = 0
+	"Robrecht #0" = 0
+	"Umberto #0" = 0
+	"Václav #0" = 0
+	"Vítek #0" = 0
+	"Welf #1" = 10
+	"Wenzel #1" = 10
+	"Závis #0" = 0
+}
+leader_names = {
+	"Albers"
+	"Baehr"
+	"Beer"
+	"Benthens"
+	"Breh"
+	"Bächtold"
+	"Eisenkolb"
+	"Erb"
+	"Ferstenfeld"
+	"Fischer"
+	"Grether"
+	"Göhringer"
+	"Heitzmann"
+	"Helff"
+	"Kempf"
+	"Klee"
+	"Mackensen"
+	"Römermann"
+	"Schüßler"
+	"Steinmann"
+	"Tientjen"
+	"Tuve"
+	"Wachsmuth"
+}
+ship_names = {
+	"Bretten"
+	"Bruchsal"
+	"Constance"
+	"Eberbach"
+	"Feldberg"
+	"Freiburg"
+	"Heidelberg"
+	"Karlsruhe"
+	"Kinzig"
+	"Lahr"
+	"Linzgau"
+	"Lörrach"
+	"Mannheim"
+	"Markgraf Bernard I"
+	"Markgraf Hermann"
+	"Markgraf Karl I"
+	"Offenburg"
+	"Rastatt"
+	"Rhein"
+	"Tauber"
+	"Villingen"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Markgräfische Garde"
+}

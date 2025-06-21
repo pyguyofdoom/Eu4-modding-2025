@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = norse_pagan_reformed
+primary_culture = norwegian
+capital = 10
+1444.11.11= {
+	monarch = {
+		name = "Tyke"
+		dynasty = "Geta"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1421.2.1
+		religion = norse_pagan_reformed
+		culture = norwegian
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = sinner_personality
+	queen = {
+		name = "Ulfhildr"
+		dynasty = "Flod"
+		adm = 3
+		dip = 3
+		mil = 2
+		country_of_origin = Z70
+		birth_date = 1421.4.23
+		death_date = 1481.4.23
+		female = yes
+		religion = norse_pagan_reformed
+		culture = norwegian
+	}
+	add_queen_personality = silver_tongue_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Rögnfrið"
+		monarch_name = "Rögnfrið"
+		dynasty = "Geta"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1438.8.18
+		death_date = 1503.8.18
+		female = yes
+		claim = 89
+		religion = norse_pagan_reformed
+		culture = norwegian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 22
+	add_treasury = 51
+}

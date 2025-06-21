@@ -1,0 +1,61 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = chinese
+religion = sunni
+primary_culture = papuan
+capital = 2718
+religious_school = shafii_school
+1309.1.1= {
+	monarch = {
+		name = "Imaga"
+		dynasty = "Aituarauw"
+		birth_date = 1290.1.1
+		death_date = 1320.1.1
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+}
+1320.1.1= {
+	monarch = {
+		name = "Basir Onin"
+		dynasty = "Aituarauw"
+		birth_date = 1302.1.1
+		death_date = 1348.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+1348.1.1= {
+	monarch = {
+		name = "Woran"
+		dynasty = "Aituarauw"
+		birth_date = 1326.1.1
+		death_date = 1440.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+1440.1.1= {
+	monarch = {
+		name = "Interregnum"
+		adm = 3
+		mil = 3
+		dip = 3
+		regent = yes
+	}
+}
+1808.1.1= {
+	monarch = {
+		name = "Nduvin"
+		dynasty = "Aituarauw"
+		birth_date = 1790.1.1
+		death_date = 1898.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan_reformed
+primary_culture = siberian
+capital = 1076
+1444.11.11= {
+	monarch = {
+		name = "Bulughan"
+		dynasty = "Kereyid"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1399.3.3
+		religion = tengri_pagan_reformed
+		culture = siberian
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = sinner_personality
+	queen = {
+		name = "Gundes"
+		dynasty = "Ipaosid"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Y56
+		birth_date = 1404.9.5
+		death_date = 1464.9.5
+		female = yes
+		religion = tengri_pagan_reformed
+		culture = pecheneg
+	}
+	add_queen_personality = tactical_genius_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Hoelun"
+		monarch_name = "Hoelun"
+		dynasty = "Kereyid"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1435.12.25
+		death_date = 1500.12.25
+		female = yes
+		claim = 89
+		religion = tengri_pagan_reformed
+		culture = siberian
+	}
+	add_heir_personality = naive_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 43
+	add_treasury = 35
+}

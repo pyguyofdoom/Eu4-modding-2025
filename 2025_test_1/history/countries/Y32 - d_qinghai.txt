@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = tangut
+capital = 699
+1444.11.11= {
+	add_prestige = 55
+	add_treasury = 63
+}

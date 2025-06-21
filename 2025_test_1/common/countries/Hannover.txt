@@ -1,0 +1,94 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 164 217 127 }
+revolutionary_colors = { 8 5 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	offensive_ideas
+	spy_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Alfhildr #0" = -1
+	"Aslaug #0" = -1
+	"Birgitta #0" = -1
+	"Egill #0" = 0
+	"Freyr #1" = 10
+	"Gloð #0" = -1
+	"Gottfried #1" = 10
+	"Grima #0" = -1
+	"Guntram #1" = 10
+	"Gyða #0" = -1
+	"Hafrid #0" = -1
+	"Helena #0" = -1
+	"Heribert #1" = 10
+	"Hjalmar #0" = 0
+	"Hæsteinn #0" = 0
+	"Ingibjörg #0" = -1
+	"Ingrid #0" = -1
+	"Judita #1" = -1
+	"Kol #0" = 0
+	"Kristina #0" = -1
+	"Liutbert #1" = 10
+	"Margareta #0" = -1
+	"Ojír #1" = 10
+	"Ottarr #0" = 0
+	"Siegfried #1" = 10
+	"Sigrid #0" = -1
+	"Spytihnev #1" = 10
+	"Strachkvas #1" = 10
+	"Svanhildr #0" = -1
+	"Vigdis #0" = -1
+	"Vojtech #1" = 10
+	"Wilhelm #1" = 10
+	"Ylva #0" = -1
+}
+leader_names = {
+	"Aller"
+	"Detmold"
+	"Hamelm"
+	"Hildesheim"
+	"Kapp"
+	"Minden"
+	"Oldenburg"
+	"Salzgitter"
+	"Werden"
+	"Wernigerode"
+}
+ship_names = {
+	"Burgdorf"
+	"Deister"
+	"Georg von Calenberg"
+	"Langenhagen"
+	"Lehrte"
+	"Leine"
+	"Sarstedt"
+	"Stadthagen"
+	"Süntel"
+	"Wedemark"
+	"Weser"
+	"Wunstorf"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

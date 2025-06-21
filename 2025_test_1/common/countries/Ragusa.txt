@@ -1,0 +1,106 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 160 82 128 }
+revolutionary_colors = { 5 13 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	offensive_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Aissata #0" = -1
+	"Berold #0" = 0
+	"Bisti #0" = 0
+	"Calenda #1" = 10
+	"Clara #0" = -1
+	"Comes #1" = 10
+	"Gaucoli #2" = 10
+	"Gauzoli #1" = 10
+	"Gervasius #1" = 10
+	"Giuco #1" = 10
+	"Giulia #0" = -1
+	"Giva #0" = -1
+	"Give #2" = 10
+	"Jacobica #0" = -1
+	"Jelussa #0" = -1
+	"Juliano #1" = 10
+	"Junius #2" = 10
+	"Laurenzo #2" = 10
+	"Loncho #1" = 10
+	"Lucarus #2" = 10
+	"Marco #3" = 10
+	"Mare #2" = 10
+	"Marinus #3" = 10
+	"Maroe #1" = 10
+	"Matheus #2" = 10
+	"Mira #0" = -1
+	"Nicoletta #0" = -1
+	"Nixa #0" = -1
+	"Pascalis #1" = 10
+	"Perue #1" = 10
+	"Petragna #2" = 10
+	"Petrus #1" = 10
+	"Piero #1" = 10
+	"Rassinus #1" = 10
+	"Regina #0" = -1
+	"Rusco #1" = 10
+	"Thoma #1" = 10
+	"Vallius #1" = 10
+}
+leader_names = {
+	"Bona"
+	"Bosdari"
+	"Boshko"
+	"Caboga"
+	"Cerva"
+	"Ghetaldi"
+	"Giorgi"
+	"Gondola"
+	"Gozze"
+	"Gradic"
+	"Gundulic"
+	"Luccari"
+	"Pozza"
+	"Reesti"
+	"Saraca"
+	"Sorgo"
+	"Tudisi"
+	"Vucic"
+	"Zamagna"
+	"Zlataric"
+}
+ship_names = {
+	"Dubac"
+	"Gromaca"
+	"Kolocap"
+	"Komlac"
+	"Kupari"
+	"Mokosica"
+	"Orasac"
+	"Ragusa"
+	"Rozat"
+	"Trsteno"
+	"Zanton"
+}

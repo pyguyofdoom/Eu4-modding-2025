@@ -1,0 +1,94 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 220 150 158 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aldi #0" = -1
+	"Ale #1" = 10
+	"Alfhildr #0" = -1
+	"Arnfast #0" = 0
+	"Boldi #1" = 10
+	"Eirikr #1" = 10
+	"Eskild #1" = 10
+	"Falki #1" = 10
+	"Frirek #1" = 10
+	"Geirr #0" = 0
+	"Gerðr #0" = -1
+	"Gurli #0" = -1
+	"Haukr #3" = 10
+	"Heregyth #0" = -1
+	"Holmfrid #0" = -1
+	"Hrane #1" = 10
+	"Hrolfr #0" = 0
+	"Hroðulfr #1" = 10
+	"Hrörekr #1" = 10
+	"Inga #0" = -1
+	"Ivar #1" = 10
+	"Kettilmund #1" = 10
+	"Kolbjörn #0" = 0
+	"Rikissa #0" = -1
+	"Rögnhildr #0" = -1
+	"Rögnvaldr #2" = 10
+	"Styrbjörn #1" = 10
+	"Styrkar #1" = 10
+	"Suni #0" = 0
+	"Tjudmund #0" = 0
+	"Tyke #0" = 0
+	"Yngvar #0" = 0
+	"Þorbjörn #1" = 10
+	"Þorbrandr #2" = 10
+	"Þyra #0" = -1
+}
+leader_names = {
+	"Albert"
+	"Augustenborg"
+	"Günther"
+	"Holstein"
+	"Holstein-Gottorp"
+	"Oldenburg"
+	"Philip"
+	"Rantzau"
+	"von Barner"
+	"von Dellwigh"
+}
+ship_names = {
+	"Dahme"
+	"Grossenbrode"
+	"Grömtz"
+	"Kellenhusen"
+	"Kiel"
+	"Neustadt"
+	"Ostsee"
+	"Scharbeutz"
+	"Sierksdorf"
+	"Wedel"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

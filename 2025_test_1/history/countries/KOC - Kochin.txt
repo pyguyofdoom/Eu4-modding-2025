@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = indian
+religion = jain
+primary_culture = sinhala
+capital = 534
+fixed_capital = 534
+mercantilism = 15
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 67
+}

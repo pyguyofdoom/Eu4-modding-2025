@@ -1,0 +1,11 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 130 140 30 }
+monarch_names = {
+	"Bulït #0" = -1
+	"Esdem #0" = 0
+	"Ilbeslik #0" = -1
+	"Yiltïs #0" = -1
+	"Örüñ #0" = -1
+	"Ötüken #0" = -1
+}

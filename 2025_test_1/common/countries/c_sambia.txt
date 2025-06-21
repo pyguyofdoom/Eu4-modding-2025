@@ -1,0 +1,27 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 190 80 80 }
+monarch_names = {
+	"Alfhildr #0" = -1
+	"Betten #0" = -1
+	"Borbála #0" = -1
+	"Gloð #0" = -1
+	"Golding #0" = 0
+	"Grima #0" = -1
+	"Gunnhild #0" = -1
+	"Gunnhildr #0" = -1
+	"Hemming #0" = 0
+	"Jauguttis #0" = 0
+	"Kettil #0" = 0
+	"Kolbjörn #0" = 0
+	"Maria #0" = -1
+	"Ormr #0" = 0
+	"Rögnfrið #0" = -1
+	"Sophia #0" = -1
+	"Sverker #0" = 0
+	"Sölvi #0" = 0
+	"Yngvar #0" = 0
+	"Þordis #0" = -1
+	"Þorgil #0" = 0
+	"Þorolfr #0" = 0
+}

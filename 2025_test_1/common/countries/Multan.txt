@@ -1,0 +1,120 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 95 139 214 }
+revolutionary_colors = { 4 0 4 }
+historical_idea_groups = {
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Angad #1" = 10
+	"Arjunpala #0" = 0
+	"Bachraj #1" = 10
+	"Basawa #1" = 10
+	"Budh #1" = 10
+	"Chachinidevi #0" = -1
+	"Chögyal #1" = 10
+	"Dehanagadevi #1" = -1
+	"Delhanadevi #0" = -1
+	"Hammiravarman #0" = 0
+	"Harpal #0" = 0
+	"Hemavati #0" = -1
+	"Jaganpala #0" = 0
+	"Jaitra-Singh #1" = 10
+	"Jujhar #0" = 0
+	"Karan-Singh #0" = 0
+	"Lahna #1" = 10
+	"Lakhshaman-Singh #3" = 10
+	"Lakshmandeva #2" = 10
+	"Laxmidevi #0" = -1
+	"Mahipal #0" = 0
+	"Mohan #1" = 10
+	"Nagadina #0" = -1
+	"Narayanapala #1" = 10
+	"Narwahan #0" = 0
+	"Nihal #1" = -1
+	"Nodha #0" = 0
+	"Padmaladevi #0" = -1
+	"Partap #1" = 10
+	"Prasadhanadevi #0" = -1
+	"Prithvi #1" = 10
+	"Ranjor #1" = 10
+	"Rudrani #0" = -1
+	"Sahib #1" = -1
+	"Samyukta #0" = -1
+	"Sobika #0" = 0
+	"Thakur #2" = 10
+	"Vidurathpala #0" = 0
+	"Vigrahapala #0" = 0
+	"Vijayapala #1" = 10
+}
+leader_names = {
+	"Bahadur"
+	"Bhalla"
+	"Bhatia"
+	"Das"
+	"Dev"
+	"Gahunia"
+	"Gobind"
+	"Granth"
+	"Hoora"
+	"Jhol"
+	"Jhotti"
+	"Krishan"
+	"Lohaar"
+	"Munshi"
+	"Parikh"
+	"Parmanand"
+	"Patel"
+	"Patidar"
+	"Rai"
+	"Sayid"
+	"Shah"
+	"Shergill"
+	"Singh"
+	"Sodhi"
+	"Sohal"
+	"Udasi"
+	"Zamindar"
+}
+ship_names = {
+	"Beas"
+	"Chenab"
+	"Devi"
+	"Gayatri"
+	"Guru"
+	"Indus"
+	"Jalsena"
+	"Jhelum"
+	"Lakshmi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Ravi"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Sutlej"
+}

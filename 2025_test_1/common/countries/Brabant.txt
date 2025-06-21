@@ -1,0 +1,87 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 118 193 153 }
+revolutionary_colors = { 5 1 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quality_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_tercio
+	dutch_maurician
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aldebert #1" = 10
+	"Andreas #0" = 0
+	"Azelma #0" = -1
+	"Barend #1" = 10
+	"David #1" = 10
+	"Domawuj #7" = 10
+	"Eustathia #0" = -1
+	"Géraud #1" = 10
+	"Ljutomisl #0" = 0
+	"Maertijn #2" = 10
+	"Mathilde #1" = -1
+	"Meletios #0" = 0
+	"Pamphilios #0" = 0
+	"Petronia #0" = -1
+	"Swanhildis #1" = -1
+	"Zenobia #1" = -1
+	"Þorfinn #0" = 0
+}
+leader_names = {
+	"Albers"
+	"Aylett"
+	"Bielmacker"
+	"Camper"
+	"Debruyne"
+	"Jansen"
+	"Leschwein"
+	"Maas"
+	"Mons"
+	"Orthellius"
+	"Quellinus"
+	"de Avesnes"
+	"de Houtman"
+	"de Leeuw"
+	"van Egmont"
+	"van Kahlden"
+	"van Loewen"
+	"van Meteren"
+	"van Noort"
+	"van Wyhe"
+	"van der Most"
+}
+ship_names = {
+	"Brussel"
+	"Dender"
+	"Doornik"
+	"Edingen"
+	"Filips van Saint-Pol"
+	"Godfried I"
+	"Hendrik I"
+	"Hendrik van Leuven"
+	"Hertog Jan"
+	"Hertogin Johanna"
+	"Jan I"
+	"Mechelen"
+	"Namen"
+	"Zenne"
+}

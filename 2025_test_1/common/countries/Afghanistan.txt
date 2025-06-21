@@ -1,0 +1,111 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 102 128 52 }
+revolutionary_colors = { 1 5 9 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	durrani_dragoon
+	durrani_rifled_musketeer
+	durrani_swivel
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abbas #3" = 10
+	"Adel #1" = 10
+	"Ajinai #1" = 10
+	"Alchi #0" = 0
+	"Altani #0" = -1
+	"Azgan #0" = -1
+	"Azyan #1" = 10
+	"Bagaridai #0" = 0
+	"Bolkhadar #0" = 0
+	"Boru #0" = 0
+	"Bukha #0" = 0
+	"Chonggui #0" = 0
+	"Chormakhan #0" = 0
+	"Chotan #0" = -1
+	"Darab #1" = 10
+	"Dashi #0" = 0
+	"Dinah #0" = -1
+	"Donyö #0" = 0
+	"Farzaneh #1" = -1
+	"Gulay #0" = -1
+	"Hafez #0" = 0
+	"Irge #0" = -1
+	"Jamileh #0" = -1
+	"Jamugha #0" = 0
+	"Kegen #0" = 0
+	"Khal #0" = 0
+	"Kharmandar #0" = 0
+	"Khrimalod #0" = -1
+	"Khugurchin #0" = -1
+	"Lek #1" = 10
+	"Maiwand #1" = 10
+	"Mongke #0" = 0
+	"Mutik #1" = 10
+	"Namdé #1" = 10
+	"Naveed #0" = 0
+	"Okhotur #0" = 0
+	"Orbei #1" = -1
+	"Pariwish #1" = -1
+	"Parween #0" = -1
+	"Rostam #1" = 10
+	"Ruhollah #0" = 0
+	"Shirgugetu #0" = 0
+	"Shokouh #1" = -1
+	"Sokhatai #0" = -1
+	"Targhutai #0" = 0
+	"Temujin #1" = 10
+	"Todogen #0" = 0
+	"Tolui #1" = 10
+	"Tsenpo #1" = 10
+	"Töregene #0" = -1
+	"Yokhunan #0" = 0
+	"Zakaria #1" = 10
+	"Öpoche #1" = 10
+}
+leader_names = {
+	"Ahmad"
+	"Akhund"
+	"Amin"
+	"Ghazi"
+	"Hotaki"
+	"Karmal"
+	"Najibullah"
+	"Qadir"
+	"Rahman"
+	"Taraki"
+}
+ship_names = {
+	"Arghandab"
+	"Balkh"
+	"Dasht"
+	"Farah"
+	"Harirud"
+	"Harut"
+	"Hingol"
+	"Kabol"
+	"Kech"
+	"Khash"
+	"Kowkcheh"
+	"Murghab"
+	"Zhob"
+}

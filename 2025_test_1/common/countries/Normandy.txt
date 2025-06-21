@@ -1,0 +1,250 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 131 138 116 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	maritime_ideas
+	spy_ideas
+}
+historical_units = {
+	anglofrench_line
+	chevauchee
+	dutch_maurician
+	french_bluecoat
+	french_caracolle
+	french_cuirassier
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_men_at_arms
+}
+monarch_names = {
+	"Adelard #1" = 10
+	"Aldobrandino #1" = 10
+	"Alfons #2" = 10
+	"Annibale #2" = 10
+	"Anquetil #1" = 10
+	"Baldassarre #1" = 10
+	"Bassu #1" = 10
+	"Bernead #1" = 10
+	"Bernegarda #1" = -1
+	"Berold #0" = 0
+	"Bertran #1" = 10
+	"Bleidcum #1" = 10
+	"Ciar #1" = -1
+	"Conmarch #1" = 10
+	"Emelenine #1" = -1
+	"Emma #1" = -1
+	"Filbert #1" = 10
+	"Fulk #1" = 10
+	"Gaufrid #1" = 10
+	"Gerald #1" = 10
+	"Giffard #2" = 10
+	"Gilbert #2" = 10
+	"Guerech #1" = 10
+	"Herleve #0" = -1
+	"Herman #2" = 10
+	"Herramel #1" = 10
+	"Ildebrando #1" = 10
+	"Iumael #1" = 10
+	"Luis #1" = 10
+	"Milo #1" = 10
+	"Odo #2" = 10
+	"Rolland #1" = 10
+	"Stane #1" = 10
+	"Sulhoiarn #0" = 0
+	"Theophylaktos #1" = 10
+	"Tybalt #1" = 10
+	"Wymund #1" = 10
+}
+leader_names = {
+	"Duquesne"
+	"Esquemelin"
+	"Gosselin"
+	"Guillaumery"
+	"Le Moyne"
+	"Le Tellier"
+	"Lesperon"
+	"Parmentier"
+	"Roncerolles "
+	"d'Abancourt"
+	"d'Aboville"
+	"d'Alençon"
+	"d'Amfreville"
+	"d'Estrimont"
+	"d'Harcourt"
+	"d'Herbouville"
+	"d'Imbleval"
+	"d'Ozenne"
+	"d'Ymonville"
+	"d'Émondeville"
+	"de Bailleul"
+	"de Berquetot"
+	"de Bracquemont"
+	"de Brionne"
+	"de Béthencourt"
+	"de Croismarie"
+	"de Crottay"
+	"de Dampierre"
+	"de Fry"
+	"de Fréville"
+	"de Graville"
+	"de Houdetot"
+	"de Joigny"
+	"de Jourville"
+	"de La Houssaye"
+	"de La Motte"
+	"de Lenemont"
+	"de Lessard"
+	"de Marigny"
+	"de Mauquenchy"
+	"de Mornay"
+	"de Noscey"
+	"de Parbay"
+	"de Presteval"
+	"de Quenonville"
+	"de Quesdeville"
+	"de Riancourt"
+	"de Saint-Bosmer"
+	"de Saint-Passy"
+	"de Sébouville"
+	"de Tallebot"
+	"de Tassigny"
+	"de Thiboutot"
+	"de Valiquerville"
+	"de Vauquelin"
+	"de la Boucque"
+	"de la Galissonière"
+	"du Chastel"
+	"du Moucel"
+	"du Quesnoy"
+}
+ship_names = {
+	"Le Havre"
+	"l'Actif"
+	"l'Adroit"
+	"l'Aigrette"
+	"l'Alcyon"
+	"l'Alouette"
+	"l'Amarante"
+	"l'Angélique"
+	"l'Ardent"
+	"l'Arrogant"
+	"l'Aréthuse"
+	"l'Atalante"
+	"l'Aurore"
+	"l'Embuscade"
+	"l'Enjouée"
+	"l'Entendue"
+	"l'Harmonie"
+	"l'Heureux"
+	"l'Hébé"
+	"l'Inconstante"
+	"l'Infidèle"
+	"l'Orage"
+	"l'Oriflamme"
+	"l'Écluse"
+	"l'Écueil"
+	"l'Émeraude"
+	"l'Éole"
+	"l'Étoile"
+	"la Balance"
+	"la Blanche"
+	"la Blonde"
+	"la Bricolle"
+	"la Brune"
+	"la Brûlante"
+	"la Carpe"
+	"la Charente"
+	"la Chasse"
+	"la Corneille"
+	"la Coulisse"
+	"la Cruelle"
+	"la Curieuse"
+	"la Danuble"
+	"la Dauphine"
+	"la Digue"
+	"la Diligente"
+	"la Dryade"
+	"la Favorite"
+	"la Fidèle"
+	"la Fine"
+	"la Flatteuse"
+	"la Flore"
+	"la Fée"
+	"la Félicité"
+	"la Galatée"
+	"la Garonne"
+	"la Gazelle"
+	"la Gentille"
+	"la Gironde"
+	"la Gloire"
+	"la Gracieuse"
+	"la Grive"
+	"la Grâce"
+	"la Jolie"
+	"la Joyeuse"
+	"la Junon"
+	"la Levrette"
+	"la Marie-Françoise"
+	"la Martiale"
+	"la Menaçante"
+	"la Nayade"
+	"la Normande"
+	"la Palombe"
+	"la Pintade"
+	"la Pélerine"
+	"la Rocheloise"
+	"la Somme"
+	"la Subtile"
+	"la Trompeuse"
+	"la Turquoise"
+	"le Brave"
+	"le Chariot-Royal"
+	"le Danaé"
+	"le François"
+	"le Gaillard"
+	"le Grand-Ponton"
+	"le Jason"
+	"le Juste"
+	"le Lion"
+	"le Léger"
+	"le Marin"
+	"le Palmier"
+	"le Petit Saint-François"
+	"le Petit-Ponton"
+	"le Prompte"
+	"le Précieux"
+	"le Rubis"
+	"le Résolu"
+	"le Saint-Louis"
+	"le Saint-Michel"
+	"le Sans-Pareil"
+}
+army_names = {
+	"Armée d'Alençon"
+	"Armée d'Argentan"
+	"Armée de $PROVINCE$"
+	"Armée de Caen"
+	"Armée de Falaise"
+	"Armée de Neubourg"
+	"Armée de l'Avranchin"
+	"Armée du Bessin"
+	"Armée du Cotentin"
+	"Armée du Mortainais"
+	"Armée du Pays d'Auge"
+	"Armée du Pays de Caux"
+	"Armée du Perche"
+	"Armée du Virois"
+}

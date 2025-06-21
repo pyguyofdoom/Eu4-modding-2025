@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+capital = 2134
+1444.11.11= {
+	monarch = {
+		name = "Palchen"
+		dynasty = "Tamu"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1400.12.12
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = scholar_personality
+	queen = {
+		name = "Wangmo"
+		dynasty = "Broza"
+		adm = 5
+		dip = 2
+		mil = 4
+		country_of_origin = Y05
+		birth_date = 1408.1.23
+		death_date = 1468.1.23
+		female = yes
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Trimang"
+		monarch_name = "Trimang II"
+		dynasty = "Tamu"
+		adm = 3
+		dip = 6
+		mil = 5
+		birth_date = 1425.9.27
+		death_date = 1490.9.27
+		claim = 89
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_heir_personality = silver_tongue_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 61
+	add_treasury = 55
+}

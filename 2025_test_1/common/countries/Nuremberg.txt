@@ -1,0 +1,98 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 243 112 15 }
+revolutionary_colors = { 5 8 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	administrative_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	halberd_infantry
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Benes #1" = 10
+	"Bohuslava #0" = -1
+	"Budivoj #3" = 10
+	"Detrich #1" = 10
+	"Drslav #0" = 0
+	"Folkmar #1" = 10
+	"Gerhard #0" = 0
+	"Guta #0" = -1
+	"Hanus #2" = 10
+	"Jindrich #0" = 0
+	"Justina #0" = -1
+	"Ludolf #1" = 10
+	"Oda #1" = -1
+	"Perchta #1" = -1
+	"Spytihnev #0" = 0
+	"Vilém #1" = 10
+	"Vladimír #0" = 0
+	"Zbynek #1" = 10
+	"Zofie #0" = -1
+}
+leader_names = {
+	"Ebner von Eschenbach"
+	"Fürer von Haimendorf"
+	"Geuder von Heroldsberg"
+	"Gugel von Brand und Diepoltsdorf"
+	"Haller von Hallerstein"
+	"Harsdorf von Enderndorf"
+	"Holzschuher von Harrlach"
+	"Imhoff"
+	"Kress von Kressenstein"
+	"Löffelholz von Kolberg"
+	"Oelhafen von Schöllenbach"
+	"Praun"
+	"Stromer von Reichenbach"
+	"Tucher von Simmelsdorf"
+	"Volckamer von Kirchensittenbach"
+	"Welser von Neunhof und zu Beerbach"
+	"von Altenthann und Weiherhaus"
+}
+ship_names = {
+	"Andechs"
+	"Augsburg"
+	"Burgau"
+	"Diessen"
+	"Friedberg"
+	"Graf von Andechs"
+	"Graf von Bogen"
+	"Graf von Diepolding"
+	"Graf von Sulzbach"
+	"Kempten"
+	"König Arnulf"
+	"Lindau"
+	"Memmingen"
+	"Mindel"
+	"Nürnberg"
+	"Oettingen"
+	"Otto"
+	"St. Kilian"
+	"St. Sebaldus"
+	"Straubing"
+	"Tassilo III"
+	"Wittelsbach"
+	"Wolfstein"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

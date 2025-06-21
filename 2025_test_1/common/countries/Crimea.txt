@@ -1,0 +1,156 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 59 158 125 }
+revolutionary_colors = { 15 0 5 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	expansion_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Aba #1" = 10
+	"Alajos #0" = 0
+	"Alexia #0" = -1
+	"Baitzas #1" = 10
+	"Balgor #1" = 10
+	"Batas #2" = 10
+	"Bayça #1" = 10
+	"Benedek #0" = 0
+	"Bernát #0" = 0
+	"Bersi #0" = 0
+	"Bertók #0" = 0
+	"Bizel #2" = 10
+	"Boldizsár #0" = 0
+	"Borisz #0" = 0
+	"Boru #2" = 10
+	"Bula #1" = 10
+	"Bálint #0" = 0
+	"Csilla #0" = -1
+	"Emõke #0" = -1
+	"Erzsébet #0" = -1
+	"Eszter #0" = -1
+	"Eufemia #0" = -1
+	"Euphemia #0" = -1
+	"Frigyes #0" = 0
+	"Gazsi #0" = 0
+	"Gyula #0" = 0
+	"Jenõ #0" = 0
+	"Jolán #0" = -1
+	"József #0" = 0
+	"Kaydum #1" = 10
+	"Kegen #1" = 10
+	"Kinga #0" = -1
+	"Klára #0" = -1
+	"Konel #1" = 10
+	"Konrád #1" = 10
+	"Kostas #1" = 10
+	"Kourkoutai #1" = 10
+	"Kristóf #0" = 0
+	"Krisztina #0" = -1
+	"Kuerçi #2" = 10
+	"Kugel #1" = 10
+	"Kure #1" = 10
+	"Kálmán #0" = 0
+	"Károly #0" = 0
+	"Lukács #0" = 0
+	"Lõrinc #0" = 0
+	"Margaréta #0" = -1
+	"Mihály #2" = 10
+	"Máté #0" = 0
+	"Mózes #1" = 10
+	"Nevena #0" = -1
+	"Rostislav #0" = 0
+	"Rózsa #0" = -1
+	"Samboja #0" = -1
+	"Sevilay #0" = -1
+	"Soma #0" = 0
+	"Stana #0" = -1
+	"Stoigniew #0" = 0
+	"Suru #1" = 10
+	"Sámuel #0" = 0
+	"Sándor #0" = 0
+	"Teber #1" = 10
+	"Theodora #0" = -1
+	"Tivadar #0" = 0
+	"Tádor #0" = 0
+	"Vazul #0" = 0
+	"Viacheslav #0" = 0
+	"Vilmos #0" = 0
+	"Vladislava #0" = -1
+	"Yazi #2" = 10
+	"Yeke #1" = 10
+	"Yildiz #0" = -1
+	"Zbigniew #0" = 0
+	"Zsigmond #0" = 0
+	"Ágoston #0" = 0
+	"Álmos #0" = 0
+}
+leader_names = {
+	"Agah"
+	"Altan"
+	"Asanin"
+	"Bekmambet"
+	"Bektöre"
+	"Celebicihan"
+	"Cobanzade"
+	"Dägci"
+	"Fazil"
+	"Gaspirali"
+	"Giraybay"
+	"Hablemitoglu"
+	"Hilmi"
+	"Ihsan"
+	"Inalcik"
+	"Ipci"
+	"Kemal"
+	"Kirimal"
+	"Kosay"
+	"Kubay"
+	"Mamut"
+	"Mangitli"
+	"Mansiz"
+	"Mehdi"
+	"Neyazi"
+	"Ortayli"
+	"Qirimoglu"
+	"Sarigöl"
+	"Semizade"
+	"Seydahmet"
+	"Soysal"
+	"Tarhan"
+	"Tögay"
+	"Uralgiray"
+	"Zihni"
+	"Ziyaeddin"
+}
+ship_names = {
+	"Bakhchisaray"
+	"Chingiz Khan"
+	"Chufut Kale"
+	"Cufut Qale"
+	"Haci Giray"
+	"Hansaray"
+	"Kyrym"
+	"Meli I Giray"
+	"Qirq Yer"
+	"Zincilri Medrese"
+	"Çürük Suv"
+}

@@ -1,0 +1,98 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 232 79 142 }
+revolutionary_colors = { 0 10 0 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	defensive_ideas
+	humanist_ideas
+	aristocracy_ideas
+	diplomatic_ideas
+	trade_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	mughal_mansabdar
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Asaga #0" = 0
+	"Ayanna #2" = 10
+	"Bhandanaditya #0" = 0
+	"Bhavanaga #0" = -1
+	"Bhumpal #0" = 0
+	"Bijjabbe #0" = -1
+	"Chandaladevi #0" = -1
+	"Chandena #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Dashavarman #0" = 0
+	"Dehanagadevi #0" = -1
+	"Ereyanga #1" = 10
+	"Govinda #3" = 10
+	"Hakka #1" = 10
+	"Hambirao #2" = 10
+	"Harivarman #0" = 0
+	"Jayasimha #0" = 0
+	"Kannama #1" = 10
+	"Kirtivarman #0" = 0
+	"Lakshmi #0" = -1
+	"Mahadevi #0" = -1
+	"Mailaladevi #1" = -1
+	"Mallikarjuna #1" = 10
+	"Marasimha #0" = 0
+	"Neetimarga #0" = 0
+	"Obayamma #0" = -1
+	"Oghul #0" = -1
+	"Rachamalla #0" = 0
+	"Shantaladevi #1" = -1
+	"Shivamara #0" = 0
+	"Sripadaraya #0" = 0
+	"Srivikrama #1" = 10
+}
+leader_names = {
+	"Bahadur"
+	"Chetty"
+	"Khader"
+	"Khan"
+	"Khan Wallajah"
+	"Mudaliar"
+	"Rajapopalachari"
+	"Reddy"
+	"Saluva"
+	"Sastri"
+	"Thondaiman"
+	"ul Umra"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Ganga"
+	"Gayatri"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Spiti"
+	"Yamuna"
+}

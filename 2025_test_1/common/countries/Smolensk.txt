@@ -1,0 +1,106 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 106 160 43 }
+revolutionary_colors = { 5 5 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	administrative_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Aatso #0" = 0
+	"Ahma #0" = 0
+	"Aimo #1" = 10
+	"Alexandra #1" = -1
+	"Asikko #0" = 0
+	"Boleslava #1" = -1
+	"Elisabet #0" = -1
+	"Henri #1" = 10
+	"Into #0" = 0
+	"Kalevi #0" = 0
+	"Lauha #0" = -1
+	"Lemmikki #0" = -1
+	"Liekko #0" = -1
+	"Liudmila #0" = -1
+	"Mahla #1" = -1
+	"Marina #1" = -1
+	"Metta #0" = -1
+	"Oiva #2" = 10
+	"Päiviö #2" = 10
+	"Salme #0" = -1
+	"Sampo #0" = 0
+	"Satajalka #2" = 10
+	"Soini #2" = 10
+	"Soma #0" = 0
+	"Taimi #0" = -1
+	"Taisto #2" = 10
+	"Talvikki #0" = -1
+	"Tapani #1" = 10
+	"Árpád #0" = 0
+}
+leader_names = {
+	"Aladyin"
+	"Beznosov"
+	"Bokeev"
+	"Borovsky"
+	"Burukhin"
+	"Dalmatov"
+	"Dursky"
+	"Galisky"
+	"Galitsky"
+	"Izyaslavsky"
+	"Kisleevsky"
+	"Korobyin"
+	"Mozhaisky"
+	"Satin"
+	"Shemyakin"
+	"Shukalovsky"
+	"Travin"
+	"Tsyplyatev"
+	"Uglisky"
+	"Vereisky"
+	"Vitebsky"
+	"Vnukov"
+	"Volotsky"
+	"Zabolotsky"
+}
+ship_names = {
+	"Bolotovo"
+	"Bryansk"
+	"Chudskoye"
+	"Izborsk"
+	"Kulikovo"
+	"Ostrov"
+	"Pechory"
+	"Polotsk"
+	"Porhov"
+	"Pskovskoye"
+	"Rakovor"
+	"Sebezh"
+	"Smolensk"
+	"Velikaya"
+	"Velikiye Luki"
+}

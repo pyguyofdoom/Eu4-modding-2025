@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 233 212 155 }
+monarch_names = {
+	"Anastasios #0" = 0
+	"Basileios #0" = 0
+	"Chiora #0" = -1
+	"Chrysogonos #0" = 0
+	"Eunike #0" = -1
+	"Euphemios #0" = 0
+	"Eustathios #0" = 0
+	"Evanthia #0" = -1
+	"Hypatia #0" = -1
+	"Ildikó #0" = -1
+	"Ioanna #0" = -1
+	"Paraschiva #0" = -1
+	"Pavlos #0" = 0
+	"Petronia #0" = -1
+	"Staurakios #0" = 0
+	"Usunbike #0" = -1
+}

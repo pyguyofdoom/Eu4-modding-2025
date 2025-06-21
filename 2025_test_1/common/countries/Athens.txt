@@ -1,0 +1,114 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 113 112 96 }
+revolutionary_colors = { 0 14 0 }
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Adriane #0" = -1
+	"Aigidia #0" = -1
+	"Alboino #0" = 0
+	"Aldobrandino #0" = 0
+	"Alexandra #0" = -1
+	"Alexandros #1" = 10
+	"Alpaïs #0" = -1
+	"Andronikos #1" = 10
+	"Antipatra #0" = -1
+	"Asko #1" = 10
+	"Athanagildo #1" = 10
+	"Basileios #0" = 0
+	"Basillike #0" = -1
+	"Chagur #0" = -1
+	"Chrysogone #0" = -1
+	"Eirenaios #1" = 10
+	"Euphemios #0" = 0
+	"Evanthia #1" = -1
+	"Gregoras #0" = 0
+	"Gudual #0" = 0
+	"Hisên #0" = 0
+	"Hypatios #3" = 10
+	"Ioseph #1" = 10
+	"Iouliana #0" = -1
+	"Ioustinos #1" = 10
+	"Irene #1" = -1
+	"Kaisarios #1" = 10
+	"Khugurchin #0" = -1
+	"Konstantios #0" = 0
+	"Kosmas #0" = 0
+	"Kyriake #0" = -1
+	"Kyros #0" = 0
+	"Leon #1" = 10
+	"Leonidas #1" = 10
+	"Leontia #0" = -1
+	"Manuel #0" = 0
+	"Margarita #0" = -1
+	"Markos #1" = 10
+	"Maximos #0" = 0
+	"Milo #1" = 10
+	"Nogai #0" = 0
+	"Pantoleon #0" = 0
+	"Parthena #2" = -1
+	"Porphyrios #0" = 0
+	"Prokopios #0" = 0
+	"Rhodanthe #0" = -1
+	"Sermon #0" = 0
+	"Silo #1" = 10
+	"Theocharistos #0" = 0
+	"Theodosia #1" = -1
+	"Theophylaktos #1" = 10
+	"Uoti #1" = 10
+	"Valeria #0" = -1
+	"Zenobios #0" = 0
+}
+leader_names = {
+	"Acciajuoli"
+	"Contarini"
+	"Crispo"
+	"Doria"
+	"Fadrigue"
+	"Melissinos"
+	"Palaeologus"
+	"Plethon"
+	"Rendis"
+	"Saraceno"
+	"Tocco"
+	"Zorzi"
+}
+ship_names = {
+	"Agios Thomas"
+	"Athena"
+	"Felves"
+	"Laouses"
+	"Makronisi"
+	"Patroklou"
+	"Petalioi"
+	"Salamina"
+	"Styra"
+	"Ypsili"
+}

@@ -1,0 +1,93 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 113 176 151 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abdul-Haleem #1" = 10
+	"Anthemios #1" = 10
+	"Aoua #1" = -1
+	"Auta #0" = -1
+	"Baria #1" = -1
+	"Batatume #0" = -1
+	"Bawo #1" = 10
+	"Bukkus #1" = 10
+	"Dakauta #1" = 10
+	"Danlami #1" = 10
+	"Djire #1" = -1
+	"Farih #0" = -1
+	"Fath #1" = 10
+	"Gaya #1" = 10
+	"Gerda #0" = -1
+	"Immel #0" = 0
+	"Jibril #0" = 0
+	"Kassa #1" = 10
+	"Kumbari #1" = 10
+	"Mahdi #0" = 0
+	"Malla #1" = 10
+	"Mansurah #0" = -1
+	"Maysar #1" = 10
+	"Misagenes #1" = 10
+	"Naimah #1" = -1
+	"Nikephoros #1" = 10
+	"Niptasan #1" = 10
+	"Nonna #1" = -1
+	"Sa'id #1" = 10
+	"Sabas #1" = 10
+	"Sakinah #0" = -1
+	"Sakoura #1" = 10
+	"Samsou-Béri #1" = 10
+	"Wahida #0" = -1
+	"Watt'as #1" = 10
+}
+leader_names = {
+	"Adhoum"
+	"Akimi"
+	"Badra"
+	"Bassir"
+	"Dali"
+	"Hakimi"
+	"Naybet"
+	"Saber"
+	"Sassi"
+	"Taher"
+}
+ship_names = {
+	"Alim"
+	"Aziz"
+	"Bari"
+	"Fattah"
+	"Ghaffar"
+	"Jabbar"
+	"Khaliq"
+	"Malik"
+	"Mu'min"
+	"Muhaymin"
+	"Musawwir"
+	"Mutakabbir"
+	"Qahhar"
+	"Quddus"
+	"Rahim"
+	"Rahman"
+	"Razzaq"
+	"Salam"
+	"Wahhab"
+}

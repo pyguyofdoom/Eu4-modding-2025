@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = shamanism
+primary_culture = italian
+capital = 1855
+fixed_capital = 1855
+1444.11.11= {
+	add_prestige = 16
+	add_treasury = 47
+}

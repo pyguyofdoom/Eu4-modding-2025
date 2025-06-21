@@ -1,0 +1,109 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 63 115 37 }
+revolutionary_colors = { 0 6 9 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	diplomatic_ideas
+	administrative_ideas
+	expansion_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Chakna #1" = 10
+	"Chatri #1" = 10
+	"Dongkar #1" = -1
+	"Dorlipun #0" = 0
+	"Driza #0" = -1
+	"Gui #0" = 0
+	"Jiyuan #0" = 0
+	"Jue #0" = 0
+	"Kaigu #1" = 10
+	"Ketuyu #0" = 0
+	"Lekpa #0" = 0
+	"Lingpa #1" = 10
+	"Mutik #2" = 10
+	"Nam #1" = 10
+	"Ngawang #1" = -1
+	"Palkye #2" = 10
+	"Ruizhi #0" = -1
+	"Selbar #3" = 10
+	"Shengtang #0" = -1
+	"Shilu #0" = 0
+	"Shuzen #0" = -1
+	"Shuzheng #0" = -1
+	"Songtsen #0" = 0
+	"Thrimalö #0" = -1
+	"Toktokteng #0" = -1
+	"Torma #0" = -1
+	"Trinyen #0" = 0
+	"Trisu #2" = 10
+	"Tritog #2" = 10
+	"Tshistöng #0" = -1
+	"Tuguci #0" = 0
+	"Wei #0" = 0
+	"Xi #0" = 0
+	"Xjwa #0" = 0
+	"Yuanzhen #0" = -1
+	"Yunying #0" = -1
+	"Zangmo #1" = -1
+	"Öpoche #0" = 0
+}
+leader_names = {
+	"Chandra"
+	"Chaukkapha"
+	"Das"
+	"Deka"
+	"Kalita"
+	"Mahanta"
+	"Narayan"
+	"Nitipal"
+	"Prithu"
+	"Roy"
+}
+ship_names = {
+	"Brahmaputra"
+	"Chingri Mach"
+	"Darrang"
+	"Devi"
+	"Dibang"
+	"Durga Ma"
+	"Ganga"
+	"Hilsa Mach"
+	"Ilish Mach"
+	"Kali Ma"
+	"Kali Meghana"
+	"Kali Nauk"
+	"Kamrup"
+	"Lakimpur"
+	"Lal Nauk"
+	"Loki Devi"
+	"Luhit"
+	"Machli"
+	"Manasa Devi"
+	"Manjuli"
+	"Meghna"
+	"Nil Nauk"
+	"Nil Sagor"
+	"Parvati Devi"
+	"Rui Mach"
+	"Sagorer Bahini"
+	"Saraswoti"
+	"Shakti"
+	"Shaktir Nauk"
+	"Shasti Ma"
+	"Sibsagar"
+	"Trishool"
+	"Uma Devi"
+}

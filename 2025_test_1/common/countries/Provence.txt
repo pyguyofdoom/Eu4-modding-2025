@@ -1,0 +1,248 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 93 160 163 }
+revolutionary_colors = { 0 14 0 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+historical_units = {
+	anglofrench_line
+	dutch_maurician
+	french_bluecoat
+	french_caracolle
+	french_cuirassier
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adelaida #1" = -1
+	"Adriano #1" = 10
+	"Afaf #0" = -1
+	"Aldebert #1" = 10
+	"Aldobrandino #1" = 10
+	"Aldrien #1" = 10
+	"Alfons #2" = 10
+	"Antoniotto #0" = 0
+	"Apollonia #0" = -1
+	"Aragonte #1" = -1
+	"Cadiou #1" = 10
+	"Ercole #0" = 0
+	"Euphrosine #0" = -1
+	"Ferran #3" = 10
+	"Filipa #0" = -1
+	"Filomena #0" = -1
+	"Friednand #1" = 10
+	"Gonçalo #1" = 10
+	"Gualtiero #0" = 0
+	"Gvantsa #0" = -1
+	"Hamelin #0" = 0
+	"Hereswith #0" = -1
+	"Iarnuocon #1" = 10
+	"Ionas #1" = 10
+	"Mathieu #0" = 0
+	"Nehilai #1" = 10
+	"Neven #1" = 10
+	"Pelagio #1" = 10
+	"Putrael #1" = 10
+	"Rodericho #2" = 10
+	"Roparth #1" = 10
+	"Rostislava #0" = -1
+	"Sisenanda #1" = -1
+	"Stane #1" = 10
+	"Theocharistos #0" = 0
+	"Theodoricho #1" = 10
+	"Éléonore #1" = -1
+}
+leader_names = {
+	"Coquerel"
+	"Esparron"
+	"Fauque de Jonquières"
+	"Ferré de la Grange"
+	"Grimaldi"
+	"Pene de la Borde"
+	"d'Abeille"
+	"d'Adhémar"
+	"d'Agoult"
+	"d'Aiglun"
+	"d'Aiguières"
+	"d'Allemagne"
+	"d'Amalric"
+	"d'Audiffredi"
+	"d'Entrecasteaux"
+	"d'Espagnet"
+	"d'Espinouze"
+	"de Bagnols"
+	"de Barberin"
+	"de Barcillon"
+	"de Baschi"
+	"de Bermond"
+	"de Bionneau"
+	"de Brunet"
+	"de Cadenet"
+	"de Cascaris-Castellet"
+	"de Castaing"
+	"de Castellane"
+	"de Castillon"
+	"de Cordes"
+	"de Cormis"
+	"de Crillon"
+	"de Fargis"
+	"de Gassendi"
+	"de Gombert"
+	"de Gordes"
+	"de Grignan"
+	"de Grimaud"
+	"de Guast"
+	"de Gévaudan"
+	"de Lauris"
+	"de Libertat"
+	"de Loménie"
+	"de Monteil"
+	"de Montpezat"
+	"de Paule"
+	"de Pena"
+	"de Pontevès"
+	"de Raimondis"
+	"de Revest"
+	"de Riquetti"
+	"de Sabran"
+	"de Sade"
+	"de Saint Victoret"
+	"de Simiane"
+	"de Séguiran"
+	"de Valbelle"
+	"de la Pérusse"
+	"des Baux"
+	"des Isnards"
+}
+ship_names = {
+	"Achille"
+	"Agréable"
+	"Aigle Volant"
+	"Alcyon"
+	"Alouette"
+	"Altier"
+	"Aquilon"
+	"Ardente"
+	"Assuré"
+	"Avenant"
+	"Aventurier"
+	"Baleine"
+	"Bienvenu"
+	"Bizarre"
+	"Borée"
+	"Branche d'Olivier"
+	"Brillant"
+	"Bucentaure"
+	"Bécasse"
+	"Caché"
+	"Caille"
+	"Capable"
+	"Centaure"
+	"Cheval Marin"
+	"Coche"
+	"Commerce de Marseille"
+	"Commerce de Montpellier"
+	"Comte de Provence"
+	"Conquérant"
+	"Constant"
+	"Content"
+	"Croissant"
+	"César"
+	"Dauphine"
+	"Diamant"
+	"Dieppoise"
+	"Dromadaire"
+	"Dur"
+	"Eclatant"
+	"Eole"
+	"Espérance"
+	"Fantasque"
+	"Ferme"
+	"Fidèle"
+	"Fier"
+	"Florissant"
+	"Formidable"
+	"Fort"
+	"Foudroyant"
+	"Gaillard"
+	"Heureux"
+	"Héros"
+	"Jason"
+	"Lion"
+	"Mignon"
+	"Minerve"
+	"Océan"
+	"Orphée"
+	"Parfait"
+	"Phénix"
+	"Poli"
+	"Pompeux"
+	"Portefaix"
+	"Protecteur"
+	"Provence"
+	"Provençal"
+	"Prudent"
+	"Puissant"
+	"Redoutable"
+	"Requin"
+	"Royal Louis"
+	"Royal Thérèse"
+	"Réale"
+	"Sage"
+	"Sagittaire"
+	"Saint Esprit"
+	"Saint Joseph"
+	"Saint Philippe"
+	"Sardine"
+	"Sceptre"
+	"Seine"
+	"Solide"
+	"Souverain"
+	"Suffisant"
+	"Séduisant"
+	"Sérieux"
+	"Terrible"
+	"Tigre"
+	"Tonnant"
+	"Toulon"
+	"Toulouse"
+	"Trident"
+	"Triomphant"
+	"Triton"
+	"Téméraire"
+	"Union"
+	"Vaillant"
+	"Vigilant"
+	"Volontaire"
+	"Zélé"
+}
+army_names = {
+	"Armée d'Orange"
+	"Armée de $PROVINCE$"
+	"Armée de Basse Provence"
+	"Armée de Haute Provence"
+	"Armée de Marseille"
+	"Armée de Provence-Forcalquier"
+	"Armée de la Durance"
+	"Armée des Alpes"
+	"Armée des Baux"
+	"Armée du Pays d'Arles"
+	"Armée du Rhône"
+	"Armée du Vivarais"
+}

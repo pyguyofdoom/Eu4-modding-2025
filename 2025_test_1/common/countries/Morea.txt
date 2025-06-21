@@ -1,0 +1,99 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 168 121 129 }
+revolutionary_colors = { 4 8 4 }
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Adriane #0" = -1
+	"Aigidia #0" = -1
+	"Alboino #0" = 0
+	"Aldobrandino #0" = 0
+	"Alexandra #0" = -1
+	"Alpaïs #0" = -1
+	"Andronikos #0" = 0
+	"Antipatra #0" = -1
+	"Basileios #0" = 0
+	"Basillike #0" = -1
+	"Chagur #0" = -1
+	"Chrysogone #0" = -1
+	"Euphemios #0" = 0
+	"Gregoras #0" = 0
+	"Gudual #0" = 0
+	"Hisên #0" = 0
+	"Iouliana #0" = -1
+	"Khugurchin #0" = -1
+	"Konstantios #0" = 0
+	"Kosmas #0" = 0
+	"Kyriake #0" = -1
+	"Kyros #0" = 0
+	"Leontia #0" = -1
+	"Manuel #0" = 0
+	"Margarita #0" = -1
+	"Maximos #0" = 0
+	"Nogai #0" = 0
+	"Pantoleon #0" = 0
+	"Porphyrios #0" = 0
+	"Prokopios #0" = 0
+	"Rhodanthe #0" = -1
+	"Sermon #0" = 0
+	"Theocharistos #0" = 0
+	"Theophylaktos #0" = 0
+	"Valeria #0" = -1
+	"Zenobios #0" = 0
+}
+leader_names = {
+	"Angelus"
+	"Asan"
+	"Branas"
+	"Cantacuzene"
+	"Comnenus"
+	"Ducas"
+	"Mavros"
+	"Notaras"
+	"Palaeologus"
+	"Phocas"
+	"Raoul"
+	"Spagnoli"
+	"Sphrantzes"
+	"Tocco"
+	"Zaccaria"
+}
+ship_names = {
+	"Agios Kyprianos"
+	"Areopoli"
+	"Elika"
+	"Geronlimenas"
+	"Gytheio"
+	"Kardamyli"
+	"Kokkala"
+	"Kotronas"
+	"Skoutari"
+	"Vathia"
+}

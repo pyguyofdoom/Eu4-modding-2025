@@ -1,0 +1,98 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 195 149 155 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	administrative_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	hungarian_hussar
+	polish_hussar
+	polish_musketeer
+	polish_tercio
+	polish_winged_hussar
+	russian_cuirassier
+	russian_lancer
+	russian_mass
+	slavic_stradioti
+}
+monarch_names = {
+	"Achai #0" = 0
+	"Agnieszka #0" = -1
+	"Alexei #3" = 10
+	"Almòdis #1" = -1
+	"Anikó #0" = -1
+	"Anna #0" = -1
+	"Bogumil #0" = 0
+	"Bohumila #0" = -1
+	"Boleslaw #1" = 10
+	"Bretislava #0" = -1
+	"Carles #1" = 10
+	"Doubravka #0" = -1
+	"Drahoslava #0" = -1
+	"Eszter #0" = -1
+	"Francés #1" = 10
+	"Gierolt #1" = 10
+	"Jan #1" = 10
+	"Jana #0" = -1
+	"Justina #0" = -1
+	"Katarzyna #1" = -1
+	"Kristyna #0" = -1
+	"Krystyna #0" = -1
+	"Malusha #0" = -1
+	"Markvart #0" = 0
+	"Olga #0" = -1
+	"Pechna #1" = -1
+	"Prokop #0" = 0
+	"Samboja #0" = -1
+	"Scholastyka #0" = -1
+	"Simon #1" = 10
+	"Skarbimir #0" = 0
+	"Stanislava #0" = -1
+	"Stanislawa #0" = -1
+	"Stoigniew #1" = 10
+	"Swietopelk #1" = 10
+	"Szczesny #2" = 10
+	"Urszula #0" = -1
+}
+leader_names = {
+	"Jagiellon"
+	"Kedzierzawy"
+	"Leszczynski"
+	"Lubomirski"
+	"Piast"
+	"Poniatowski"
+	"Premyslid"
+	"Radziwill"
+	"Sapieha"
+	"Wisniowiecki"
+}
+ship_names = {
+	"Biebrza"
+	"Bug"
+	"Bzura"
+	"Kolno"
+	"Liwiec"
+	"Lowicz"
+	"Mlawa"
+	"Narew"
+	"Pilica"
+	"Radomka"
+	"Warszawa"
+	"Wisla"
+	"Wizna"
+	"Wkra"
+}

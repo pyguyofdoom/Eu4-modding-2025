@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = greek
+capital = 2348
+add_accepted_culture = anatolian
+1444.11.11= {
+	monarch = {
+		name = "Sabas"
+		dynasty = "Konops"
+		adm = 5
+		dip = 3
+		mil = 6
+		birth_date = 1401.9.19
+		religion = catholic
+		culture = greek
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = expansionist_personality
+	queen = {
+		name = "Euphrosyne"
+		dynasty = "Akropolites"
+		adm = 3
+		dip = 2
+		mil = 4
+		country_of_origin = Y37
+		birth_date = 1400.6.8
+		death_date = 1460.6.8
+		female = yes
+		religion = catholic
+		culture = greek
+	}
+	add_queen_personality = infertile_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Iakobos"
+		monarch_name = "Iakobos"
+		dynasty = "Konops"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1420.3.21
+		death_date = 1485.3.21
+		claim = 89
+		religion = catholic
+		culture = greek
+	}
+	add_heir_personality = infertile_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 62
+	add_treasury = 65
+}

@@ -1,0 +1,97 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 106 38 44 }
+revolutionary_colors = { 5 0 1 }
+historical_idea_groups = {
+	defensive_ideas
+	maritime_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abdul-Wahab #1" = 10
+	"Abolhassan #1" = 10
+	"Afshar #0" = 0
+	"Ahu #0" = -1
+	"Ardeshir #0" = 0
+	"Bahir #1" = 10
+	"Delaram #0" = -1
+	"Elnaz #0" = -1
+	"Fadil #1" = 10
+	"Fareed #1" = 10
+	"Ferdows #0" = 0
+	"Ghamze #0" = -1
+	"Ghobad #0" = 0
+	"Godarz #2" = 10
+	"Jalil #1" = 10
+	"Leila #0" = -1
+	"Mehrzad #0" = 0
+	"Mohammed #1" = 10
+	"Morteza #0" = 0
+	"Mubarak #2" = 10
+	"Muhammad #1" = 10
+	"Musa #2" = 10
+	"Nizam #2" = 10
+	"Parvin #0" = -1
+	"Salomeh #0" = -1
+	"Shanbeh #0" = 0
+	"Shonlin #0" = -1
+	"Tanaz #0" = -1
+	"Vahid #1" = 10
+	"Vali #0" = 0
+	"Yazdegerd #0" = 0
+	"Yesal #0" = 0
+	"Zia #1" = 10
+	"Zohreh #0" = -1
+}
+leader_names = {
+	"Ali"
+	"Ibrahim"
+	"Issa"
+	"Jomaa"
+	"Khalil"
+	"Mansour"
+	"Saab"
+	"Saad"
+	"Saleh"
+	"Shammas"
+}
+ship_names = {
+	"Al-Kawd"
+	"Ali ibn Rasul"
+	"At-Tubah"
+	"Dhubab"
+	"Ibb"
+	"Jabal Kharaz"
+	"Jabal Thamar"
+	"Jabal al-Hasha"
+	"Malik al-Mujahid"
+	"Mansur Umar"
+	"Mawiyah"
+	"Musaymir"
+	"Muzaffar Yusuf"
+	"Qa'tabah"
+	"Shaykh Uthman"
+	"Ta'izz"
+	"Wadi Bana"
+	"Whaqra"
+	"Zabid"
+	"Zaizz"
+}

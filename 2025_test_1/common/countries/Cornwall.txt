@@ -1,0 +1,154 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 155 56 0 }
+revolutionary_colors = { 1 0 1 }
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+}
+historical_units = {
+	anglofrench_line
+	british_hussar
+	british_redcoat
+	british_square
+	gaelic_free_shooter
+	gaelic_mercenary
+	irish_charge
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_longbow
+	western_medieval_infantry
+	western_medieval_knights
+}
+monarch_names = {
+	"Ale #0" = 0
+	"Arnfast #0" = 0
+	"Bagge #0" = 0
+	"Bo #2" = 10
+	"Buzan #0" = 0
+	"Dyre #0" = 0
+	"Eirikr #0" = 0
+	"Eleina #1" = -1
+	"Falki #2" = 10
+	"Freyr #2" = 10
+	"Goennoc #1" = 10
+	"Gorm #1" = 10
+	"Gurli #0" = -1
+	"Guðröðr #1" = 10
+	"Haukr #1" = 10
+	"Helena #0" = -1
+	"Ingjald #1" = 10
+	"Ivar #0" = 0
+	"Kol #1" = 10
+	"Malyy #0" = 0
+	"Olafr #1" = 10
+	"Refil #0" = 0
+	"Sigbjörn #1" = 10
+	"Sigurðr #0" = 0
+	"Totil #1" = 10
+	"Örvar #0" = 0
+	"Öysteinn #0" = 0
+	"Þorbrandr #1" = 10
+}
+leader_names = {
+	"Arthur"
+	"Audley"
+	"Boscawen"
+	"Carew"
+	"Chynoweth"
+	"Clemow"
+	"Collett"
+	"Connor"
+	"Cornish"
+	"Curnow"
+	"Davy"
+	"Drake"
+	"Drew"
+	"Endean"
+	"Flamank"
+	"Furze"
+	"Gwynn"
+	"Hale"
+	"Innes"
+	"Jago"
+	"James"
+	"Jenner"
+	"Jolley"
+	"Joseph"
+	"Keverne"
+	"Lanyon"
+	"Locke"
+	"Lyon"
+	"Menhenick"
+	"Oates"
+	"Pascoe"
+	"Penberthy"
+	"Pendennis"
+	"Penhaligon"
+	"Pentreath"
+	"Pethick"
+	"Polwin"
+	"Quintrell"
+	"Roscarrock"
+	"Rosewarne"
+	"St Aubyn"
+	"Sweet"
+	"Trehearne"
+	"Trelawny"
+	"Trescothick"
+	"Trevelyan"
+	"Trevithick"
+	"Tyrell"
+	"Warren"
+	"Weekes"
+}
+ship_names = {
+	"Arthur"
+	"Bodmin"
+	"Bolster"
+	"Brutus"
+	"Chough"
+	"Corineus"
+	"Cormoran"
+	"Cornishman"
+	"Dumnonia"
+	"Excalibur"
+	"Falmouth"
+	"Galahad"
+	"Gawain"
+	"Guinevere"
+	"Hal-an-Tow"
+	"Helston"
+	"Kernow"
+	"King Mark"
+	"Lancelot"
+	"Launceston"
+	"Lizard"
+	"Lostwithiel"
+	"Lyonesse"
+	"Marazion"
+	"Mousehole"
+	"Pendragon"
+	"Penzance"
+	"Porthleven"
+	"Restormel"
+	"Scillonian"
+	"St Ives"
+	"St Michael"
+	"St Petroc"
+	"St Pirin"
+	"Stannary"
+	"Tamar"
+	"Tintagel"
+	"Trelawny"
+	"Truro"
+	"Whitsand"
+}

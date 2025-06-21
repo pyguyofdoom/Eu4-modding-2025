@@ -1,0 +1,96 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 153 138 161 }
+revolutionary_colors = { 5 0 1 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Alah-Verdi #0" = 0
+	"Asa #0" = -1
+	"Assad #0" = 0
+	"Aurang #1" = 10
+	"Cehandar #0" = 0
+	"Cehangir #0" = 0
+	"Daryûš #1" = 10
+	"Elham #0" = -1
+	"Erdešîr #2" = 10
+	"Esfendiyar #1" = 10
+	"Ferhan #0" = 0
+	"Ferîd #1" = 10
+	"Ferîdun #0" = 0
+	"Golbahar #0" = -1
+	"Golshan #0" = -1
+	"Hazarasp #0" = 0
+	"Hedayat #0" = 0
+	"Helez #0" = -1
+	"Hesen #1" = 10
+	"Hezarhesp #1" = 10
+	"Hormoz #1" = 10
+	"Humayun #0" = 0
+	"Ismat #1" = 10
+	"Kamran #0" = 0
+	"Mahdokht #0" = -1
+	"Mendal #0" = -1
+	"Mistefa #0" = 0
+	"Naveed #0" = 0
+	"Nesir #3" = 10
+	"Nexšîn #0" = -1
+	"Nezam #0" = 0
+	"Pêšeng #0" = 0
+	"Pîroz #0" = 0
+	"Rewšen #0" = -1
+	"Reza #1" = 10
+	"Ruhollah #1" = 10
+	"Sergul #0" = -1
+	"Tahmasp #0" = 0
+	"Vahid #1" = 10
+	"Šahbaz #2" = 10
+	"Šarvin #0" = 0
+	"Ševba #0" = -1
+	"Šîlan #0" = -1
+}
+leader_names = {
+	"Agha"
+	"Ahmad"
+	"Akif"
+	"Husain"
+	"Javid"
+	"Necip"
+	"Nuri"
+	"Rahman"
+	"Resid"
+	"Zaki"
+}
+ship_names = {
+	"Faydhi"
+	"Fazil"
+	"Jamal"
+	"Kadri"
+	"Midhat"
+	"Nadhif"
+	"Nadhim"
+	"Namiq"
+	"Omer"
+	"Sirri"
+}

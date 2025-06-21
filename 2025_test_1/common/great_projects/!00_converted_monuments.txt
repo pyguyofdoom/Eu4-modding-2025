@@ -1,0 +1,1902 @@
+
+#----------- Great Temple of Odin -----------
+wonder_temple_pagan_7 = {
+	start = 1
+
+	date = 1228.7.23
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = no
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 1
+
+	type = monument
+
+	build_trigger = {
+		OR = {
+			AND = {
+				religion_group = pagan
+				province_is_or_accepts_religion_group = yes
+			}
+		
+	}
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		OR = {
+			AND = {
+				religion_group = pagan
+				province_is_or_accepts_religion_group = yes
+			}
+		
+	}
+	}
+
+	can_upgrade_trigger = {
+		OR = {
+			AND = {
+				religion_group = pagan
+				province_is_or_accepts_religion_group = yes
+			}
+		
+	}
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			church_loyalty_modifier = 0
+			global_unrest = 0
+			missionaries = 0
+			prestige = 0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			church_loyalty_modifier = 0.05
+			global_unrest = -0.5
+			missionaries = 1
+			prestige = 0.5
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			church_loyalty_modifier = 0.1
+			global_unrest = -1
+			missionaries = 1
+			prestige = 1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			church_loyalty_modifier = 0.15
+			global_unrest = -1
+			missionaries = 1
+			prestige = 1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+
+
+#----------- Vannes University -----------
+wonder_university_9 = {
+	start = 171
+
+	date = 1277.3.15
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = no
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 0
+
+	type = monument
+
+	build_trigger = {
+		OR = {
+			 NOT = { OWNER = { has_reform = steppe_horde } } 
+	}
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		OR = {
+			 NOT = { OWNER = { has_reform = steppe_horde } } 
+	}
+	}
+
+	can_upgrade_trigger = {
+		OR = {
+			 NOT = { OWNER = { has_reform = steppe_horde } } 
+	}
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			governing_capacity_modifier = 0
+			idea_cost = 0
+			technology_cost = 0
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			governing_capacity_modifier = 0.05
+			idea_cost = -0.1
+			technology_cost = -0.05
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			governing_capacity_modifier = 0.1
+			idea_cost = -0.15
+			technology_cost = -0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			governing_capacity_modifier = 0.15
+			idea_cost = -0.2
+			technology_cost = -0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+
+
+#----------- Grand Harbor of  Bleidcum -----------
+wonder_harbor_1 = {
+	start = 172
+
+	date = 977.3.24
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = no
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 3
+
+	type = monument
+
+	build_trigger = {
+		
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		
+	}
+
+	can_upgrade_trigger = {
+		
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			local_sailors_modifier = 0
+			local_ship_repair = 0
+			
+		}
+
+		area_modifier = {
+			local_friendly_movement_speed = 0
+			local_tax_modifier = 0
+			
+		}
+
+		country_modifiers = {
+			caravan_power = 0
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			local_sailors_modifier = 0.1
+			local_ship_repair = 0.1
+			
+		}
+
+		area_modifier = {
+			local_friendly_movement_speed = 0.1
+			local_tax_modifier = 0.1
+			
+		}
+
+		country_modifiers = {
+			caravan_power = 0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			local_sailors_modifier = 0.2
+			local_ship_repair = 0.2
+			
+		}
+
+		area_modifier = {
+			local_friendly_movement_speed = 0.2
+			local_tax_modifier = 0.25
+			
+		}
+
+		country_modifiers = {
+			caravan_power = 0.2
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			local_sailors_modifier = 0.25
+			local_ship_repair = 0.25
+			
+		}
+
+		area_modifier = {
+			local_friendly_movement_speed = 0.2
+			local_tax_modifier = 0.5
+			
+		}
+
+		country_modifiers = {
+			caravan_power = 0.3
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+
+
+#----------- Fort Marizian -----------
+wonder_fortress_6 = {
+	start = 192
+
+	date = 1184.9.4
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = no
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 0
+
+	type = monument
+
+	build_trigger = {
+		
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		
+	}
+
+	can_upgrade_trigger = {
+		
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			local_defensiveness = 0.05
+			
+		}
+
+		area_modifier = {
+			local_defensiveness = 0
+			local_hostile_attrition = 0
+			
+		}
+
+		country_modifiers = {
+			caravan_power = 0
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			local_defensiveness = 0.2
+			
+		}
+
+		area_modifier = {
+			local_defensiveness = 0.1
+			local_hostile_attrition = 1
+			
+		}
+
+		country_modifiers = {
+			caravan_power = 0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			local_defensiveness = 0.33
+			
+		}
+
+		area_modifier = {
+			local_defensiveness = 0.15
+			local_hostile_attrition = 1
+			
+		}
+
+		country_modifiers = {
+			caravan_power = 0.2
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			local_defensiveness = 0.33
+			
+		}
+
+		area_modifier = {
+			local_defensiveness = 0.2
+			local_hostile_attrition = 2
+			
+		}
+
+		country_modifiers = {
+			caravan_power = 0.3
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+
+
+#----------- William Sherman Statue -----------
+wonder_statue_ruler_0 = {
+	start = 266
+
+	date = 943.8.18
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = yes
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 1
+
+	type = monument
+
+	build_trigger = {
+		
+AND = {
+				culture = bohemian
+				has_owner_culture = yes
+			}
+		
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		
+AND = {
+				culture = bohemian
+				has_owner_culture = yes
+			}
+		
+	}
+
+	can_upgrade_trigger = {
+		
+AND = {
+				culture = bohemian
+				has_owner_culture = yes
+			}
+		
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			local_development_cost = 0
+			local_hostile_attrition = 0
+			local_unrest = 0
+			
+		}
+
+		country_modifiers = {
+			culture_conversion_cost = 0
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			local_development_cost = -0.1
+			local_hostile_attrition = 1
+			local_unrest = -0.5
+			
+		}
+
+		country_modifiers = {
+			culture_conversion_cost = -0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			local_development_cost = -0.15
+			local_hostile_attrition = 1
+			local_unrest = -1
+			
+		}
+
+		country_modifiers = {
+			culture_conversion_cost = -0.2
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			local_development_cost = -0.2
+			local_hostile_attrition = 2
+			local_unrest = -2
+			
+		}
+
+		country_modifiers = {
+			culture_conversion_cost = -0.25
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+
+
+#----------- The Great Willy Wonka Library -----------
+wonder_library_2 = {
+	start = 267
+
+	date = 1048.4.12
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = yes
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 0
+
+	type = monument
+
+	build_trigger = {
+		OR = {
+			 NOT = { OWNER = { has_reform = steppe_horde } } 
+	}
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		OR = {
+			 NOT = { OWNER = { has_reform = steppe_horde } } 
+	}
+	}
+
+	can_upgrade_trigger = {
+		OR = {
+			 NOT = { OWNER = { has_reform = steppe_horde } } 
+	}
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			idea_cost = 0
+			innovativeness_gain = 0
+			technology_cost = 0
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			idea_cost = -0.1
+			innovativeness_gain = 0.25
+			technology_cost = -0.05
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			idea_cost = -0.15
+			innovativeness_gain = 0.5
+			technology_cost = -0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			idea_cost = -0.2
+			innovativeness_gain = 1
+			technology_cost = -0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+
+
+#----------- Grand Harbour of Trapezous -----------
+wonder_harbor_12 = {
+	start = 330
+
+	date = 1285.2.8
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = no
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 0
+
+	type = monument
+
+	build_trigger = {
+		
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		
+	}
+
+	can_upgrade_trigger = {
+		
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			hostile_fleet_attrition = 0
+			local_sailors_modifier = 0
+			local_ship_repair = 0
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			global_ship_trade_power = 0
+			governing_capacity_modifier = 0
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			hostile_fleet_attrition = 0
+			local_sailors_modifier = 0.1
+			local_ship_repair = 0.1
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			global_ship_trade_power = 0.1
+			governing_capacity_modifier = 0.05
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			hostile_fleet_attrition = 5
+			local_sailors_modifier = 0.2
+			local_ship_repair = 0.2
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			global_ship_trade_power = 0.2
+			governing_capacity_modifier = 0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			hostile_fleet_attrition = 10
+			local_sailors_modifier = 0.25
+			local_ship_repair = 0.25
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			global_ship_trade_power = 0.25
+			governing_capacity_modifier = 0.15
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+
+
+#----------- Davit University -----------
+wonder_university_5 = {
+	start = 423
+
+	date = 1171.7.11
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = no
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 2
+
+	type = monument
+
+	build_trigger = {
+		OR = {
+			 NOT = { OWNER = { has_reform = steppe_horde } } 
+	}
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		OR = {
+			 NOT = { OWNER = { has_reform = steppe_horde } } 
+	}
+	}
+
+	can_upgrade_trigger = {
+		OR = {
+			 NOT = { OWNER = { has_reform = steppe_horde } } 
+	}
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			garrison_growth = 0
+			
+		}
+
+		country_modifiers = {
+			adm_tech_cost_modifier = 0
+			idea_cost = 0
+			technology_cost = 0
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			garrison_growth = 0.1
+			
+		}
+
+		country_modifiers = {
+			adm_tech_cost_modifier = -0.05
+			idea_cost = -0.1
+			technology_cost = -0.05
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			garrison_growth = 0.2
+			
+		}
+
+		country_modifiers = {
+			adm_tech_cost_modifier = -0.1
+			idea_cost = -0.15
+			technology_cost = -0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			garrison_growth = 0.33
+			
+		}
+
+		country_modifiers = {
+			adm_tech_cost_modifier = -0.2
+			idea_cost = -0.2
+			technology_cost = -0.1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+
+
+#----------- Grand Palace of Kalyani -----------
+wonder_palace_4 = {
+	start = 2035
+
+	date = 1081.1.7
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = no
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 3
+
+	type = monument
+
+	build_trigger = {
+		
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		
+	}
+
+	can_upgrade_trigger = {
+		
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			local_state_maintenance_modifier = 0
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			advisor_cost = 0
+			advisor_pool = 0
+			num_accepted_cultures = 0
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			local_state_maintenance_modifier = -0.5
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			advisor_cost = -0.1
+			advisor_pool = 0
+			num_accepted_cultures = 1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			local_state_maintenance_modifier = -0.75
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			advisor_cost = -0.2
+			advisor_pool = 1
+			num_accepted_cultures = 1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			local_state_maintenance_modifier = -1
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			advisor_cost = -0.25
+			advisor_pool = 1
+			num_accepted_cultures = 1
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+
+
+#----------- Mausoleum at Albania -----------
+wonder_mausoleum_11 = {
+	start = 4305
+
+	date = 1282.12.12
+
+	time = {
+		 months = 0
+	}
+
+	build_cost = 0
+
+	can_be_moved = no
+
+	move_days_per_unit_distance = 2
+
+	starting_tier = 0
+
+	type = monument
+
+	build_trigger = {
+		
+AND = {
+				religion = orthodox
+				has_owner_religion = yes
+			}
+		
+	}
+
+	on_built = {
+		
+	}
+
+	on_destroyed = {
+		
+	}
+
+	can_use_modifiers_trigger = {
+		
+AND = {
+				religion = orthodox
+				has_owner_religion = yes
+			}
+		
+	}
+
+	can_upgrade_trigger = {
+		
+AND = {
+				religion = orthodox
+				has_owner_religion = yes
+			}
+		
+	}
+
+	keep_trigger = {
+		
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			devotion = 0
+			governing_capacity_modifier = 0
+			horde_unity = 0
+			infantry_cost = 0
+			legitimacy = 0
+			meritocracy = 0
+			republican_tradition = 0
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			devotion = 0.5
+			governing_capacity_modifier = 0.05
+			horde_unity = 0.5
+			infantry_cost = -0.05
+			legitimacy = 0.5
+			meritocracy = 0.25
+			republican_tradition = 0.25
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			devotion = 1
+			governing_capacity_modifier = 0.1
+			horde_unity = 1
+			infantry_cost = -0.1
+			legitimacy = 1
+			meritocracy = 0.5
+			republican_tradition = 0.5
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		province_modifiers = {
+			
+		}
+
+		area_modifier = {
+			
+		}
+
+		country_modifiers = {
+			devotion = 1
+			governing_capacity_modifier = 0.15
+			horde_unity = 1
+			infantry_cost = -0.2
+			legitimacy = 1
+			meritocracy = 0.5
+			republican_tradition = 0.5
+			
+		}
+
+		on_upgraded = {
+			
+			
+			
+			
+		}
+	}
+}
+
+#-----------------------------
+

@@ -1,0 +1,7 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 241 115 65 }
+monarch_names = {
+	"Buriana #0" = -1
+	"Maenci #0" = 0
+}

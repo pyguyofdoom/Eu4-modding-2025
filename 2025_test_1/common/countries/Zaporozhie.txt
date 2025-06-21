@@ -1,0 +1,138 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 117 112 131 }
+revolutionary_colors = { 2 8 2 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	eastern_carabinier
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Alajos #0" = 0
+	"Alexia #0" = -1
+	"Baitzas #1" = 10
+	"Batas #1" = 10
+	"Benedek #0" = 0
+	"Bernát #0" = 0
+	"Bersi #0" = 0
+	"Bertók #0" = 0
+	"Boldizsár #0" = 0
+	"Borisz #0" = 0
+	"Boru #1" = 10
+	"Bálint #0" = 0
+	"Csilla #0" = -1
+	"Emõke #0" = -1
+	"Erzsébet #0" = -1
+	"Eszter #0" = -1
+	"Eufemia #0" = -1
+	"Euphemia #0" = -1
+	"Frigyes #0" = 0
+	"Gazsi #0" = 0
+	"Giazis #1" = 10
+	"Gyula #0" = 0
+	"Jenõ #0" = 0
+	"Jolán #0" = -1
+	"József #0" = 0
+	"Kaydum #1" = 10
+	"Kinga #0" = -1
+	"Klára #0" = -1
+	"Konrád #1" = 10
+	"Kornél #1" = 10
+	"Kristóf #0" = 0
+	"Krisztina #0" = -1
+	"Kálmán #0" = 0
+	"Károly #0" = 0
+	"Lukács #0" = 0
+	"Lõrinc #1" = 10
+	"Margaréta #0" = -1
+	"Mihály #2" = 10
+	"Máté #0" = 0
+	"Mózes #1" = 10
+	"Nevena #0" = -1
+	"Orbán #1" = 10
+	"Pál #1" = 10
+	"Rostislav #0" = 0
+	"Rózsa #0" = -1
+	"Samboja #0" = -1
+	"Sevilay #0" = -1
+	"Soma #0" = 0
+	"Stana #0" = -1
+	"Stoigniew #0" = 0
+	"Sámuel #0" = 0
+	"Sándor #0" = 0
+	"Theodora #0" = -1
+	"Tivadar #0" = 0
+	"Tura #1" = -1
+	"Tádor #0" = 0
+	"Vazul #0" = 0
+	"Viacheslav #0" = 0
+	"Vilmos #0" = 0
+	"Vladislava #0" = -1
+	"Yildiz #0" = -1
+	"Zbigniew #0" = 0
+	"Zsigmond #0" = 0
+	"Ágoston #1" = 10
+	"Álmos #0" = 0
+}
+leader_names = {
+	"Andrukhovych"
+	"Cheremshyna"
+	"Dukhnovych"
+	"Holovatskyi"
+	"Hutsalo"
+	"Khvylovy"
+	"Kobylyanska"
+	"Korniychuk"
+	"Kostomarov"
+	"Kulish"
+	"Kvitka"
+	"Marinina"
+	"Palahniuk"
+	"Pokalchuk"
+	"Shashkevych"
+	"Stefanyk"
+	"Stelmakh"
+	"Tobilevich"
+	"Vovchok"
+	"Vyshnia"
+	"Zabara"
+}
+ship_names = {
+	"Akimivka"
+	"Dnieper"
+	"Energodar"
+	"Guliajpole"
+	"Khortytsia"
+	"Melitopol"
+	"Mikhaylovka"
+	"Orekhov"
+	"Pologi"
+	"Tokmak"
+	"Vesele"
+	"Viliansk"
+	"Zaporizhia Sich"
+	"Zaporozhian Voisko"
+}

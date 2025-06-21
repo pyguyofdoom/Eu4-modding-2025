@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = czech
+capital = 2967
+1444.11.11= {
+	monarch = {
+		name = "Zbynek"
+		dynasty = "z Brezna"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1413.4.27
+		religion = catholic
+		culture = czech
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = malevolent_personality
+	queen = {
+		name = "Vladislava"
+		dynasty = "Pushkin"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = MEI
+		birth_date = 1413.1.28
+		death_date = 1473.1.28
+		female = yes
+		religion = catholic
+		culture = czech
+	}
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = infertile_personality
+	heir = {
+		name = "Zbynek"
+		monarch_name = "Zbynek II"
+		dynasty = "z Brezna"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1433.6.11
+		death_date = 1498.6.11
+		claim = 89
+		religion = catholic
+		culture = czech
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = just_personality
+}
+1444.11.11= {
+	add_prestige = 56
+	add_treasury = 58
+}

@@ -1,0 +1,96 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 84 166 93 }
+revolutionary_colors = { 8 1 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Bavor #0" = 0
+	"Budivoj #0" = 0
+	"Dat #1" = 10
+	"Diepold #0" = 0
+	"Eufemie #0" = -1
+	"Gniewosz #1" = 10
+	"Guta #0" = -1
+	"Hedvika #1" = -1
+	"Herman #1" = 10
+	"Hynek #0" = 0
+	"Jana #0" = -1
+	"Jaroslava #0" = -1
+	"Jindrich #0" = 0
+	"Jirík #0" = 0
+	"Joe Biden #1" = 10
+	"Justina #1" = -1
+	"Kazimiera #1" = -1
+	"Litold #1" = 10
+	"Mauregato #0" = 0
+	"Mikulás #1" = 10
+	"Ojír #2" = 10
+	"Pechna #1" = -1
+	"Prokop #0" = 0
+	"Rajmund #1" = 10
+	"Rostislav #0" = 0
+	"Sedziej #1" = 10
+	"Slavomír #0" = 0
+	"Sulistryj #1" = 10
+	"Sviatopolk #1" = 10
+	"Szczesny #2" = 10
+	"Vítek #1" = 10
+	"Wolfram #0" = 0
+	"Závis #0" = 0
+}
+leader_names = {
+	"Abeln"
+	"Greve"
+	"Gronau"
+	"Heintzel"
+	"Hergesell"
+	"Hoppe"
+	"Jauernik"
+	"Kahl"
+	"Liegnitz"
+	"Schwarz"
+	"Sterner"
+	"Tilch"
+	"Wiehle"
+}
+ship_names = {
+	"Breslau"
+	"Cosel-Beuthen"
+	"Falkenberg"
+	"Glogau"
+	"Liegnitz-Brieg"
+	"Münsterberg"
+	"Neisse-Ottmachau"
+	"Oels"
+	"Oppeln"
+	"Ratibor"
+	"Sagan"
+	"Schweidnitz-Jauer"
+	"Steinau"
+	"Teschen"
+}

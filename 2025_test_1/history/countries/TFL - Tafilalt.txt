@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = west_african_pagan_reformed
+primary_culture = mali
+capital = 2460
+add_accepted_culture = sardinian
+1444.11.11= {
+	monarch = {
+		name = "Igoumou"
+		dynasty = "Kanbu"
+		adm = 1
+		dip = 4
+		mil = 3
+		birth_date = 1415.7.25
+		religion = west_african_pagan_reformed
+		culture = mali
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Alima"
+		dynasty = "Kanbu"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = TFL
+		birth_date = 1417.8.25
+		death_date = 1477.8.25
+		female = yes
+		religion = west_african_pagan_reformed
+		culture = mali
+	}
+	add_queen_personality = silver_tongue_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Biyu"
+		monarch_name = "Biyu"
+		dynasty = "Kanbu"
+		adm = 1
+		dip = 0
+		mil = 0
+		birth_date = 1442.7.7
+		death_date = 1507.7.7
+		claim = 89
+		religion = west_african_pagan_reformed
+		culture = mali
+	}
+	add_heir_personality = babbling_buffoon_personality
+	add_heir_personality = naive_personality
+}
+1444.11.11= {
+	add_prestige = 32
+	add_treasury = 60
+}

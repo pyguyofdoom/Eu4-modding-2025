@@ -1,0 +1,185 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 73 152 76 }
+revolutionary_colors = { 10 0 5 }
+historical_idea_groups = {
+	maritime_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	italian_condotta
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	spanish_tercio
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adal #1" = 10
+	"Adriane #0" = -1
+	"Akakios #0" = 0
+	"Albert #1" = 10
+	"Anthousa #0" = -1
+	"Apollonios #0" = 0
+	"Bocek #1" = 10
+	"Budivoj #1" = 10
+	"Carola #0" = -1
+	"Chakha #0" = -1
+	"Damiane #0" = -1
+	"Eusebios #0" = 0
+	"Guilheumina #0" = -1
+	"Heralt #1" = 10
+	"Himerios #0" = 0
+	"Igmi #1" = 10
+	"Ioannikios #0" = 0
+	"Isidoros #0" = 0
+	"Kojata #1" = 10
+	"Kuník #1" = 10
+	"Mezwar #1" = 10
+	"Milo #1" = 10
+	"Philaretos #1" = 10
+	"Prokop #1" = 10
+	"Prospero #0" = 0
+	"Raune #0" = -1
+	"Rostislav #1" = 10
+	"Serapion #0" = 0
+	"Sezima #1" = 10
+	"Silo #1" = 10
+	"Theophylaktos #1" = 10
+	"Václav #1" = 10
+	"William Sherman #1" = 10
+	"Xene #0" = -1
+}
+leader_names = {
+	"Asmondo"
+	"Barbiano Belgioioso"
+	"Carafa"
+	"Castagna"
+	"Cattaneo"
+	"Ciaja"
+	"Cialdini"
+	"Colonna"
+	"Coppola"
+	"Corleone"
+	"Crescimanno"
+	"Damiani"
+	"Farini"
+	"Felice"
+	"Filangieri"
+	"Gaetani dell'Aquila"
+	"Gonzaga"
+	"La Masa"
+	"Lamoral"
+	"Mazzini"
+	"Orsini"
+	"Paruta"
+	"Pignatelli"
+	"Pilo"
+	"Platamonte"
+	"Riso"
+	"Rizzi"
+	"Ruffo"
+	"Ruggiero"
+	"Sanseverino"
+	"Santapace"
+	"Serra"
+	"Settimo"
+	"Sfondrati"
+	"Speciale"
+	"Spinola"
+	"Tanucci"
+	"Tassoni"
+	"Trivulcio"
+	"Ventimiglia"
+	"Zannoni"
+	"d'Agnesi"
+	"d'Austria"
+	"d'Este"
+	"de Gattinara"
+	"de Martino"
+	"de Podio"
+	"de' Medici"
+	"di Aragona"
+	"di Borbone"
+	"di Gesualdo"
+	"di Marzano"
+}
+ship_names = {
+	"Agatobles"
+	"Altavilla"
+	"Apollo"
+	"Archimede"
+	"Audaze"
+	"Borbone"
+	"Calabria"
+	"Capitana"
+	"Diana"
+	"Disttrutore"
+	"Drago"
+	"Ercole"
+	"Etna"
+	"Federigo Barbarossa"
+	"Folgorante"
+	"Fulminante"
+	"Generoso"
+	"Guiscardo"
+	"Hohenstaufen"
+	"Idra"
+	"Invencibile"
+	"Jupiter"
+	"L'Aretusa"
+	"Maria Inmacolata"
+	"Marte"
+	"Mercurio"
+	"Messaggero"
+	"Minerva"
+	"Napoli"
+	"Navigante"
+	"Nettuno"
+	"Palinuro"
+	"Partenope"
+	"Pegaso"
+	"Peloro"
+	"Plutone"
+	"Puglia"
+	"Purissima Concezione"
+	"Re Carlo"
+	"Re Federigo"
+	"Re Ferrante"
+	"Regina dei Mari"
+	"S.Francesco d'Assisi"
+	"Saetta"
+	"San Antonio"
+	"San Carlo"
+	"San Ferdinando"
+	"San Vito"
+	"Sannita"
+	"Sant'Agata"
+	"Sant'Agatone"
+	"Santa Amalia"
+	"Santa Helena"
+	"Santa Lucia"
+	"Santa Wenfrida"
+	"Sibilla"
+	"Sicilia"
+	"Sirena"
+	"Tancredi"
+	"Veloce"
+}
+army_names = {
+	"Armata di $PROVINCE$"
+}

@@ -1,0 +1,104 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 40 121 66 }
+revolutionary_colors = { 1 8 1 }
+historical_idea_groups = {
+	defensive_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+	offensive_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_rifle
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Anula #0" = -1
+	"Anuradi #0" = -1
+	"Aparaditya #1" = 10
+	"Ata #0" = -1
+	"Bohodevi #0" = -1
+	"Dahamsena #0" = 0
+	"Dattadevi #0" = -1
+	"Kishori #1" = -1
+	"Kitti #0" = 0
+	"Kundaladevi #1" = -1
+	"Mahadji #1" = 10
+	"Mahasena #1" = 10
+	"Mahinda #1" = 10
+	"Nagadina #0" = -1
+	"Nirmala #1" = 10
+	"Pamatissa #0" = -1
+	"Parakramabahu #0" = 0
+	"Ratana #3" = 10
+	"Samudaguta #0" = -1
+	"Savera #0" = -1
+	"Senarat #0" = 0
+	"Somali #0" = -1
+	"Sudha #1" = -1
+	"Sumana #1" = 10
+	"Suratissa #0" = 0
+	"Suriguta #0" = -1
+	"Udaya #5" = 10
+	"Vassaba #0" = 0
+	"Vimaladharma #0" = 0
+	"Virabahu #0" = 0
+	"Vishwanathpant #1" = 10
+	"Yahasaya #0" = -1
+}
+leader_names = {
+	"Ardastani"
+	"Astarabadi"
+	"Badakshi"
+	"Basri"
+	"Bhosle"
+	"Bukhari"
+	"Changezi"
+	"Gawan"
+	"Gaznavi"
+	"Gilani"
+	"Hasanabadi"
+	"Jurjani"
+	"Kabuli"
+	"Kirmani"
+	"Madhu"
+	"Quadari"
+	"Qummi"
+	"Sadhwani"
+	"Uzbek"
+}
+ship_names = {
+	"Alia"
+	"Fatimah"
+	"Godvari"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Mahanadi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Salima"
+	"Shameena"
+	"Suhalia"
+	"Yasmine"
+}

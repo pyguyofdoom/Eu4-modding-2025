@@ -1,0 +1,92 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 255 188 225 }
+revolutionary_colors = { 5 8 14 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Arittha #0" = 0
+	"Chandrabbalabbe #0" = -1
+	"Dappula #0" = 0
+	"Devanapiya #0" = -1
+	"Dharmasoka #0" = 0
+	"Digasumana #0" = 0
+	"Farrukhzad #0" = 0
+	"Hadana #0" = 0
+	"Jetthatissa #0" = 0
+	"Kanatissa #0" = -1
+	"Lilavati #0" = -1
+	"Nirmala #0" = 0
+	"Parakramabahu #0" = 0
+	"Purushadata #0" = -1
+	"Ramadata #0" = -1
+	"Samudaguta #0" = -1
+	"Savera #0" = -1
+	"Sivanabuti #0" = -1
+	"Sujhata #0" = -1
+	"Thirumalambike #0" = -1
+	"Thrisong #0" = -1
+	"Tissaraka #0" = -1
+	"Vijayabahu #0" = 0
+}
+leader_names = {
+	"Kaimal"
+	"Kartha"
+	"Karthavu"
+	"Kesavadas"
+	"Kurup"
+	"Naduvazhi"
+	"Nambiar"
+	"Nedungadi"
+	"Thampi"
+	"Varma"
+	"Vellodi"
+}
+ship_names = {
+	"Amirtha"
+	"Amman"
+	"Arul"
+	"Chellam"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Iniya"
+	"Kaveri"
+	"Lakshmi"
+	"Madhu"
+	"Meenakshi"
+	"Nalini"
+	"Palar"
+	"Parvati"
+	"Pennar"
+	"Ponnaiyar"
+	"Ponni"
+	"Radha"
+	"Ratri"
+	"Sarasvati"
+	"Sita"
+	"Tamarai"
+	"Vaigai"
+}

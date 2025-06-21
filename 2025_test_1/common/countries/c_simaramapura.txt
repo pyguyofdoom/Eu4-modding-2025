@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 78 178 41 }
+monarch_names = {
+	"Asima #0" = -1
+	"Cham #0" = -1
+	"Dingtri #0" = 0
+	"Hudujin #0" = 0
+	"Jitendranarayan #0" = 0
+	"Lakshman #0" = -1
+	"Langdarma #0" = 0
+	"Margdeva #0" = 0
+	"Mungchang #0" = -1
+	"Nyasig #0" = 0
+	"Pelmo #0" = -1
+	"Phurbulcam #0" = -1
+	"Prabhavatigupta #0" = -1
+	"Pusyamitra #0" = 0
+	"Rinchen #0" = 0
+	"Roopnarayan #0" = 0
+	"Subhatavarman #0" = 0
+	"Tori #0" = 0
+	"Tsugru #0" = 0
+	"Vakapala #0" = 0
+}

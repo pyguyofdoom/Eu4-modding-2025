@@ -1,0 +1,123 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 0 120 145 }
+revolutionary_colors = { 10 0 8 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	expansion_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Aba #0" = 0
+	"Adigh #0" = 0
+	"Anastasia #0" = -1
+	"Artuç #0" = -1
+	"Ayasun #0" = -1
+	"Azgan #0" = -1
+	"Azize #1" = -1
+	"Batan #1" = 10
+	"Bizel #1" = 10
+	"Boru #2" = 10
+	"Bozçin #0" = -1
+	"Buqaçuq #0" = 0
+	"Buyruq #1" = 10
+	"Elbeslik #0" = -1
+	"Esin #0" = -1
+	"Eçshün #0" = 0
+	"Farhad #2" = 10
+	"Giazis #0" = 0
+	"Gundes #0" = -1
+	"Ilbeslik #0" = -1
+	"Ildey #1" = 10
+	"Inek #0" = 0
+	"Ipa #0" = 0
+	"Ipek #0" = -1
+	"Isbar #1" = 10
+	"Jüz #0" = 0
+	"Kadïñ #0" = -1
+	"Karaca #1" = 10
+	"Kaydum #1" = 10
+	"Kegen #0" = 0
+	"Kuerçi #1" = 10
+	"Kugel #1" = 10
+	"Küni #0" = 0
+	"Oghul #0" = 0
+	"Oghulbarïs #0" = 0
+	"Qazghaq #0" = 0
+	"Qinai #0" = -1
+	"Qutlugh #0" = 0
+	"Suru #1" = 10
+	"Tadqïsh #0" = 0
+	"Tamghançur #0" = 0
+	"Tatpar #0" = 0
+	"Tatus #1" = 10
+	"Teber #2" = 10
+	"Tekesh #2" = 10
+	"Temir #0" = 0
+	"Terek #0" = -1
+	"Toghrïl #0" = 0
+	"Toñga #0" = 0
+	"Tura #0" = -1
+	"Tyrach #2" = 10
+	"Udayamati #0" = -1
+	"Umay #0" = -1
+	"Yazi #2" = 10
+	"Yïlgun #0" = -1
+	"Zakaria #1" = 10
+	"Çaça #0" = 0
+	"Çañ #0" = 0
+	"Çelgil #1" = 10
+	"Örüñ #0" = -1
+	"Ötüken #0" = -1
+	"Özgul #0" = -1
+	"Ükükün #0" = -1
+}
+leader_names = {
+	"Batu-tu"
+	"Berkegene"
+	"Bora Chinua"
+	"Burilgidai"
+	"Chaganchar"
+	"Delger Cheren"
+	"Qadantai"
+	"Qara Erdene"
+	"Qorchigene"
+	"Suren Unegen"
+	"Tegus-chi"
+	"Temurcher"
+	"Ulagan Temur"
+	"Yekechar"
+}
+ship_names = {
+	"Batu Khan"
+	"Buri"
+	"Chaka"
+	"Chinggis Khan"
+	"Edigü"
+	"Kara Nojaj"
+	"Mangyt"
+	"Möngke Timur"
+	"Qara Quchuq"
+	"Saraycik"
+	"Tartar Khan"
+	"Waqqas Bej"
+	"Yayik"
+}

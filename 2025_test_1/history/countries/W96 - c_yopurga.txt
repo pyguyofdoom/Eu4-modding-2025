@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = muslim
+religion = vajrayana
+primary_culture = saka
+capital = 2124
+fixed_capital = 2124
+1444.11.11= {
+	monarch = {
+		name = "Vagiti"
+		dynasty = "Adelid"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1413.11.1
+		religion = vajrayana
+		culture = saka
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = industrious_personality
+	queen = {
+		name = "Bulït"
+		dynasty = "Hunas"
+		adm = 4
+		dip = 3
+		mil = 2
+		country_of_origin = W96
+		birth_date = 1411.7.20
+		death_date = 1471.7.20
+		female = yes
+		religion = vajrayana
+		culture = uyghur
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Siladharma"
+		monarch_name = "Siladharma"
+		dynasty = "Adelid"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1431.8.25
+		death_date = 1496.8.25
+		claim = 89
+		religion = vajrayana
+		culture = saka
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 42
+	add_treasury = 57
+}
