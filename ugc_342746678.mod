@@ -1,0 +1,18 @@
+version="2.0.4"
+tags={
+	"Alternative History"
+	"Historical"
+	"Balance"
+	"Map"
+	"National Ideas"
+	"New Nations"
+	"Religion"
+	"Events"
+	"Missions And Decisions"
+	"Expansion"
+}
+name="Shattered Europa"
+picture="Shattered Europa2015.png"
+supported_version="1.35.*.*"
+path="C:/Program Files (x86)/Steam/steamapps/workshop/content/236850/342746678"
+remote_file_id="342746678"

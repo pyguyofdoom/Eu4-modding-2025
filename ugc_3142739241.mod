@@ -1,0 +1,16 @@
+version="1.35"
+tags={
+	"Alternative History"
+	"Expansion"
+	"Gameplay"
+	"Events"
+	"Balance"
+	"National Ideas"
+	"Religion"
+	"New Nations"
+	"Missions And Decisions"
+}
+name="Post Finem"
+supported_version="v1.37*"
+path="C:/Program Files (x86)/Steam/steamapps/workshop/content/236850/3142739241"
+remote_file_id="3142739241"
