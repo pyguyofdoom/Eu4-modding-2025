@@ -11,6 +11,7 @@ base_manpower = 3
 add_core = DAU
 add_core = PRO
 add_core = X43
+hre = yes
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

@@ -14,6 +14,7 @@ center_of_trade = 1
 add_core = CAS
 add_core = NED
 add_permanent_claim = FLA
+hre = yes
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

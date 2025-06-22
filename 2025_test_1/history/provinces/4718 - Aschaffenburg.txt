@@ -11,6 +11,7 @@ base_manpower = 3
 add_core = X81
 add_permanent_claim = FKN
 add_permanent_claim = Z56
+hre = yes
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
