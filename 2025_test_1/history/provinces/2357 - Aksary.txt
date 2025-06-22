@@ -1,5 +1,5 @@
 capital = "Aksary"
-culture = siberian
+culture = karluk
 religion = tengri_pagan_reformed
 trade_goods = naval_supplies
 base_tax = 1
