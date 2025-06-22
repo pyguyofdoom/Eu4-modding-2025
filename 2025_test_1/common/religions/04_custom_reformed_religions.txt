@@ -28,9 +28,9 @@ pagan = {
 		orthodox_icons = {
 			# If no icon has ai_will_do above 1 - <current patriarch authority> , the AI will not enact it. (60% PA = 0.6 -> ai_will_do has to be at least 0.4)
 
-			icon_michael = {
-				discipline = 0.05
-				manpower_recovery_speed = 0.1
+			god_Zeus = {
+				prestige = 1
+				prestige_decay = -0.01
 				
 				allow = {
 					always = yes
@@ -39,60 +39,11 @@ pagan = {
 				visible = {
 					always = yes
 				}
-
-				ai_will_do = {
-					factor = 0.05
-					modifier = {
-						factor = 0
-						is_at_war = no
-					}
-					modifier = {
-						factor = 3
-						is_in_important_war = yes
-					}
-				}
 			}
 
-			icon_eleusa = {
-				global_unrest = -3
-				harsh_treatment_cost = -0.25
-				
-				allow = {
-					always = yes
-				}
-
-				visible = {
-					always = yes
-				}
-				
-				ai_will_do = {
-					factor = 0.02
-					modifier = {
-						factor = 0
-						NOT = {
-							calc_true_if = {
-								all_owned_province = {
-									unrest = 1
-								}
-								amount = 2
-							}
-						}
-					}
-					modifier = {
-						factor = 3
-						calc_true_if = {
-							all_owned_province = {
-								unrest = 1
-							}
-							amount = 5
-						}
-					}
-				}
-			}
-
-			icon_pancreator = {
-				development_cost = -0.10
+			god_Poseidon = {
 				build_cost = -0.1
+				build_time = -0.20
 				
 				allow = {
 					always = yes
@@ -101,15 +52,23 @@ pagan = {
 				visible = {
 					always = yes
 				}
+			}
+
+			god_Hades = {
+				global_tax_modifier = 0.1
+				inflation_reduction = 0.1
 				
-				ai_will_do = {
-					factor = 0
+				allow = {
+					always = yes
+				}
+
+				visible = {
+					always = yes
 				}
 			}
 	
-			icon_nicholas = {
-				improve_relation_modifier = 0.25
-				ae_impact = -0.1
+			god_Athena = {
+				country_military_power = 1
 				
 				visible = {
 					always = yes
@@ -118,14 +77,24 @@ pagan = {
 				allow = {
 					always = yes
 				}
-				ai_will_do = {
-					factor = 0.01
+			}
+			
+			god_Ares = {
+				manpower_recovery_speed = 0.10
+				global_manpower_modifier = 0.10
+				
+				visible = {
+					always = yes
+				}
+				
+				allow = {
+					always = yes
 				}
 			}
 
-			icon_climacus = {
-				global_institution_spread = 0.25
-				embracement_cost = -0.2
+			god_Hephaesus = {
+				defensiveness = 0.25
+				fort_maintenance_modifier = -0.10
 
 				visible = {
 					always = yes
@@ -134,30 +103,80 @@ pagan = {
 				allow = {
 					always = yes
 				}
-				ai_will_do = {
-					factor = 0.02
-					modifier = {
-						factor = 0
-						NOT = {
-							calc_true_if = {
-								all_owned_province = {
-									current_institution = 1
-									NOT = { current_institution = 95 }
-								}
-								amount = 1
-							}
-						}
-					}
-					modifier = {
-						factor = 3
-						calc_true_if = {
-							all_owned_province = {
-								current_institution = 1
-								NOT = { current_institution = 95 }
-							}
-							amount = 5
-						}
-					}
+			}
+			
+			god_Hestia = {
+				land_morale = 0.15
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Demetra = {
+				country_diplomatic_power = 1
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Aphrodite = {
+				global_unrest = -2
+				stability_cost_modifier = -0.1
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Hermes = {
+				trade_efficiency = 0.1
+				trade_goods_size_modifier = 0.10
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Apollo = {
+				country_admin_power = 1
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Artemis = {
+				yearly_patriarch_authority = 0.01
+				liberty_desire = -10
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
 				}
 			}
 		}
