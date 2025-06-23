@@ -1,5 +1,5 @@
-owner = CAS
-controller = CAS
+owner = W12
+controller = W12
 capital = "Burgos"
 is_city = yes
 culture = castillian
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = CAS
+add_core = W12
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

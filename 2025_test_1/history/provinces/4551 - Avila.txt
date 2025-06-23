@@ -1,5 +1,5 @@
-owner = Z02
-controller = Z02
+owner = Y89
+controller = Y89
 capital = "Avila"
 is_city = yes
 culture = catalan
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 6
 add_core = CAT
-add_core = Z02
+add_core = Y89
 add_permanent_claim = ADU
 discovered_by = MGE
 discovered_by = chinese

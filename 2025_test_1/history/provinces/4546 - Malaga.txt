@@ -1,5 +1,5 @@
-owner = Z00
-controller = Z00
+owner = GRA
+controller = GRA
 capital = "Malaga"
 is_city = yes
 culture = andalucian
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 5
 base_production = 8
 base_manpower = 4
-add_core = Z00
+add_core = GRA
 add_permanent_claim = GRA
 discovered_by = MGE
 discovered_by = chinese

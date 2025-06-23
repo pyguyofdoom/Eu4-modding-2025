@@ -1,5 +1,5 @@
-owner = Z00
-controller = Z00
+owner = W98
+controller = W98
 capital = "Pamplona"
 is_city = yes
 culture = basque
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 5
 base_production = 3
 base_manpower = 5
-add_core = Z00
+add_core = W98
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
