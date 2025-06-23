@@ -1,5 +1,5 @@
-owner = X13
-controller = X13
+owner = W40
+controller = W40
 capital = "Aberdeen"
 is_city = yes
 culture = elsinorian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 2
 base_manpower = 2
 add_core = SCO
-add_core = X13
+add_core = X40
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

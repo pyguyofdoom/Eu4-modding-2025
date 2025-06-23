@@ -1,5 +1,5 @@
-owner = X54
-controller = X54
+owner = NOV
+controller = NOV
 capital = "Ostrov"
 is_city = yes
 culture = novgorodian
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 2
 base_production = 1
 base_manpower = 1
-add_core = X54
+add_core = NOV
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

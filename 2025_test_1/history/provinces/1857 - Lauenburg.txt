@@ -1,5 +1,5 @@
-owner = Y69
-controller = Y69
+owner = W45
+controller = W45
 capital = "Lauenburg"
 is_city = yes
 culture = danish
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = DAN
-add_core = Y69
+add_core = W45
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

@@ -1,5 +1,5 @@
-owner = MOS
-controller = MOS
+owner = Z06
+controller = Z06
 capital = "Shenkursk"
 is_city = yes
 culture = samoyed
@@ -8,7 +8,7 @@ trade_goods = fur
 base_tax = 1
 base_production = 1
 base_manpower = 4
-add_core = MOS
+add_core = Z06
 add_core = NEN
 add_permanent_claim = Z06
 discovered_by = MGE

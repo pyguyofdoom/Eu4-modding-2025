@@ -1,5 +1,5 @@
-owner = MOE
-controller = MOE
+owner = Z33
+controller = Z33
 capital = "Ayntab"
 is_city = yes
 culture = anatolian
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 4
 base_production = 6
 base_manpower = 2
-add_core = MOE
+add_core = Z33
 add_core = Z20
 discovered_by = MGE
 discovered_by = chinese

@@ -1,15 +1,15 @@
-owner = Y21
-controller = Y21
+owner = Y41
+controller = Y41
 capital = "Maanselkä"
 is_city = yes
 culture = swedish
 religion = norse_pagan_reformed
 trade_goods = fur
-base_tax = 1
+base_tax = 2
 base_production = 1
-base_manpower = 1
-add_core = SWE
-add_core = Y21
+base_manpower = 2
+
+add_core = Y41
 add_core = Y45
 discovered_by = MGE
 discovered_by = chinese

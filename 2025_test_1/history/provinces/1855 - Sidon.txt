@@ -1,5 +1,5 @@
-owner = W80
-controller = W80
+owner = X55
+controller = X55
 capital = "Sayda"
 is_city = yes
 culture = italian
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 5
 base_production = 7
 base_manpower = 4
-add_core = W80
+add_core = X55
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

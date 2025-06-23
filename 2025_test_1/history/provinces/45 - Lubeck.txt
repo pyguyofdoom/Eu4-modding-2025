@@ -1,5 +1,5 @@
-owner = Y69
-controller = Y69
+owner = W45
+controller = W45
 capital = "Lübeck"
 is_city = yes
 culture = danish
@@ -11,7 +11,7 @@ base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
 add_core = DAN
-add_core = Y69
+add_core = W45
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

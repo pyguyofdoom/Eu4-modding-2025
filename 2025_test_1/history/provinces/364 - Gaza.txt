@@ -1,5 +1,5 @@
-owner = Y88
-controller = Y88
+owner = X55
+controller = X55
 capital = "Gazzah"
 is_city = yes
 culture = al_suryah_arabic
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = Y88
+add_core = X55
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
