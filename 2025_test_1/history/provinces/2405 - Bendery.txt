@@ -1,5 +1,5 @@
-owner = Z30
-controller = Z30
+owner = W18
+controller = W18
 capital = "Bender"
 is_city = yes
 culture = romanian
@@ -8,7 +8,7 @@ trade_goods = wine
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = Z30
+add_core = W18
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

@@ -1,5 +1,5 @@
-owner = W17
-controller = W17
+owner = DAU
+controller = DAU
 capital = "Ohrid"
 is_city = yes
 culture = greek
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 1
 base_manpower = 2
 add_core = GRE
-add_core = W17
+add_core = DAU
 add_permanent_claim = Y13
 discovered_by = MGE
 discovered_by = chinese

@@ -1,8 +1,8 @@
 owner = Z96
 controller = Z96
-capital = "Kraków"
+capital = "Krakï¿½w"
 is_city = yes
-culture = czech
+culture = polish
 religion = catholic
 trade_goods = salt
 base_tax = 3

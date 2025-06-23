@@ -1,5 +1,5 @@
-owner = Z83
-controller = Z83
+owner = WAL
+controller = WAL
 capital = "Tolcu"
 is_city = yes
 culture = bulgarian
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = Z83
+add_core = WAL
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

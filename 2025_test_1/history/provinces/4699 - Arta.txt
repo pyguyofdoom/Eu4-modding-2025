@@ -1,5 +1,5 @@
-owner = Z54
-controller = Z54
+owner = ACH
+controller = ACH
 capital = "Arta"
 is_city = yes
 culture = greek
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 add_core = GRE
-add_core = Z54
+add_core = ACH
 add_permanent_claim = EPI
 discovered_by = MGE
 discovered_by = chinese

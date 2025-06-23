@@ -1,9 +1,9 @@
 owner = CRI
 controller = CRI
-capital = "Bács"
+capital = "Bï¿½cs"
 is_city = yes
 culture = hungarian
-religion = catholic
+religion = bogomilist
 trade_goods = livestock
 base_tax = 2
 base_production = 2

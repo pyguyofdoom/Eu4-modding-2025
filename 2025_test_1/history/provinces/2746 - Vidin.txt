@@ -1,5 +1,5 @@
-owner = Y73
-controller = Y73
+owner = BUL
+controller = BUL
 capital = "Vidin"
 is_city = yes
 culture = serbian
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 3
 base_manpower = 2
 add_core = GRE
-add_core = Y73
+add_core = BUL
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

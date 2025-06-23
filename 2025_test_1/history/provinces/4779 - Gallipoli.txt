@@ -1,5 +1,5 @@
-owner = X56
-controller = X56
+owner = X17
+controller = X17
 capital = "Gallipoli"
 is_city = yes
 culture = greek
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 4
 base_manpower = 2
 add_core = GRE
-add_core = X56
+add_core = X17
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

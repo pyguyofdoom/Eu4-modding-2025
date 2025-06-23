@@ -1,8 +1,8 @@
 owner = Z07
 controller = Z07
-capital = "München"
+capital = "Mï¿½nchen"
 is_city = yes
-culture = italian
+culture = lombard
 religion = catholic
 trade_goods = grain
 base_tax = 5

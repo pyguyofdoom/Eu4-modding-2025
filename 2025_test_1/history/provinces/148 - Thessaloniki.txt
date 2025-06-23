@@ -1,5 +1,5 @@
-owner = Z52
-controller = Z52
+owner = ACH
+controller = ACH
 capital = "Thessaloniki"
 is_city = yes
 culture = greek
@@ -11,7 +11,7 @@ base_manpower = 2
 extra_cost = 16
 center_of_trade = 2
 add_core = GRE
-add_core = Z52
+add_core = ACH
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

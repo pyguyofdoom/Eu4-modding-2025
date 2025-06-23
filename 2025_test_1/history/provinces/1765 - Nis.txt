@@ -1,5 +1,5 @@
-owner = W53
-controller = W53
+owner = BUL
+controller = BUL
 capital = "Sofia"
 is_city = yes
 culture = bulgarian
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 5
 base_production = 3
 base_manpower = 2
-add_core = W53
+add_core = BUL
 add_permanent_claim = BUL
 discovered_by = MGE
 discovered_by = chinese

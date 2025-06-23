@@ -1,8 +1,8 @@
 owner = FKN
 controller = FKN
-capital = "Sankt Pölten"
+capital = "Sankt Pï¿½lten"
 is_city = yes
-culture = czech
+culture = slovak
 religion = catholic
 trade_goods = wine
 base_tax = 1

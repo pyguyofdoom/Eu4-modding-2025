@@ -1,8 +1,8 @@
 owner = MEI
 controller = MEI
-capital = "Budyšín"
+capital = "Budyï¿½ï¿½n"
 is_city = yes
-culture = czech
+culture = schlesian
 religion = catholic
 trade_goods = cloth
 base_tax = 2

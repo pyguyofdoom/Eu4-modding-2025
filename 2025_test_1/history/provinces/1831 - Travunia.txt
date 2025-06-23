@@ -1,5 +1,5 @@
-owner = Y33
-controller = Y33
+owner = RAG
+controller = RAG
 capital = "Herceg Novi"
 is_city = yes
 culture = bosnian
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = DAL
-add_core = Y33
+add_core = RAG
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

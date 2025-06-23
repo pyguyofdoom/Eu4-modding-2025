@@ -10,6 +10,7 @@ base_production = 5
 base_manpower = 2
 add_core = CRT
 add_core = GRE
+add_core = ACH
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

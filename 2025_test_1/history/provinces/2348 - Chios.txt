@@ -1,5 +1,5 @@
-owner = Y37
-controller = Y37
+owner = CYP
+controller = CYP
 capital = "Chio"
 is_city = yes
 culture = greek
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 add_core = GRE
-add_core = Y37
+add_core = CYP
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
