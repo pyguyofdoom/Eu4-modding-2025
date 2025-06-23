@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = W84
+controller = W84
 capital = "Kumukh"
 is_city = yes
 culture = circassian
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 4
 base_production = 1
 base_manpower = 3
-add_core = AFG
+add_core = W84
 add_core = GEO
 add_core = Z46
 discovered_by = MGE

@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = Z03
+controller = Z03
 capital = "Chernigov"
 is_city = yes
 culture = pecheneg

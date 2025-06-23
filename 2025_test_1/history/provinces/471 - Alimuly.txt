@@ -1,5 +1,5 @@
-owner = PTZ
-controller = PTZ
+owner = CHH
+controller = CHH
 capital = "Alimuly"
 is_city = yes
 culture = karluk
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = PTZ
+add_core = CHH
 add_core = Y60
 discovered_by = MGE
 discovered_by = chinese

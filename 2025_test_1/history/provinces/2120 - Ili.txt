@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = W50
+controller = W50
 capital = "Ili"
 is_city = yes
 culture = oirats
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = AFG
+add_core = W50
 add_core = Z67
 add_core = ZUN
 discovered_by = MGE

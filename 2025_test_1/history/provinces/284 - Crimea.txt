@@ -1,5 +1,5 @@
-owner = CRI
-controller = CRI
+owner = W18
+controller = W18
 capital = "Qirq-Yer"
 is_city = yes
 culture = hungarian
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 2
 base_production = 3
 base_manpower = 4
-add_core = CRI
+add_core = W18
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

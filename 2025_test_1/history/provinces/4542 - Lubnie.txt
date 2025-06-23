@@ -1,5 +1,5 @@
-owner = VOL
-controller = VOL
+owner = Z03
+controller = Z03
 capital = "Lubnie"
 is_city = yes
 culture = pecheneg
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 2
 base_production = 1
 base_manpower = 1
-add_core = VOL
+add_core = Z03
 add_permanent_claim = Z03
 discovered_by = MGE
 discovered_by = chinese

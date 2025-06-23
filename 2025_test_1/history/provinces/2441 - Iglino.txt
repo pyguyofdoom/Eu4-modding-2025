@@ -1,5 +1,5 @@
-owner = X08
-controller = X08
+owner = CHH
+controller = CHH
 capital = "Iglino"
 is_city = yes
 culture = karluk
@@ -8,8 +8,8 @@ trade_goods = fur
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = GOL
-add_core = X08
+add_core = CHH
+
 add_core = Y61
 discovered_by = MGE
 discovered_by = chinese

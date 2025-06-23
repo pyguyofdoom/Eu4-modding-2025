@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = W43
+controller = W43
 capital = "Kursk"
 is_city = yes
 culture = ruthenian

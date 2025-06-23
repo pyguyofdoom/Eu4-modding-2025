@@ -1,5 +1,5 @@
-owner = SIB
-controller = SIB
+owner = CHH
+controller = CHH
 capital = "Chimgi-Tura"
 is_city = yes
 culture = karluk
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 3
 center_of_trade = 1
-add_core = SIB
+add_core = CHH
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

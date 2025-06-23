@@ -1,5 +1,5 @@
-owner = CHH
-controller = CHH
+owner = W50
+controller = W50
 capital = "Hoboksar"
 is_city = yes
 culture = karluk
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 3
-add_core = CHH
+add_core = W50
 add_core = X69
 discovered_by = MGE
 discovered_by = chinese

@@ -1,5 +1,5 @@
-owner = X52
-controller = X52
+owner = KHA
+controller = KHA
 capital = "Udinskoye"
 is_city = yes
 culture = khalkha
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = KLK
-add_core = X52
+add_core = KHA
 add_core = Z26
 discovered_by = MGE
 discovered_by = chinese

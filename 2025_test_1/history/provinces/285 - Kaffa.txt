@@ -1,5 +1,5 @@
-owner = Z37
-controller = Z37
+owner = Z23
+controller = Z23
 capital = "Kaffa"
 is_city = yes
 culture = goths
@@ -11,7 +11,7 @@ base_manpower = 2
 extra_cost = 16
 center_of_trade = 2
 add_core = FEO
-add_core = Z37
+add_core = Z23
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

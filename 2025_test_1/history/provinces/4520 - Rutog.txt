@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = X60
+controller = X60
 capital = "Rutog"
 is_city = yes
 culture = tangut
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 5
 base_production = 2
 base_manpower = 2
-add_core = AFG
+add_core = X60
 add_core = Y07
 discovered_by = MGE
 discovered_by = chinese

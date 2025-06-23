@@ -1,5 +1,5 @@
-owner = W60
-controller = W60
+owner = Z03
+controller = Z03
 capital = "Trubchevsk"
 is_city = yes
 culture = ryazanian
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 3
 add_core = RYA
-add_core = W60
+add_core = Z03
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

@@ -1,5 +1,5 @@
-owner = W96
-controller = W96
+owner = X60
+controller = X60
 capital = "Yarkant"
 is_city = yes
 culture = saka
@@ -11,7 +11,7 @@ base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
 add_core = KAS
-add_core = W96
+add_core = X60
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

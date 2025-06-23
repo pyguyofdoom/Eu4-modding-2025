@@ -1,5 +1,5 @@
-owner = Y49
-controller = Y49
+owner = Y03
+controller = Y03
 capital = "Gyegu"
 is_city = yes
 culture = tangut
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 3
 base_production = 1
 base_manpower = 3
-add_core = Y49
+add_core = Y03
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
