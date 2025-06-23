@@ -1,0 +1,3 @@
+﻿l_english:
+ pagan_offensive_tooltip:0 "§J[Root.GetName] must push their advantage against §YOrganized Religion.§!§!"
+ pagan_defense_tooltip:0 "§J§Y[Root.GetName]§! will entrench §Y[Root.Religion.GetGroupName]ity§! against §YReformed Paganism.§!§!"
