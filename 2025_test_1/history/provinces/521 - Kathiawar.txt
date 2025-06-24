@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = GUJ
+controller = GUJ
 capital = "Rajkot"
 is_city = yes
 culture = saurashtri
@@ -8,7 +8,7 @@ trade_goods = dyes
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = AFG
+
 add_core = JGD
 add_core = X30
 discovered_by = MGE

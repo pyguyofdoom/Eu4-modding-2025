@@ -1,5 +1,5 @@
-owner = Z59
-controller = Z59
+owner = Z92
+controller = Z92
 capital = "Bannu"
 is_city = yes
 culture = panjabi
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 3
 base_production = 4
 base_manpower = 2
-add_core = Z59
+add_core = Z92
 add_permanent_claim = PUN
 discovered_by = MGE
 discovered_by = chinese

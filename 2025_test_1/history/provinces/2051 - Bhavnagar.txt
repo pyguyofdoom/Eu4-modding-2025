@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = GUJ
+controller = GUJ
 capital = "Bhavnagar"
 is_city = yes
 culture = gujarati
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 7
 base_production = 3
 base_manpower = 3
-add_core = AFG
+
 add_core = GUJ
 add_core = Y39
 discovered_by = MGE

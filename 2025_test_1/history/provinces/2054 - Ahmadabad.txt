@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = GUJ
+controller = GUJ
 capital = "Ahmadabad"
 is_city = yes
 culture = kannada
@@ -8,7 +8,7 @@ trade_goods = paper
 base_tax = 5
 base_production = 6
 base_manpower = 4
-add_core = AFG
+
 add_core = GUJ
 add_core = MYS
 discovered_by = MGE

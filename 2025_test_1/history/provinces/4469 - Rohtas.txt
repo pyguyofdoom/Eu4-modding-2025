@@ -1,5 +1,5 @@
-owner = W41
-controller = W41
+owner = Z49
+controller = Z49
 capital = "Rohtasgarh"
 is_city = yes
 culture = bihari
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 4
 add_core = TRT
-add_core = W41
+add_core = Z49
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

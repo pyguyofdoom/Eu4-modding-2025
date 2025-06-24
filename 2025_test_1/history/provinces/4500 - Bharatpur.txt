@@ -1,5 +1,5 @@
-owner = Y00
-controller = Y00
+owner = Z78
+controller = Z78
 capital = "Bharatpur"
 is_city = yes
 culture = rajput
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 3
 base_manpower = 4
 add_core = MER
-add_core = Y00
+add_core = Z78
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
