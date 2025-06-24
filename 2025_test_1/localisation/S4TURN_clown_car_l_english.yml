@@ -1,3 +1,5 @@
 ﻿l_english:
  pagan_offensive_tooltip:0 "§J[Root.GetName] must push their advantage against §YOrganized Religion.§!§!"
  pagan_defense_tooltip:0 "§J§Y[Root.GetName]§! will entrench §Y[Root.Religion.GetGroupName]ity§! against §YReformed Paganism.§!§!"
+ georgian_bloodline_revived_tooltip:0 "§JRevives the Bloodline of §YThe House of Lalilulelo§! as long as the dynasty continues to reign§!"
+ can_use_flagship_parts_tooltip:0 "§JUnlocks flagship modifications to assist in exploring §Yforeign lands§!§!"

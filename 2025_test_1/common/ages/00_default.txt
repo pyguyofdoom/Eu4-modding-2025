@@ -165,6 +165,7 @@ age_of_discovery = {
 		}
 		
 		ab_pagan_offensive = {
+		# replaced cavalry retio bonus
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
@@ -190,6 +191,7 @@ age_of_discovery = {
 			}
 		}
 		ab_pagan_defense = {
+		# replaced de jure edict bonus
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
@@ -225,97 +227,88 @@ age_of_discovery = {
 			}
 		}		
 		
-		ab_ottoman_siege_ability = {
+		ab_revive_the_bloodline = {
+		# replaced ottoman siege bonus (turks aren't real)
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			allow = {
-				OR = {
-					tag = TUR
-					AND = {
-						technology_group = ottoman
-						government_rank = 2
-					}
+				AND = {
+					primary_culture = georgian
+					dynasty = "Of Lalilulelo"
 				}
 			}
-			modifier = {
-				leader_siege = 1 
-				num_of_age_rewards = 1
+			effect = {
+				set_country_flag = revive_the_bloodline
+				custom_tooltip = georgian_bloodline_revived_tooltip
 			}
-			ai_will_do = {
-				factor = 100
+			modifier = {
+				num_of_age_rewards = 1
 			}
 		}
 		
-		ab_portugal_colonial_growth = {
+		ab_bohemian_conqueror = {
+		#replaced portoguese/large colonizer bonus
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			allow = {
-				OR = {
-					tag = POR
-					AND = {
-						has_idea_group = exploration_ideas
-						num_of_total_ports = 15
-					}
+				AND = {
+					primary_culture = czech
 				}
 			}
 			modifier = {
-				global_colonial_growth = 50
+				years_of_nationalism = -10
 				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
 			}
 		}
-		ab_denmark_reduced_lib_desire = {
+		ab_leader_of_slavs = {
+		#replace danish liberty desire bonus
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			allow = {
 				OR = {
-					tag = DAN
-					personal_union = 2
+					culture_group = south_slavic
+					AND = {
+						capital_scope = {
+							superregion = eastern_europe_superregion
+						}
+						is_great_power = yes
+					}
 				}
 			}
 			modifier = {
-				reduced_liberty_desire = 30
+				core_creation = -0.1
 				num_of_age_rewards = 1
-			}
-			ai_will_do = {
-				factor = 100
-				modifier = {
-					factor = 0
-					NOT = {
-						any_subject_country = {
-							liberty_desire = 20
-						}
-					}
-				}
 			}
 		}
-		ab_venice_ship_trade = {
+		ab_explore_new_lands = {
+		#replaces venetian trade bonus
 			effect = { 
 				on_age_ability_taken = { age = age_of_discovery }
 			}
 			allow = {
 				OR = {
-					tag = VEN
+					tag = Z00
 					AND = {
-						OR = {
-							has_reform = merchants_reform
-							has_reform = venice_merchants_reform
-						}
-						government_rank = 2
+						culture_group = iberian
+						num_of_ports = 5
+					}
+					AND = {
+						full_idea_group = exploration_ideas
+						num_of_ports = 15
 					}
 				}
 			}
-			modifier = {
-				global_ship_trade_power = 0.5
-				num_of_age_rewards = 1
+			effect = {
+				set_country_flag = can_use_flagship_parts
+				custom_tooltip = can_use_flagship_parts_tooltip
 			}
-			ai_will_do = {
-				factor = 100
+			modifier = {
+				global_colonial_growth = 30
+				may_explore = yes
+				num_of_age_rewards = 1
 			}
 		}
 	}

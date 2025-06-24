@@ -1,0 +1,11 @@
+bloodline_of_Lalilulelo = {
+	potential = {
+		has_country_flag = revive_the_bloodline
+	}
+	
+	trigger = {
+		has_new_dynasty = no
+	}
+	build_cost = -0.15
+	build_time = -0.25
+}
