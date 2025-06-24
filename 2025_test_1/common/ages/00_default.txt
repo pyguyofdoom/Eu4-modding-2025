@@ -185,6 +185,7 @@ age_of_discovery = {
 					name = the_pagan_offensive
 					age = age_of_reformation
 				}
+				set_country_flag = taken_pagan_offensive
 			}	
 			modifier = {
 				num_of_age_rewards = 1
@@ -218,6 +219,7 @@ age_of_discovery = {
 						add_province_triggered_modifier = religion_entrenched
 					}
 				}
+				set_country_flag = taken_pagan_defensive
 				}
 				custom_tooltip = pagan_defense_tooltip
 				
@@ -355,8 +357,13 @@ age_of_reformation = {
 			}
 		}
 		
-		obj_colonial_empire = {
-			colony = 5
+		obj_prepare_for_religious_wars = {
+			#replace colonial empire as no one is going to have 5 colonies
+			OR = {
+				has_country_flag = taken_pagan_defensive
+				has_country_flag = taken_pagan_offensive
+			}
+			custom_tooltip = prepare_for_religious_wars_tooltip
 		}
 		
 		obj_force_converted = {
@@ -390,8 +397,22 @@ age_of_reformation = {
 		}
 		
 		obj_unify_culture = {	
+			#Reduced requirement to nation culture to make this achieveable
 			is_subject = no
-			has_unified_culture_group = yes
+			NOT = {
+			calc_true_if = {
+					all_province = {
+						AND = {
+							culture = ROOT
+							NOT = {
+								owned_by = ROOT
+							}
+						}
+					}
+				amount = 1
+			}
+			}
+			custom_tooltip = unify_culture_tooltip
 		}
 	}	
 	
@@ -519,40 +540,18 @@ age_of_reformation = {
 				factor = 100
 			}
 		}
-		ab_mughal_artillery = {
+		ab_viking_gods = {
+		#Replace mughal artillery bonus
 			allow = {
 				OR = {
-					tag = MUG
+					tag = SWE
+					AND = {
+						government_rank = 2
+						culture_group = scandinavian
+					}
 					AND = {
 						government_rank = 3
-						OR = {
-							religion_group = zoroastrian_group
-							religion_group = muslim
-							religion = buddhism
-						}
-						calc_true_if = { #One controls a substantial amount of India
-							amount = 2
-							deccan_region = {
-								type = all
-								country_or_non_sovereign_subject_holds = ROOT
-							}
-							coromandel_region = {
-								type = all
-								country_or_non_sovereign_subject_holds = ROOT
-							}
-							bengal_region = {
-								type = all
-								country_or_non_sovereign_subject_holds = ROOT
-							}
-							hindusthan_region = {
-								type = all
-								country_or_non_sovereign_subject_holds = ROOT
-							}
-							west_india_region = {
-								type = all
-								country_or_non_sovereign_subject_holds = ROOT
-							}
-						}
+						religion = norse_pagan_reformed
 					}
 				}
 			}
@@ -560,7 +559,7 @@ age_of_reformation = {
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				artillery_power = 0.15
+				infantry_power = 0.10
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -568,19 +567,14 @@ age_of_reformation = {
 			}
 		}
 		
-		ab_polish_legitimacy = {
+		ab_ruthenian_legitimacy = {
+		#replaces polish crown with ruthenian crown so bonuses are the same
 			allow = {
 				OR = {
-					tag = PLC
-					tag = POL
-					tag = LIT
+					tag = UKR
 					AND = {
 						government_rank = 3
-						culture_group = west_slavic
-					}
-					custom_trigger_tooltip = {
-						tooltip = enable_this_ability_tt
-						has_country_flag = unlock_polish_ability_flag
+						culture_group = east_slavic
 					}
 				}
 			}
@@ -596,26 +590,16 @@ age_of_reformation = {
 			}
 		}
 		
-		ab_persia_development = {
+		ab_malacca_rule_the_waves = {
+		#replace persia development bonus
 			allow = {
-				OR = {
-					custom_trigger_tooltip = {
-						tooltip = unlocked_this_ab_tt
-						has_country_flag = enable_persian_age_ability_flag
-					}
-					tag = PER
-					tag = ERS
-					AND = {
-						government_rank = 3
-						culture_group = iranian
-					}
-				}
+				tag = MLC
 			}
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
-				development_cost = -0.2
+				galley_power = 0.2
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
