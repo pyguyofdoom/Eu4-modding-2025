@@ -1,5 +1,5 @@
-owner = BOU
-controller = BOU
+owner = BRI
+controller = BRI
 capital = "Bayonne"
 is_city = yes
 culture = basque
@@ -8,7 +8,7 @@ trade_goods = wine
 base_tax = 4
 base_production = 6
 base_manpower = 2
-add_core = BOU
+add_core = BRI
 add_core = NAV
 add_permanent_claim = Z60
 discovered_by = MGE

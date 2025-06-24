@@ -1,5 +1,5 @@
-owner = ASU
-controller = ASU
+owner = BRI
+controller = BRI
 capital = "Vannes"
 is_city = yes
 culture = breton

@@ -1,5 +1,5 @@
-owner = ASU
-controller = ASU
+owner = BRI
+controller = BRI
 capital = "Santander"
 is_city = yes
 culture = castillian
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = ASU
+add_core = BRI
 add_permanent_claim = CAS
 discovered_by = MGE
 discovered_by = chinese
