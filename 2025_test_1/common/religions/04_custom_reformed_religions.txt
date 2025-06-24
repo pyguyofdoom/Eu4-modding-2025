@@ -24,6 +24,162 @@ pagan = {
 		
 		
 		heretic = {  GOAT_SKULL  }
+		has_patriarchs = yes
+		orthodox_icons = {
+			# If no icon has ai_will_do above 1 - <current patriarch authority> , the AI will not enact it. (60% PA = 0.6 -> ai_will_do has to be at least 0.4)
+
+			god_Zeus = {
+				prestige = 1
+				prestige_decay = -0.01
+				
+				allow = {
+					always = yes
+				}
+
+				visible = {
+					always = yes
+				}
+			}
+
+			god_Poseidon = {
+				build_cost = -0.1
+				build_time = -0.20
+				
+				allow = {
+					always = yes
+				}
+
+				visible = {
+					always = yes
+				}
+			}
+
+			god_Hades = {
+				global_tax_modifier = 0.1
+				inflation_reduction = 0.1
+				
+				allow = {
+					always = yes
+				}
+
+				visible = {
+					always = yes
+				}
+			}
+	
+			god_Athena = {
+				country_military_power = 1
+				
+				visible = {
+					always = yes
+				}
+				
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Ares = {
+				manpower_recovery_speed = 0.10
+				global_manpower_modifier = 0.10
+				
+				visible = {
+					always = yes
+				}
+				
+				allow = {
+					always = yes
+				}
+			}
+
+			god_Hephaesus = {
+				defensiveness = 0.25
+				fort_maintenance_modifier = -0.10
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Hestia = {
+				land_morale = 0.15
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Demetra = {
+				country_diplomatic_power = 1
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Aphrodite = {
+				global_unrest = -2
+				stability_cost_modifier = -0.1
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Hermes = {
+				trade_efficiency = 0.1
+				trade_goods_size_modifier = 0.10
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Apollo = {
+				country_admin_power = 1
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+			
+			god_Artemis = {
+				yearly_patriarch_authority = 0.01
+				liberty_desire = -10
+
+				visible = {
+					always = yes
+				}
+
+				allow = {
+					always = yes
+				}
+			}
+		}
 	}
 	norse_pagan_reformed = {
 		icon = 21
