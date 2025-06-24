@@ -1,5 +1,5 @@
 name = "Converted - 2025_test_1"
-path = "mod/Eu4-modding-2025/2025_test_1"
+path = "mod/2025_test_1"
 normal_or_historical_nations = yes
 supported_version = "v1.37.*"
 replace_path = "history/countries/"
