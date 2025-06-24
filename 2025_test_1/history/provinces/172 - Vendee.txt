@@ -1,5 +1,5 @@
-owner = BOU
-controller = BOU
+owner = BRI
+controller = BRI
 capital = "Nantes"
 is_city = yes
 culture = breton
@@ -9,9 +9,7 @@ base_tax = 7
 base_production = 3
 base_manpower = 4
 extra_cost = 10
-add_core = BOU
 add_core = BRI
-add_core = Z97
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
