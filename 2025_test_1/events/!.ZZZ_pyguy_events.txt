@@ -1,4 +1,6 @@
-namespace = ZZZ_pyguy_events
+namespace = jbull_event
+
+
 
 #Jbull starting event
 country_event = {
@@ -35,3 +37,4 @@ country_event = {
 		}
 	}
 }
+

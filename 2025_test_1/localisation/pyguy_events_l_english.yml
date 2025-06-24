@@ -12,3 +12,11 @@
  jbull_event.1.d:0 "The worst has come to pass: the great patriarch of the froge family, king duran, has died. In his wake, the upstart 'emperor' Lop has crowned himself king of all provencial dukes, but he is a liar. Most dukes hardly pay lip service to that charlatan. We must march north as soon as possible to put down this pretender, and begin reforging what once was. For the glory of provence!"
  jbull_event.1.a:0 "Let us show this weasel of an emperor what it means to be king."
  jbull_event.1.a.tt:0 "We have claims on the provencial land held by the false king, and can march forth at once. However, the false king has called in many favors and currently holds a huge army advantage over us. Perhaps it is best to consolidate our current holdings before continuing on."
+
+
+ kick_event.1.t:0 "The Long Night"
+ kick_event.1.d:0 "My Son. I am sorry. All these long years I watched the empire collapse around us. I watched as heresies spread and my vassals plotted against me. Now, it is all gone. I let it happen. I will soon be dead.  Franconian heretics are battering down the door to the royal palace, and Praha will soon be lost. My son, if you are reading this, there is no time left. This cannot be our legacy. Do it for us."
+ kick_event.1.a:0 "...for all of us"
+ kick_event.1.a.tt:0 "Let this be our final battle."
+
+ kickman_fury:0 "Fury of the Son"

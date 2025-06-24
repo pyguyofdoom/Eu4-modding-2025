@@ -1,5 +1,7 @@
 on_startup = {
     events = {
         jbull_event.1 # fires the jbull event at game start
+	kick_event.1 # fires the kick event at game start
     }
 }
+
