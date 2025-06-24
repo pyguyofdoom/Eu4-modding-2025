@@ -231,6 +231,22 @@ dependency=
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
+dependency=
+{
+	subject_type="tributary_state"
+	first="Z02"
+	second="GRA"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+dependency=
+{
+	subject_type="tributary_state"
+	first="Z02"
+	second="Y89"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
 
 
 dependency=
