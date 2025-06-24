@@ -43,6 +43,6 @@ mongol_fury = {
 	global_manpower = 30	
 	global_tax_income = 80
 	cav_to_inf_ratio = 0.25
-	religious_unity = 80	
+	religious_unity = 0.8	
 	#icon = 9
 }
