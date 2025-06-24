@@ -1,5 +1,5 @@
-owner = MAL
-controller = MAL
+owner = X34
+controller = X34
 capital = "Marrakech"
 is_city = yes
 culture = moroccan
@@ -8,7 +8,7 @@ trade_goods = sugar
 base_tax = 4
 base_production = 7
 base_manpower = 3
-add_core = MAL
+add_core = X34
 add_core = W01
 add_permanent_claim = MOR
 add_permanent_claim = MRK

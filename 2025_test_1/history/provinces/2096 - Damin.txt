@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = W67
+controller = W67
 capital = "Deogarh"
 is_city = yes
 culture = bengali
@@ -8,7 +8,7 @@ trade_goods = ivory
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = AFG
+add_core = W67
 add_core = BNG
 add_core = NGP
 discovered_by = MGE

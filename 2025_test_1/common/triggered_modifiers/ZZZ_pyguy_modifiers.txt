@@ -1,0 +1,50 @@
+provence_fury = {
+	potential = {
+		normal_or_historical_nations = yes
+		
+		
+		tag = Z02
+	}
+
+	trigger = {
+		
+		
+		tag = Z02
+		
+	}
+
+	
+	diplomatic_reputation = 1
+	land_forcelimit	= 25
+	global_manpower = 10	
+	global_tax_income = 24
+	#icon = 9
+}
+
+
+mongol_fury = {
+	potential = {
+		normal_or_historical_nations = yes
+		
+		
+		tag = AFG
+	}
+
+	trigger = {
+		
+		
+		tag = AFG
+		
+	}
+
+	
+	
+	land_forcelimit	= 100
+	global_manpower = 50	
+	global_tax_income = 180
+	cav_to_inf_ratio = 0.25
+	religious_unity = 0.8	
+	#icon = 9
+}
+
+

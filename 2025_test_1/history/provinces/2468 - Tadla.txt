@@ -1,5 +1,5 @@
-owner = Z02
-controller = Z02
+owner = X39
+controller = X39
 capital = "Tadla"
 is_city = yes
 culture = moroccan
@@ -8,7 +8,7 @@ trade_goods = copper
 base_tax = 3
 base_production = 6
 base_manpower = 2
-add_core = Z02
+add_core = X39
 add_permanent_claim = MOR
 add_permanent_claim = MRK
 discovered_by = MGE

@@ -1,0 +1,67 @@
+namespace = kick_event
+
+#Kickman starting event
+country_event = {
+	id = kick_event.1
+	title = "kick_event.1.t"
+	desc = "kick_event.1.d"
+	picture = COUNTRY_COLLAPSE_eventPicture
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+	trigger = {
+		tag = BOH
+		
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		hidden_effect = {
+			
+			if = {
+				limit = {
+					has_dlc = "Winds of Change"
+				}
+				add_country_modifier = {
+					name = kickman_fury
+					duration = 15000
+				}
+			}
+		}
+	}
+	
+	
+	option = { 
+		name = "kick_event.1.a" # Let us begin
+		custom_tooltip = kick_event.1.a.tt
+		
+                
+		erzgebirge_area = {
+			limit = {
+				NOT = { is_core = ROOT }
+				
+			}
+			add_core = ROOT
+			
+		}
+	
+		tooltip = {
+			add_country_modifier = {
+				name = kickman_fury
+				duration = 15000
+			}
+		}
+		BOH = {
+			declare_war_with_cb = {
+				who = Z56
+				casus_belli = cb_hundred_years_war
+			}
+
+		}
+		
+	}
+}
+

@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = W67
+controller = W67
 capital = "Lakhnor"
 is_city = yes
 culture = bengali
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 4
 base_production = 5
 base_manpower = 2
-add_core = AFG
+
 add_core = BNG
 add_core = Z61
 discovered_by = MGE

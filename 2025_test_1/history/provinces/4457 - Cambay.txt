@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = GUJ
+controller = GUJ
 capital = "Khambhat"
 is_city = yes
 culture = kannada
@@ -10,7 +10,7 @@ base_production = 6
 base_manpower = 4
 extra_cost = 24
 center_of_trade = 3
-add_core = AFG
+
 add_core = GUJ
 add_core = MYS
 discovered_by = MGE

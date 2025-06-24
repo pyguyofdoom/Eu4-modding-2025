@@ -1,5 +1,5 @@
-owner = Z59
-controller = Z59
+owner = Z92
+controller = Z92
 capital = "Rawalpindi"
 is_city = yes
 culture = panjabi
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 9
 base_production = 3
 base_manpower = 4
-add_core = Z59
+add_core = Z92
 add_permanent_claim = PUN
 discovered_by = MGE
 discovered_by = chinese

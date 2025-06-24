@@ -1,5 +1,5 @@
-owner = ALH
-controller = ALH
+owner = Y23
+controller = Y23
 capital = "Hafar"
 is_city = yes
 culture = bedouin_arabic
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 1
 base_manpower = 2
-add_core = ALH
+add_core = Y23
 add_core = NAJ
 add_permanent_claim = ARB
 discovered_by = MGE

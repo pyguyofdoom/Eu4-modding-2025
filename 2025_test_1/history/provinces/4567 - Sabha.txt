@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = TRP
+controller = TRP
 capital = "Sabha"
 is_city = yes
 culture = berber
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = EGY
+add_core = TRP
 add_permanent_claim = TRP
 discovered_by = MGE
 discovered_by = chinese

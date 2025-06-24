@@ -1,5 +1,5 @@
-owner = Z02
-controller = Z02
+owner = SAR
+controller = SAR
 capital = "Castellon"
 is_city = yes
 culture = catalan
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 4
 base_production = 5
 base_manpower = 2
-add_core = Z02
+add_core = SAR
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

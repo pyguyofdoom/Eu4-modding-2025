@@ -1,5 +1,5 @@
-owner = Y82
-controller = Y82
+owner = Z16
+controller = Z16
 capital = "Marsa Matruh"
 is_city = yes
 culture = coptic
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = MAM
-add_core = Y82
+add_core = Z16
 add_permanent_claim = EGY
 discovered_by = MGE
 discovered_by = chinese

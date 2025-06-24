@@ -1,5 +1,5 @@
-owner = ADU
-controller = ADU
+owner = W12
+controller = W12
 capital = "Palencia"
 is_city = yes
 culture = castillian
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = ADU
+add_core = W12
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

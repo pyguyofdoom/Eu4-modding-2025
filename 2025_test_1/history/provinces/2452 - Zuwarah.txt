@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = TRP
+controller = TRP
 capital = "Zuwarah"
 is_city = yes
 culture = berber
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 5
 base_production = 6
 base_manpower = 2
-add_core = EGY
+add_core = TRP
 add_core = TLC
 add_permanent_claim = TRP
 discovered_by = MGE

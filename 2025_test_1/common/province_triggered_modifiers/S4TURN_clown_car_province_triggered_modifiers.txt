@@ -1,0 +1,22 @@
+religion_entrenched = {
+	potential = {
+		OR = {
+			current_age = age_of_discovery
+			current_age = age_of_reformation
+		}
+	}
+	
+	trigger = {
+		OR = {
+			current_age = age_of_discovery
+			current_age = age_of_reformation
+		}
+	}
+	local_missionary_strength = 0.03
+	
+	on_activation = {
+	}
+
+	on_deactivation = {
+	}
+}

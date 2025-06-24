@@ -1,5 +1,5 @@
-owner = W06
-controller = W06
+owner = Y68
+controller = Y68
 capital = "Monghyr"
 is_city = yes
 culture = bihari
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 3
 base_manpower = 4
 add_core = TRT
-add_core = W06
+add_core = Y68
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

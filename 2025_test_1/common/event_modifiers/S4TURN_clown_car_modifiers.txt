@@ -1,0 +1,10 @@
+the_pagan_offensive = {
+	discipline = 0.025
+	manpower_in_true_faith_provinces = 0.10
+}
+
+the_pagan_defensive = {
+	missionaries = 1
+	missionary_maintenance_cost = -0.25
+	land_morale = 0.10
+]

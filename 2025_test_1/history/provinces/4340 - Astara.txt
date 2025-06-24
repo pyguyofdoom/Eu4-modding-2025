@@ -1,5 +1,5 @@
-owner = KRY
-controller = KRY
+owner = TAB
+controller = TAB
 capital = "Astara"
 is_city = yes
 culture = azerbaijani
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 6
 base_production = 5
 base_manpower = 4
-add_core = KRY
+add_core = TAB
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

@@ -1,5 +1,5 @@
-owner = X77
-controller = X77
+owner = PUN
+controller = PUN
 capital = "Delhi"
 is_city = yes
 culture = kanauji
@@ -11,7 +11,7 @@ base_manpower = 4
 extra_cost = 16
 center_of_trade = 2
 add_core = DLH
-add_core = X77
+add_core = PUN
 add_core = Z91
 discovered_by = MGE
 discovered_by = chinese
