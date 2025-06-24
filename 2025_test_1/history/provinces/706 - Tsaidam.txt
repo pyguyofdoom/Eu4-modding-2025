@@ -1,5 +1,5 @@
-owner = Y49
-controller = Y49
+owner = Y04
+controller = Y04
 capital = "Tsaidam"
 is_city = yes
 culture = tangut
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 3
 base_production = 1
 base_manpower = 2
-add_core = Y49
+add_core = Y04
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

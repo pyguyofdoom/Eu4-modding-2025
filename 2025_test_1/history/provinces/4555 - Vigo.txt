@@ -1,5 +1,5 @@
-owner = Z02
-controller = Z02
+owner = X91
+controller = X91
 capital = "Pontevedra"
 is_city = yes
 culture = portugese
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 3
 base_manpower = 3
 add_core = POR
-add_core = Z02
+add_core = X91
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

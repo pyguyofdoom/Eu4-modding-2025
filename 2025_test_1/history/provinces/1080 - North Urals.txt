@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = CHH
+controller = CHH
 capital = "Pelym"
 is_city = yes
 culture = ostyaki
@@ -8,7 +8,7 @@ trade_goods = unknown
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = AFG
+add_core = CHH
 add_core = X66
 add_core = YUG
 discovered_by = MGE

@@ -1,5 +1,5 @@
-owner = PUN
-controller = PUN
+owner = X60
+controller = X60
 capital = "Skardu"
 is_city = yes
 culture = kashmiri
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 2
 base_production = 2
 base_manpower = 2
-add_core = PUN
+add_core = X60
 add_permanent_claim = KSH
 discovered_by = MGE
 discovered_by = chinese

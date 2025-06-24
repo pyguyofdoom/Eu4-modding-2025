@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = X60
+controller = X60
 capital = "Leh"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 6
 base_production = 3
 base_manpower = 2
-add_core = AFG
+add_core = X60
 add_core = LDK
 discovered_by = MGE
 discovered_by = chinese

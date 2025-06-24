@@ -1,5 +1,5 @@
-owner = BSH
-controller = BSH
+owner = CHH
+controller = CHH
 capital = "Bashkort"
 is_city = yes
 culture = pecheneg
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 1
 base_production = 1
 base_manpower = 5
-add_core = BSH
+add_core = CHH
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

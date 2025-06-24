@@ -1,5 +1,5 @@
-owner = UTS
-controller = UTS
+owner = Y03
+controller = Y03
 capital = "Lhasa"
 is_city = yes
 culture = tibetan
@@ -9,7 +9,7 @@ base_tax = 10
 base_production = 5
 base_manpower = 5
 center_of_trade = 2
-add_core = UTS
+add_core = Y03
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

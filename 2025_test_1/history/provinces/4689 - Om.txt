@@ -1,5 +1,5 @@
-owner = SIB
-controller = SIB
+owner = X02
+controller = X02
 capital = "Om"
 is_city = yes
 culture = karluk
@@ -8,7 +8,7 @@ trade_goods = fur
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = SIB
+add_core = X02
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

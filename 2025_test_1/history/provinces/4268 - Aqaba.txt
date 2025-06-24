@@ -1,5 +1,5 @@
-owner = SYR
-controller = SYR
+owner = X55
+controller = X55
 capital = "Aqaba"
 is_city = yes
 culture = al_suryah_arabic
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 4
 base_production = 3
 base_manpower = 4
-add_core = SYR
+add_core = X55
 add_permanent_claim = ARB
 discovered_by = MGE
 discovered_by = chinese

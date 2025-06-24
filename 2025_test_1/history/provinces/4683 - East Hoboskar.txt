@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = W50
+controller = W50
 capital = "Altay"
 is_city = yes
 culture = oirats
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 add_core = AFG
-add_core = W03
+add_core = W50
 add_core = ZUN
 discovered_by = MGE
 discovered_by = chinese

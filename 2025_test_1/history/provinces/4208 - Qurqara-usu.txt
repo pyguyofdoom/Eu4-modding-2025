@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = W50
+controller = W50
 capital = "Balikul"
 is_city = yes
 culture = oirats
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = AFG
+add_core = W50
 add_core = Z67
 add_core = ZUN
 discovered_by = MGE

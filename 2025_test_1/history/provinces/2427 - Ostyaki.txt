@@ -1,5 +1,5 @@
-owner = X97
-controller = X97
+owner = CHH
+controller = CHH
 capital = "Beloyarskiy"
 is_city = yes
 culture = karluk
@@ -8,7 +8,7 @@ trade_goods = fur
 base_tax = 1
 base_production = 1
 base_manpower = 3
-add_core = X97
+add_core = CHH
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

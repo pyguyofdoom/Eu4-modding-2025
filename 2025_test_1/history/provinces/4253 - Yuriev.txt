@@ -1,8 +1,8 @@
-owner = Z06
-controller = Z06
+owner = MOS
+controller = MOS
 capital = "Yuriev"
 is_city = yes
-culture = uralic
+culture = meshchera
 religion = finnish_pagan
 trade_goods = salt
 base_tax = 1

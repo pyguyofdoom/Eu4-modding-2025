@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = SMO
+controller = SMO
 capital = "Kaluga"
 is_city = yes
 culture = ryazanian

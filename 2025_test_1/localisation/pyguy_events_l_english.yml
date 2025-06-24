@@ -1,0 +1,14 @@
+﻿l_english:
+ #Religion
+ ZZZ_enhanced_religion.1.t:0 "The [From.Religion.GetName] Reformation"
+ ZZZ_enhanced_religion.1.desc:0 "[From.Monarch.GetTitle] [From.Monarch.GetName] has received a vision! In this vision the followers of the gods stood apart, and one by one they were swept aside by a mighty cross made of wood. Soon there were no followers of the gods left, and [From.Monarch.GetTitle] [From.Monarch.GetName] saw Odin himself slowly fading. Suddenly there was a bright light, and there was Thor, smashing the wooden cross, and behind him stood all those swept aside, together destroying that which they were powerless against alone. Trusting in [From.Monarch.GetHerHis] vision, [From.Monarch.GetTitle] [From.Monarch.GetName] has established a new religious hierarchy. Additionally, [From.Monarch.GetSheHe] has also tasked [From.Monarch.GetHerHis] most learned theologians with standardizing the great sagas so that there will be a single definitive edition of each. Collectively these standardized sagas are to be known as The Heilögu Sögurnar."
+ ZZZ_enhanced_religion.1.a:0 "Odin Guides Us!"
+ ZZZ_enhanced_religion.1.aa:0 "Odin Guides Us!"
+ ZZZ_enhanced_religion.1.b:0 "LIAR! CHARLATAN!"
+ ZZZ_enhanced_religion.1.c:0 "Accursed Heathens!"
+
+ 
+ jbull_event.1.t:0 "Death of the Father"
+ jbull_event.1.d:0 "The worst has come to pass: the great patriarch of the froge family, king duran, has died. In his wake, the upstart 'emperor' Lop has crowned himself king of all provencial dukes, but he is a liar. Most dukes hardly pay lip service to that charlatan. We must march north as soon as possible to put down this pretender, and begin reforging what once was. For the glory of provence!"
+ jbull_event.1.a:0 "Let us show this weasel of an emperor what it means to be king."
+ jbull_event.1.a.tt:0 "We have claims on the provencial land held by the false king, and can march forth at once. However, the false king has called in many favors and currently holds a huge army advantage over us. Perhaps it is best to consolidate our current holdings before continuing on."

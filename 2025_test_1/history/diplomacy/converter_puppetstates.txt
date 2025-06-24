@@ -167,32 +167,17 @@ dependency=
 
 vassal=
 {
-	first="RIG"
+	first="SWE"
 	second="Z95"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
-vassal=
-{
-	first="RIG"
-	second="X13"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
 
 vassal=
 {
-	first="RIG"
+	first="SWE"
 	second="W40"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="RIG"
-	second="WLS"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -238,13 +223,31 @@ vassal=
 	end_date="1836.1.1"
 }
 
-vassal=
+dependency=
 {
+	subject_type="tributary_state"
 	first="Z02"
 	second="Z04"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
+dependency=
+{
+	subject_type="tributary_state"
+	first="Z02"
+	second="GRA"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+dependency=
+{
+	subject_type="tributary_state"
+	first="Z02"
+	second="Y89"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
 
 dependency=
 {

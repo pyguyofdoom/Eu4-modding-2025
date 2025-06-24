@@ -1,5 +1,5 @@
-owner = Z56
-controller = Z56
+owner = GRA
+controller = GRA
 capital = "Alàcant"
 is_city = yes
 culture = catalan
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 3
 base_manpower = 2
 add_core = CAT
-add_core = Z56
+add_core = GRA
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

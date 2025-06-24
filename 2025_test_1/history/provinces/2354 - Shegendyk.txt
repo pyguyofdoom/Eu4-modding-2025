@@ -1,5 +1,9 @@
+owner = X02
+controller = X02
+is_city = yes
+add_core = X02
 capital = "Shegendyk"
-culture = siberian
+culture = karluk
 religion = tengri_pagan_reformed
 trade_goods = iron
 base_tax = 1

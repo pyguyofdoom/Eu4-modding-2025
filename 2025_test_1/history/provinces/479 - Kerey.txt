@@ -1,5 +1,10 @@
+owner = X02
+controller = X02
+is_city = yes
+add_core = X02
+
 capital = "Kerey"
-culture = siberian
+culture = karluk
 religion = tengri_pagan_reformed
 trade_goods = copper
 base_tax = 1

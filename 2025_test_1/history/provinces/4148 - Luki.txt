@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = NOV
+controller = NOV
 capital = "Velikiye Luki"
 is_city = yes
 culture = novgorodian
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 1
 base_manpower = 2
-add_core = UKR
+add_core = NOV
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

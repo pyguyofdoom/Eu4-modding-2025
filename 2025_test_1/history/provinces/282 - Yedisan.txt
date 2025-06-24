@@ -1,5 +1,5 @@
-owner = CRI
-controller = CRI
+owner = W18
+controller = W18
 capital = "Hajibey"
 is_city = yes
 culture = hungarian
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 4
 extra_cost = 10
-add_core = CRI
+add_core = W18
 add_core = ZAZ
 discovered_by = MGE
 discovered_by = chinese

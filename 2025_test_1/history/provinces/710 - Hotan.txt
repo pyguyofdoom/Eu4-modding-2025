@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = X60
+controller = X60
 capital = "Hotan"
 is_city = yes
 culture = saka
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = AFG
+add_core = X60
 add_core = KAS
 add_core = Z88
 discovered_by = MGE

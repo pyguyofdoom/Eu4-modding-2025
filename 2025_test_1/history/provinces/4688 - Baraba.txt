@@ -1,5 +1,6 @@
-owner = PTZ
-controller = PTZ
+owner = X02
+controller = X02
+add_core = X02
 capital = "Baraba"
 is_city = yes
 culture = karluk

@@ -1,5 +1,5 @@
-owner = ADU
-controller = ADU
+owner = X91
+controller = X91
 capital = "Corunna"
 is_city = yes
 culture = portugese
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 5
 base_production = 3
 base_manpower = 2
-add_core = ADU
+add_core = X91
 add_core = POR
 discovered_by = MGE
 discovered_by = chinese
