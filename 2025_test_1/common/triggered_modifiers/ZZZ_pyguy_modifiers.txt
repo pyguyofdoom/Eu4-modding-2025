@@ -41,7 +41,7 @@ mongol_fury = {
 	
 	land_forcelimit	= 100
 	global_manpower = 50	
-	global_tax_income = 120
+	global_tax_income = 180
 	cav_to_inf_ratio = 0.25
 	religious_unity = 0.8	
 	#icon = 9
