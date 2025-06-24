@@ -1,5 +1,5 @@
-owner = FZA
-controller = FZA
+owner = TRP
+controller = TRP
 capital = "Murzuk"
 is_city = yes
 culture = berber
@@ -8,7 +8,7 @@ trade_goods = ivory
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = FZA
+add_core = TRP
 add_core = TLC
 discovered_by = MGE
 discovered_by = chinese

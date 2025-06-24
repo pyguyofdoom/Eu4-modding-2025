@@ -1,5 +1,5 @@
-owner = Z04
-controller = Z04
+owner = TRP
+controller = TRP
 capital = "Thubaqt"
 is_city = yes
 culture = berber
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 5
 base_manpower = 2
 add_core = TLC
-add_core = Z04
+add_core = TRP
 add_permanent_claim = TRP
 discovered_by = MGE
 discovered_by = chinese

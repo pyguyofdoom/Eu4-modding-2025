@@ -1,5 +1,5 @@
-owner = X91
-controller = X91
+owner = W98
+controller = W98
 capital = "Santander"
 is_city = yes
 culture = castillian
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = X91
+add_core = W98
 add_permanent_claim = CAS
 discovered_by = MGE
 discovered_by = chinese

@@ -1,5 +1,5 @@
-owner = Z04
-controller = Z04
+owner = X34
+controller = X34
 capital = "Ouarzazate"
 is_city = yes
 culture = moroccan
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = Z04
+add_core = X34
 add_permanent_claim = MOR
 discovered_by = MGE
 discovered_by = chinese

@@ -21,3 +21,4 @@ discovered_by = sub_saharan
 discovered_by = western
 native_ferocity = 4
 native_hostileness = 9
+add_core = MAL
