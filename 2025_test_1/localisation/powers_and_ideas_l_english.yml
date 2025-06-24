@@ -7022,6 +7022,20 @@
  the_chosen_people_desc:0 "The Jews are the chosen people of God, with his divine will we shall never again lose Israel to our old enemies again."
 
 
+ gilyde_idea1:0 "Birthplace of Rus Orthodoxy"
+ gilyde_idea1_desc:0 "The people of the steppes have finally been awoken to the true faith by the patriarch of Kiev, let us spread the good word!"
+ gilyde_idea2:0 "Lifelong Conscription"
+ gilyde_idea2_desc:0 "The great chiefs of Kiev have mandated military service for serfs since the last pecheneg invasion, and we continue the tradition proudly."
+ gilyde_idea3:0 "Georgian Lessons"
+ gilyde_idea3_desc:0 "While under the tutalege of the Georgians, we were given many lessons on architecture and economics. Descendants of Mirofan have not forgotten that knowledge." 
+ gilyde_idea4:0 "Reforms of Mirofan the Great"
+ gilyde_idea4_desc:0 "Mirofan the Great brought us prosperity and was first king of the Rus. His example of strength and discipline will live on in our hearts forevermore."
+ gilyde_idea5:0 "Right to Rule the Rus"
+ gilyde_idea5_desc:0 "God has given us the right to rule this land. For the dynasty!"
+ gilyde_idea6:0 "Birthplace of the Slavs"
+ gilyde_idea6_desc:0 "The slavic peoples can trace their lineage back to that of Kiev. Let us re-unite our former brothers."
+ gilyde_idea7:0 "East and West"
+ gilyde_idea7_desc:0 "We have been at the crossroads of history, experiencing the religious tumult of the west and great invasions of the east. Through it all, we have kept up a rigorous trade empire in the forests of mother Rus."
 
  
  infrastructure_ideas:0 "Infrastructure Ideas"

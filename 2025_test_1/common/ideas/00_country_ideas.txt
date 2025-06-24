@@ -18014,7 +18014,7 @@ FU2_ideas = {
 
 UKR_ideas = {
 	start = {
-		manpower_recovery_speed = 0.2
+		global_manpower_modifier = 0.25
 		morale_damage_received = -0.1
 	}
 
@@ -18027,35 +18027,32 @@ UKR_ideas = {
 	}
 	free = yes
  
-	mother_of_russian_cities = { #Mother of Russian States
-		legitimacy = 1
-		devotion = 1
-		republican_tradition = 0.3
-		meritocracy = 1
-		horde_unity = 1
-		prestige = 1
+	gilyde_idea1 = { #gilyder start
+		missionaries = 1
+		yearly_patriarch_authority = 0.1	
 	}
-	international_influences = {
+	gilyde_idea2 = {
+		land_forcelimit_modifier = 0.3
+		
+	}
+	gilyde_idea3 = {
+		development_cost = -0.05
+		build_time = -0.20
+	}
+	gilyde_idea4 = {
+		land_morale = 0.05
+		drill_gain_modifier = 0.10	
+	}
+	gilyde_idea5 = {
+		ae_impact = -0.15		
+	}
+	gilyde_idea6 = {
 		num_accepted_cultures = 2
-		promote_culture_cost = -0.25
+		years_of_nationalism = -5	
 	}
-	zaporizhian_cossacs = {
-		cavalry_power = 0.15
-		cossacks_privilege_slots = 1
-	}
-	east_and_west = {
-		global_trade_power = 0.1
-	}
-	legacy_of_ancient_rus = {
-		stability_cost_modifier = -0.1
-	}
-	reuniting_rus = {
-		core_creation = -0.1
-		years_of_nationalism = -5
-	}
-	birth_of_russian_orthodoxy = {
-		tolerance_own = 2
-		yearly_patriarch_authority = 0.005
+	gilyde_idea7 = {
+		global_trade_power = 0.1	
+		caravan_power = 0.2
 	}
 }
 
