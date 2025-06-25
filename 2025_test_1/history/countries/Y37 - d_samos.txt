@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = autocracy_reform
 government_rank = 1
 technology_group = eastern
-religion = catholic
+religion = hellenic_pagan_reformed
 primary_culture = greek
 capital = 2348
 add_accepted_culture = anatolian
@@ -14,7 +14,7 @@ add_accepted_culture = anatolian
 		dip = 3
 		mil = 6
 		birth_date = 1401.9.19
-		religion = catholic
+		religion = hellenic_pagan_reformed
 		culture = greek
 	}
 	add_ruler_personality = conqueror_personality
@@ -29,7 +29,7 @@ add_accepted_culture = anatolian
 		birth_date = 1400.6.8
 		death_date = 1460.6.8
 		female = yes
-		religion = catholic
+		religion = reformed_hellenic
 		culture = greek
 	}
 	add_queen_personality = infertile_personality
@@ -44,7 +44,7 @@ add_accepted_culture = anatolian
 		birth_date = 1420.3.21
 		death_date = 1485.3.21
 		claim = 89
-		religion = catholic
+		religion = hellenic_pagan_reformed
 		culture = greek
 	}
 	add_heir_personality = infertile_personality

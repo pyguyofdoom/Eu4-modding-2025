@@ -1,5 +1,5 @@
-owner = SME
-controller = SME
+owner = TBR
+controller = TBR
 capital = "Urmiyeh"
 is_city = yes
 culture = persian
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 3
 base_manpower = 4
 add_core = PER
-add_core = SME
+add_core = TBR
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

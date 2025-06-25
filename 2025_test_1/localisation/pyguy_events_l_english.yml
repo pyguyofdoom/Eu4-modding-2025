@@ -20,3 +20,7 @@
  kick_event.1.a.tt:0 "Let this be our final battle."
 
  kickman_fury:0 "Fury of the Son"
+
+ jesse_event.1.t:0 "The Coup"
+ jesse_event.1.d:0 "My liege, reports are coming in from the west that the imperial guard has staged a coup in Constantinople! Your father thought them trustworthy, but it seems that even giving them increased pay did little to assauge their ambitions. They are now marching on the capitol, and I fear if they take it the entire royal family is at risk."
+ jesse_event.1.a:0 "Mobilize the troops! Let us show these upstarts how to war."

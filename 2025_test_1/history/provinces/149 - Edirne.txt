@@ -1,5 +1,5 @@
-owner = X17
-controller = X17
+owner = Z52
+controller = Z52
 capital = "Edirne"
 is_city = yes
 culture = greek
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 2
 add_core = GRE
-add_core = X17
+add_core = Z52
 add_core = Z11
 discovered_by = MGE
 discovered_by = chinese

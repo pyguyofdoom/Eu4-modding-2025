@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = STY
+controller = STY
 capital = "Celje"
 is_city = yes
 culture = slovene
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 2
 add_core = CLI
-add_core = Z19
+add_core = STY
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

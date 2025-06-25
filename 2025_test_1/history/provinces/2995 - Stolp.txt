@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = POM
+controller = POM
 capital = "Stolp"
 is_city = yes
 culture = pommeranian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 3
 base_manpower = 2
-add_core = BUR
+add_core = POM
 add_permanent_claim = POM
 discovered_by = MGE
 discovered_by = chinese

@@ -1,5 +1,5 @@
-owner = GEL
-controller = GEL
+owner = Z51
+controller = Z51
 capital = "Rostock"
 is_city = yes
 culture = prussian
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = GEL
+add_core = Z51
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

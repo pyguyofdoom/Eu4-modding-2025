@@ -1,5 +1,5 @@
-owner = Z52
-controller = Z52
+owner = TRE
+controller = TRE
 capital = "Kastamonu"
 is_city = yes
 culture = georgian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 5
 base_manpower = 2
 add_core = GEO
-add_core = Z52
+add_core = TRE
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

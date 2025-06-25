@@ -1,5 +1,5 @@
-owner = Z21
-controller = Z21
+owner = TRE
+controller = TRE
 capital = "Samsun"
 is_city = yes
 culture = georgian
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 4
 base_manpower = 5
 add_core = GEO
-add_core = Z21
+add_core = TRE
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

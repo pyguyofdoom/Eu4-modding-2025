@@ -1,5 +1,5 @@
-owner = Z51
-controller = Z51
+owner = FKN
+controller = FKN
 capital = "Frankfurt an der Oder"
 is_city = yes
 culture = schlesian
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = Z51
+add_core = FKN
 add_permanent_claim = POL
 discovered_by = MGE
 discovered_by = chinese

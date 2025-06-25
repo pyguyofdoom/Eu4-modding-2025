@@ -1,5 +1,5 @@
-owner = HAB
-controller = HAB
+owner = STY
+controller = STY
 capital = "Zagreb"
 is_city = yes
 culture = croatian
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 add_core = DAL
-add_core = HAB
+add_core = STY
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
