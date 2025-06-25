@@ -1,5 +1,9 @@
 #These reforms will replace their vanilla counterparts
 
+
+
+
+
 english_monarchy = {
 	icon = "british_queen"
 	allow_normal_conversion = no

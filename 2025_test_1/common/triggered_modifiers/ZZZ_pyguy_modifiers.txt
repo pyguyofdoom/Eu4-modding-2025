@@ -47,4 +47,31 @@ mongol_fury = {
 	#icon = 9
 }
 
+stormfiend_fury = {
+	potential = {
+		normal_or_historical_nations = yes
+		
+		
+		tag = SWE
+		tag = SCA
+	}
+
+	trigger = {
+		
+		
+		tag = SWE
+		tag = SCA
+		
+	}
+
+	
+	
+	discipline = 0.025	
+	extra_manpower_at_religious_war = yes		
+	#icon = 9
+}
+
+
+
+
 
