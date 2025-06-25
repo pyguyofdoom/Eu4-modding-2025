@@ -1,5 +1,5 @@
-owner = CAS
-controller = CAS
+owner = Z27
+controller = Z27
 capital = "Auch"
 is_city = yes
 culture = aquitaine
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = CAS
+add_core = Z27
 add_core = TOU
 add_permanent_claim = Z60
 discovered_by = MGE

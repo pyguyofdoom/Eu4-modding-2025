@@ -1,5 +1,5 @@
-owner = FIN
-controller = FIN
+owner = X83
+controller = X83
 capital = "Hull"
 is_city = yes
 culture = elsinorian
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 2
 add_core = DAN
-add_core = FIN
+add_core = X83
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

@@ -1,5 +1,5 @@
-owner = GEL
-controller = GEL
+owner = W90
+controller = W90
 capital = "Oxford"
 is_city = yes
 culture = essexian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = DAN
-add_core = GEL
+add_core = W90
 add_core = Z62
 discovered_by = MGE
 discovered_by = chinese

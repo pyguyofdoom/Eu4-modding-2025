@@ -1,5 +1,5 @@
-owner = Y21
-controller = Y21
+owner = X83
+controller = X83
 capital = "Scarborough"
 is_city = yes
 culture = elsinorian
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 3
 base_manpower = 3
 add_core = DAN
-add_core = Y21
+add_core = X83
 add_core = Y76
 discovered_by = MGE
 discovered_by = chinese

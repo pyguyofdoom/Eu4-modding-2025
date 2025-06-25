@@ -1,5 +1,5 @@
-owner = GEL
-controller = GEL
+owner = W90
+controller = W90
 capital = "Leicester"
 is_city = yes
 culture = elsinorian
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 2
 base_manpower = 3
 add_core = DAN
-add_core = GEL
+add_core = W90
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

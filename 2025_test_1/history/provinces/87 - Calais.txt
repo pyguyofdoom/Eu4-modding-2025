@@ -1,5 +1,5 @@
-owner = CAS
-controller = CAS
+owner = X63
+controller = X63
 capital = "Calais"
 is_city = yes
 culture = flemish
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = CAS
+add_core = X63
 add_core = NED
 add_permanent_claim = FLA
 hre = yes

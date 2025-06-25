@@ -1,5 +1,5 @@
-owner = ASU
-controller = ASU
+owner = Y66
+controller = Y66
 capital = "Paris"
 is_city = yes
 culture = normand
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 4
 center_of_trade = 2
-add_core = ASU
+add_core = Y66
 add_core = X51
 add_permanent_claim = Y66
 discovered_by = MGE

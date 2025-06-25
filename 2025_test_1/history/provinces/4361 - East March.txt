@@ -1,5 +1,5 @@
-owner = LEI
-controller = LEI
+owner = W04
+controller = W04
 capital = "Jedburgh"
 is_city = yes
 culture = elsinorian
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 5
 base_production = 3
 base_manpower = 2
-add_core = LEI
+add_core = W04
 add_core = NOL
 add_core = X35
 discovered_by = MGE

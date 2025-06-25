@@ -1,5 +1,5 @@
-owner = GEL
-controller = GEL
+owner = W90
+controller = W90
 capital = "Hastings"
 is_city = yes
 culture = essexian
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 add_core = ESX
-add_core = GEL
+add_core = W90
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

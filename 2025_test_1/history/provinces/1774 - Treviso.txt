@@ -5,7 +5,7 @@ is_city = yes
 culture = venetian
 religion = orthodox
 trade_goods = paper
-hre = yes
+
 base_tax = 4
 base_production = 5
 base_manpower = 2
