@@ -1,0 +1,38 @@
+country_decisions = {
+	build_furnaces_early_decision = {
+		major = yes
+		color = { 0 255 255 }
+		potential = {
+			has_country_flag = earlier_coal_available
+		}
+		allow = {
+			AND = {
+				any_owned_province = {
+					AND = {
+						has_latent_trade_goods = coal
+						NOT = {
+							has_building = furnace
+						}
+						num_free_building_slots = 1
+					}
+				}
+				treasury = 500
+			}
+		}
+		effect = {
+			random_owned_province = {
+				limit = {
+					AND = {
+						has_latent_trade_goods = coal
+						num_free_building_slots = 1
+					}
+				}
+				add_building_construction = {
+					building = furnace
+					speed = 1
+					cost = 1
+				}
+			}
+		}
+	}
+}

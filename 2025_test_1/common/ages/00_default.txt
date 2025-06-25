@@ -519,6 +519,7 @@ age_of_reformation = {
 		}
 
 		ab_spain_shock_tactics = {
+		#Will replace spain bonus with brittany bonus. Will work on as soon as I know what flush is doing
 			allow = {
 				OR = {
 					tag = SPA
@@ -772,72 +773,55 @@ age_of_absolutism = {
 		}
 	
 	
-		ab_french_absolutism = {
+		ab_modern_emperorship = {
+		#replaced French Absolutism bonus with emperorship bonus
 			effect = { 
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			allow = {
-				OR = {
-					tag = FRA
-					AND = {
-						government_rank = 2
-						culture_group = french
-					}
-				}
+				is_emperor = yes
 			}
 			modifier = {
-				max_absolutism_effect = 0.3
+				imperial_authority = 0.10
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}
-		ab_dutch_trade = {
+		ab_italian_development = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			allow = {
-				OR = {
-					tag = NED
-					AND = {
-						government_rank = 2
-						OR = {
-							primary_culture = dutch
-							primary_culture = flemish
-							primary_culture = frisian
-						}
-					}
+				AND = {
+					culture_group = latin
+					government_rank = 2
 				}
 			}
 			modifier = {
-				trade_steering = 0.33
+				development_cost = -0.1
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
 				factor = 100
 			}
 		}	
-		ab_sweden_manpower = {
+		ab_greek_trade = {
 			effect = { 
 				on_age_ability_taken = { age = age_of_absolutism }
 			}
 			allow = {
 				OR = {
-					tag = SWE
-					tag = SCA
-					AND = {
-						government_rank = 2
-						primary_culture = swedish
-					}
-					AND = {
-						government_rank = 3
-						culture_group = scandinavian
-					}
+					tag = BYZ
+					tag = GRE
+					#inscert for anatolia tag
+					#for hellenic egypt tag
 				}
-			}
+			}	
 			modifier = {
-				manpower_recovery_speed = 0.35
+				global_prov_trade_power_modifier = 0.25
+				trade_efficiency = 0.1
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
@@ -845,27 +829,15 @@ age_of_absolutism = {
 			}
 		}
 
-		ab_manchu_banner = {
+		ab_coal_extraction = {
 			allow = {
-				OR = {
-					tag = MCH
-					tag = QNG
-					num_of_banners = 10
-				}
+				
 			}
 			effect = {
-				on_age_ability_taken = { age = age_of_absolutism }
-				if = {
-					limit = {
-						NOT = { primary_culture = manchu }
-						NOT = { primary_culture = manchu_new }
-						NOT = { has_government_attribute = allow_banners }
-					}
-					custom_tooltip = ab_manchu_banner_tt
-				}
+				set_country_flag = earlier_coal_available
+				custom_tooltip = coal_extraction_bonus_tooltip
 			}
 			modifier = {
-				amount_of_banners = 0.5
 				num_of_age_rewards = 1
 			}
 			ai_will_do = {
