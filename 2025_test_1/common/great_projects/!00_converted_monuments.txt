@@ -22,8 +22,8 @@ wonder_temple_pagan_7 = {
 	build_trigger = {
 		OR = {
 			AND = {
+				religion = norse_pagan_reformed
 				religion_group = pagan
-				province_is_or_accepts_religion_group = yes
 			}
 		
 	}
@@ -40,8 +40,9 @@ wonder_temple_pagan_7 = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
+				religion = norse_pagan_reformed
 				religion_group = pagan
-				province_is_or_accepts_religion_group = yes
+				
 			}
 		
 	}
@@ -50,8 +51,9 @@ wonder_temple_pagan_7 = {
 	can_upgrade_trigger = {
 		OR = {
 			AND = {
+				religion = norse_pagan_reformed
 				religion_group = pagan
-				province_is_or_accepts_religion_group = yes
+				
 			}
 		
 	}
@@ -269,7 +271,6 @@ wonder_university_9 = {
 		}
 
 		country_modifiers = {
-			governing_capacity_modifier = 0
 			idea_cost = 0
 			technology_cost = 0
 			
@@ -301,8 +302,6 @@ wonder_university_9 = {
 		}
 
 		country_modifiers = {
-			governing_capacity_modifier = 0.05
-			idea_cost = -0.1
 			technology_cost = -0.05
 			
 		}
@@ -333,8 +332,7 @@ wonder_university_9 = {
 		}
 
 		country_modifiers = {
-			governing_capacity_modifier = 0.1
-			idea_cost = -0.15
+			idea_cost = -0.05
 			technology_cost = -0.1
 			
 		}
@@ -365,9 +363,8 @@ wonder_university_9 = {
 		}
 
 		country_modifiers = {
-			governing_capacity_modifier = 0.15
-			idea_cost = -0.2
-			technology_cost = -0.1
+			idea_cost = -0.1
+			technology_cost = -0.15
 			
 		}
 
@@ -776,9 +773,10 @@ wonder_statue_ruler_0 = {
 	type = monument
 
 	build_trigger = {
+
 		
 AND = {
-				culture = bohemian
+				culture = czech
 				has_owner_culture = yes
 			}
 		
@@ -793,9 +791,10 @@ AND = {
 	}
 
 	can_use_modifiers_trigger = {
+
 		
 AND = {
-				culture = bohemian
+				culture = czech
 				has_owner_culture = yes
 			}
 		
@@ -804,7 +803,7 @@ AND = {
 	can_upgrade_trigger = {
 		
 AND = {
-				culture = bohemian
+				culture = czech
 				has_owner_culture = yes
 			}
 		
@@ -903,7 +902,7 @@ AND = {
 		}
 
 		country_modifiers = {
-			culture_conversion_cost = -0.2
+			culture_conversion_cost = -0.1
 			
 		}
 
@@ -937,7 +936,7 @@ AND = {
 		}
 
 		country_modifiers = {
-			culture_conversion_cost = -0.25
+			culture_conversion_cost = -0.2
 			
 		}
 
@@ -1054,9 +1053,7 @@ wonder_library_2 = {
 		}
 
 		country_modifiers = {
-			idea_cost = -0.1
 			innovativeness_gain = 0.25
-			technology_cost = -0.05
 			
 		}
 
@@ -1086,9 +1083,8 @@ wonder_library_2 = {
 		}
 
 		country_modifiers = {
-			idea_cost = -0.15
+			idea_cost = -0.05
 			innovativeness_gain = 0.5
-			technology_cost = -0.1
 			
 		}
 
@@ -1118,9 +1114,9 @@ wonder_library_2 = {
 		}
 
 		country_modifiers = {
-			idea_cost = -0.2
+			idea_cost = -0.05
 			innovativeness_gain = 1
-			technology_cost = -0.1
+			technology_cost = -0.05
 			
 		}
 
@@ -1237,7 +1233,6 @@ wonder_harbor_12 = {
 
 		country_modifiers = {
 			global_ship_trade_power = 0.1
-			governing_capacity_modifier = 0.05
 			
 		}
 
@@ -1272,7 +1267,6 @@ wonder_harbor_12 = {
 
 		country_modifiers = {
 			global_ship_trade_power = 0.2
-			governing_capacity_modifier = 0.1
 			
 		}
 
@@ -1307,7 +1301,6 @@ wonder_harbor_12 = {
 
 		country_modifiers = {
 			global_ship_trade_power = 0.25
-			governing_capacity_modifier = 0.15
 			
 		}
 
@@ -1428,8 +1421,7 @@ wonder_university_5 = {
 
 		country_modifiers = {
 			adm_tech_cost_modifier = -0.05
-			idea_cost = -0.1
-			technology_cost = -0.05
+			idea_cost = -0.05
 			
 		}
 
@@ -1462,8 +1454,9 @@ wonder_university_5 = {
 
 		country_modifiers = {
 			adm_tech_cost_modifier = -0.1
-			idea_cost = -0.15
-			technology_cost = -0.1
+			idea_cost = -0.05
+			innovativeness_gain = 0.25
+
 			
 		}
 
@@ -1495,9 +1488,9 @@ wonder_university_5 = {
 		}
 
 		country_modifiers = {
-			adm_tech_cost_modifier = -0.2
-			idea_cost = -0.2
-			technology_cost = -0.1
+			adm_tech_cost_modifier = -0.15
+			idea_cost = -0.05
+			innovativeness_gain = 0.25
 			
 		}
 
@@ -1643,7 +1636,7 @@ wonder_palace_4 = {
 		}
 
 		country_modifiers = {
-			advisor_cost = -0.2
+			advisor_cost = -0.15
 			advisor_pool = 1
 			num_accepted_cultures = 1
 			
@@ -1676,9 +1669,9 @@ wonder_palace_4 = {
 		}
 
 		country_modifiers = {
-			advisor_cost = -0.25
+			advisor_cost = -0.15
 			advisor_pool = 1
-			num_accepted_cultures = 1
+			num_accepted_cultures = 2
 			
 		}
 
