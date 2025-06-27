@@ -18051,7 +18051,7 @@ UKR_ideas = {
  
 	gilyde_idea1 = { #gilyder start
 		missionaries = 1
-		yearly_patriarch_authority = 0.1	
+		yearly_patriarch_authority = 0.001	
 	}
 	gilyde_idea2 = {
 		land_forcelimit_modifier = 0.3
