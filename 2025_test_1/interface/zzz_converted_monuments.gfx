@@ -64,7 +64,10 @@ spriteType = {
 		name = "GFX_great_project_wonder_palace_4"
 		texturefile = "gfx//interface//great_projects//great_project_the_grand_palace.dds"
 	}
-
+	spriteType = {
+		name = "GFX_great_project_wonder_palace_5"
+		texturefile = "gfx//interface//great_projects//great_project_the_grand_palace.dds"
+	}
 	spriteType = {
 		name = "GFX_great_project_wonder_mausoleum_11"
 		texturefile = "gfx//interface//great_projects//great_project_mausoleum_at_halicarnassus.dds"

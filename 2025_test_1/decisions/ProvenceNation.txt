@@ -1,0 +1,93 @@
+country_decisions = {
+
+	jbull_nation = {
+		major = yes
+		potential = {
+			
+			
+			NOT = { has_country_flag = formed_jbull_flag_}
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			NOT = { exists = JBU }
+			
+			
+			OR{
+			primary_culture = occitain
+			
+	   }
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 200	# provence
+				province_id = 223	# Granada
+				province_id = 224	# Andalucia
+				province_id = 225	# Cordoba
+				province_id = 226	# Gibraltar
+				province_id = 219	# Toledo
+				province_id = 1749	# Cadiz
+				province_id = 222	# Almeria
+				province_id = 228	# Beira
+				province_id = 1746	# Burgoz
+				province_id = 214	# Aragon
+				province_id = 220	# Valencia
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			owns_core_province = 200	# provence
+			owns_core_province = 223	# Granada
+			owns_core_province = 224	# Andalucia
+			owns_core_province = 225	# Cordoba
+			owns_core_province = 226	# Gibraltar
+			owns_core_province = 219	# Toledo
+			owns_core_province = 1749	# Cadiz
+			owns_core_province = 222	# Almeria
+			owns_core_province = 228	# Beira
+			owns_core_province = 1746	# Burgoz
+			owns_core_province = 214	# Aragon
+			owns_core_province = 220	# Valencia
+		}
+		effect = {
+			change_tag = JBU
+			on_change_tag_effect = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			swap_non_generic_missions = yes
+			# should grant cores on all jbulll lllladakndka
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			set_country_flag = formed_jbull_flag
+
+		iberia_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = JBU
+			}
+			
+				
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			
+		}
+		ai_will_do = {
+			factor = 400
+		}
+	}
+	
+}
