@@ -156,9 +156,9 @@ dependency=
 	end_date="1836.1.1"
 }
 
-dependency=
+vassal=
 {
-	subject_type="tributary_state"
+	
 	first="Z07"
 	second="MLO"
 	start_date="1444.11.11"

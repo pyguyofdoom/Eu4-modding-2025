@@ -1,5 +1,5 @@
-owner = Z07
-controller = Z07
+owner = SLZ
+controller = SLZ
 capital = "M�nchen"
 is_city = yes
 culture = lombard
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 5
 base_production = 3
 base_manpower = 2
-add_core = Z07
+add_core = SLZ
 add_permanent_claim = BAV
 discovered_by = MGE
 discovered_by = chinese
