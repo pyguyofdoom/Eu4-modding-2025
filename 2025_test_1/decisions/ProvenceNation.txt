@@ -14,7 +14,7 @@ country_decisions = {
 				is_free_or_tributary_trigger = yes
 				ai = no
 			}
-			NOT = { exists = JBU }
+			NOT = { exists = PRO }
 			
 			
 			OR{
@@ -56,16 +56,16 @@ country_decisions = {
 			owns_core_province = 220	# Valencia
 		}
 		effect = {
-			change_tag = JBU
+			change_tag = PRO
 			on_change_tag_effect = yes
 			remove_non_electors_emperors_from_empire_effect = yes
 			swap_non_generic_missions = yes
 			# should grant cores on all jbulll lllladakndka
 			if = {
 				limit = {
-					NOT = { government_rank = 2 }
+					NOT = { government_rank = 3 }
 				}
-				set_government_rank = 2
+				set_government_rank = 3
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"
@@ -78,7 +78,7 @@ country_decisions = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = JBU
+				add_permanent_claim = PRO
 			}
 			
 				

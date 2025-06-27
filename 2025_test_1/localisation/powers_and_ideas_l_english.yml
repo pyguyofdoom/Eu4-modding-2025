@@ -1,4 +1,20 @@
 ﻿l_english:
+ jbull_culture:0 "Princes of Anjou"
+ jbull_culture_desc:0 "Even as we were pushed hundreds of miles from our homeland, our princes never forgot their dynastic heritage. Even ruling from badajoz and portugal, we are proud occitanians. Let us teach those around us to also be proud warriors of Provence!"
+ jbull_desperation:0 "Destitution and Desperation" 
+ jbull_desperation_desc:0 "For years we teetered on the edge of landlessness. War, plague, religious turmoil, civil war, rebellion. Our people carry a source of resolve found in few other places in Europe."
+ jbull_plague:0 "Plague Survivalists"
+ jbull_plague_desc:0 "We are survivors of almost every plague recorded. Flu, pneumonia, and of course the black death. Our nobles are given top of the line treatment and have even started rudimentary variolation!"
+ jbull_odin:0 "Disciplies of Odin"
+ jbull_odin_desc:0 "The stormfiends came to our land offering riches and war, with their only requirement being that we submit to the one true faith. While we may not be as bloodthirsty as our northern kin, we are still proud adherants of Odin. Odin came to us in a time of need, and Odin will carry us through to victory!" 
+ jbull_iberia:0 "The First Professional Army"
+ jbull_iberia_desc:0 "With all of iberia under our control, and our empire now stretching further and further into aquitaine, we are able to field a professional army. Musketeers, the sons of aristocrats that yearn for glory, flock to the ranks of our new fighting force. Let the enemy face our steel."
+ jbull_dragon:0 "Lois the Dragon"
+ jbull_dragon_desc:0 "Lois the Dragon is the longest living member of the De Froge dynasty, and perhaps the most famous. Father of 16 children, emperor of Provence, survivor of the plague, vallaha-bound, and ardent statesmen, Lois was a figure of legend. He also probably ate kids. Regardless, he acts as an inspirational figure for provencial soldiers everywhere." 
+ jbull_elbes:0 "Elbes Economics"
+ jbull_elbes_desc:0 "There is one rule along the Elbes regarding taxation: if you want to extract a tax, you must prepare for bloodshed. Our tax collectors often travel with armed bodyguards, and while one would think this simply leads to fearmongering, it seems that keeping order improves worker morale!" 
+
+
  mil_tech_cost_modifier:0 "Military Technology Cost"
  adm_tech_cost_modifier:0 "Administrative Technology Cost"
  dip_tech_cost_modifier:0 "Diplomatic Technology Cost"
