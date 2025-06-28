@@ -1,5 +1,26 @@
 ﻿l_english:
- 
+ radiant_ideas_start:0 "Holy Roman Traditions"
+ radiant_ideas:0 "Holy Roman Ideas"
+ rad_diplo:0 "Silver Tongues"
+ rad_diplo_desc:0 "Trapped between great powers, our diplomats often resorted to bribery and threats to force treaties and grease wheels. Hey, nobody said being peaceful was easy."
+ rad_colony:0 "New World Charters"
+ rad_colony_desc:0 "While the old world burns, our explorers turn to the new world for opportunities. Hopefully here we will be able to expand the empire further than it ever did at home."
+ rad_naval:0 "Dutch floatillas" 
+ rad_naval_desc:0 "To stave off constant norse raids in medieval times, dutch sailors often travelled in large packs of ships, generally heavily armed in huge ships. With the invention of gunpowder, this doctrine has only become stronger, as we are capable of fielding huge wooden hulks on the seas that defy practical limits."
+ rad_relations:0 "Long Arm of the Empire"
+ rad_relations_desc:0 "Despite our many vassals, we are very proficient at satisfying them all. No province is too far for the emperor to personally visit."
+ rad_footmen:0 "Swabian Veterans"
+ rad_footmen_desc:0 "Swabian veterans make up the bulk of our officer core. While somewhat detesting of our Dutch bretheren, these Swabians are an invaluable resource for the empire."
+ rad_tatos:0 "Irish Potatoes"
+ rad_tatos_desc:0 "The bulk of Holy Roman agriculture flows through the port of Antwerp from our Irish land. The fertile Irish heartland is an incredible source of potatos, a resource that seems nearly unlimited and is a huge boon to our population."
+ rad_emp:0 "The Omninominal Emperor"
+ rad_emp_desc:0 "While direct control over many provinces of the empire is merely handled by vassals, this does not make us weaker. Far from it. Every vassal is a new knowledge sink, a new source of manpower, and more importantly adds to the diversity of our tactics. Swabian foot knights, Dutch frontieersmen, Rhenish archers, hell we even employ some norsemen for shock troops."
+
+
+
+
+ immortal_hre:0 "The Eternal Empire"
+ immortal_hre_desc:0 "Our size is not necessarily a weakness, as years of centralization ahve allowed us to excert a significant amount of control over the state despite its shortcomings.
  EBOH_ideas:0 "Bohemian Empire Ideas"
  great_bohemia:0 "Form Bohemian Empire"
  great_bohemia_desc:0 "Incompetent rule has plagued us for long enough! With the empire's borders reforged, we can now establish the new Bohemian empire. For all that came before, in the name of Albert, Konrad, Willy Wonka, Vilem, and Gerard, we proclaim Bohemia restored forevermore. The first emperor William Sherman stated that if he had another decade, he would have conquered the world. Let us prove him right." 

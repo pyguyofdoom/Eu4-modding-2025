@@ -72,6 +72,31 @@ stormfiend_fury = {
 }
 
 
+immortal_hre = {
+	potential = {
+		normal_or_historical_nations = yes
+		
+		
+		tag = Y63
+		
+	}
 
+	trigger = {
+		
+		
+		tag = Y63
+		
+		
+	}
+
+	
+	
+	imperial_authority = 0.1
+	imperial_authority_value = 0.3	
+	manpower_against_imperial_enemies = 40000	
+	land_morale = 0.05		
+		
+	#icon = 9
+}
 
 

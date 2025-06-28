@@ -18231,6 +18231,55 @@ EBOH_ideas = {
 	}
 }
 
+radiant_ideas = {
+	start = {
+		global_manpower_modifier = 0.20
+		infantry_cost = -0.1
+	}
+	
+	bonus = {
+		trade_steering = 0.2	
+	}	
+
+	trigger = {
+		tag = Y63
+	}
+	free = yes
+	
+	rad_diplo = {
+		diplomatic_reputation = 2
+		diplomats = 1		 
+	}
+	rad_colony = {
+		colonists = 1	
+		global_colonial_growth = 25	
+		
+	}
+	rad_naval = {
+		heavy_ship_cost = -0.2
+		heavy_ship_power = 0.1	
+	}
+	rad_relations = {
+		diplomatic_upkeep = 2		
+		
+	}
+	rad_footmen = {
+		discipline = 0.05
+		mercenary_discipline = 0.10		
+			
+		
+	}
+	rad_tatos = {
+		production_efficiency = 0.15	
+		
+	}
+	rad_emp = {
+		vassal_naval_forcelimit_bonus = 0.2	
+		vassal_forcelimit_bonus = 0.2	
+		
+	}
+}
+
 voc_ideas = {
 	start = {
 		no_religion_penalty = yes
