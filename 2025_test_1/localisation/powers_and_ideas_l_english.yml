@@ -1,4 +1,25 @@
 ﻿l_english:
+ 
+ EBOH_ideas:0 "Bohemian Empire Ideas"
+ great_bohemia:0 "Form Bohemian Empire"
+ great_bohemia_desc:0 "Incompetent rule has plagued us for long enough! With the empire's borders reforged, we can now establish the new Bohemian empire. For all that came before, in the name of Albert, Konrad, Willy Wonka, Vilem, and Gerard, we proclaim Bohemia restored forevermore. The first emperor William Sherman stated that if he had another decade, he would have conquered the world. Let us prove him right." 
+ kick_dev:0 "Feed the Machine"
+ kick_dev_desc:0 "Every worker and farmhand works for the empire. Every peasant toils for hours past nightfall just to hit the newest quota. Every noble is put to death if bound for corruption. We are one, and we are the machine."
+ kick_discipline:0 "The Bohemian Legion"
+ kick_discipline_desc:0 "Modelled after the Roman legions of old, the legion acts as the largest unit size in the Bohemian army. Veterans are expected to train new recruits, and morale is kept high with generous rations and daily drills. Our generals are also highly experienced from the many campaigns of Bohemian reconquest. 
+ kick_burger:0 "Burgermeister Academy for Very Smart Lads"
+ kick_burger_desc:0 "Naturally named after our dynasty of intelligent fellows, the B.A.V.S.L is a top-tier university dedicated to tutoring the nobles of the realm. Every Burgermeister is run through their paces here."
+ kick_prague:0 "The Brillites"
+ kick_prague_desc:0 "The society of brilliant inventors, or the brillites, are a group centered in prague focused on the development and research of new groundbreaking creations. They often are unwelcome by the imperial court, but our wise emperors still take their lessons as valuable data. 
+ kick_knights:0 "New Age Hussars"
+ kick_knights_desc:0 "While the knights of old simply fought in melee, our new knights are a different breed. Inspired by mongol keshigs, our heavy cavalry pelts the enemy wings with carbine fire and powder before charging in. Our focus on mobile gunpowder warfare gives us a massive edge over our opponents on the open field."
+ kick_defender:0 "Shield of Christendom" 
+ kick_defender_desc:0 "We are known throughout the land as the shield of christendom. Devout followers of christ, even in the darkest of times. Purge the heretic, annihilate the heathen, all under heaven and our EMPIRE!"
+ kick_absolute:0 "Emperor of the Universe"
+ kick_absolute_desc:0 "After many years, we have done it. The Burgermeisters reign supreme over central Europe, and our forces have pushed out both the heathen and heretic. Our control over the state is absolute, with loyal nobles and soldiers in every corner of the realm, ready to strike at the nearest moment when the Empire is threatened. While we may not control the world, it is only a matter of time. As the conquerors of old used to state, and as we do now, the universe is ours to lead."
+
+
+
  jbull_culture:0 "Princes of Anjou"
  jbull_culture_desc:0 "Even as we were pushed hundreds of miles from our homeland, our princes never forgot their dynastic heritage. Even ruling from badajoz and portugal, we are proud occitanians. Let us teach those around us to also be proud warriors of Provence!"
  jbull_desperation:0 "Destitution and Desperation" 

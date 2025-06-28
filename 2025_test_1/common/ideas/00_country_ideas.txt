@@ -18186,14 +18186,14 @@ AUH_ideas = {
 	}
 }
 
-GMA_ideas = {
+EBOH_ideas = {
 	start = {
 		global_manpower_modifier = 0.25
 		global_trade_goods_size_modifier = 0.1
 	}
 	
 	bonus = {
-		max_absolutism_effect = 0.15
+		culture_conversion_cost = -0.25	
 	}	
 
 	trigger = {
@@ -18201,32 +18201,33 @@ GMA_ideas = {
 	}
 	free = yes
 	
-	gma_reforge_moravias_hegemony = {
-		overextension_impact_modifier = -0.25
+	kick_dev = {
+		local_development_cost = -0.15	 
 	}
-	gma_apostles_to_the_slavs = {
-		missionaries = 1
+	kick_discipline = {
+		land_morale = 0.15	
+		military_tactics = 0.1	
 	}
-	gma_princes_of_nitra_kings_of_moravia = {
+	kick_burger = {
 		monarch_admin_power = 1
 	}
-	gma_rebuild_veligrad = {
-		build_time = -0.1
-		development_cost = -0.05
+	kick_prague = {
+		technology_cost = -0.1	
+		idea_cost = -0.05	
 	}
-	gma_rex_sclavorum = {
-		legitimacy = 1
-		devotion = 1
-		republican_tradition = 0.3
-		meritocracy = 1
-		horde_unity = 1
+	kick_knights = {
+		cavalry_fire = 0.75
+		cav_to_inf_ratio = 0.15		
+		
 	}
-	gma_canonize_cyril_methodius = {
-		tolerance_own = 3
+	kick_defender = {
+		missionaries = 1
+		local_missionary_strength = 0.03
 	}
-	gma_svatopluks_legacy = {
+	kick_absolute = {
 		discipline = 0.05
-		max_absolutism = 5
+		max_absolutism = 15
+		
 	}
 }
 
