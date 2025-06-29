@@ -7,8 +7,6 @@ provence_fury = {
 	}
 
 	trigger = {
-		
-		
 		tag = Z02
 		
 	}
@@ -20,19 +18,34 @@ provence_fury = {
 	global_tax_income = 24
 	#icon = 9
 }
-
-
-mongol_fury = {
+heretic_fury = {
 	potential = {
 		normal_or_historical_nations = yes
 		
 		
+		tag = FKN
+	}
+
+	trigger = {
+		tag = FKN
+		
+	}
+
+	
+	diplomatic_reputation = 1
+	land_forcelimit	= 25
+	global_manpower = 10	
+	global_tax_income = 24
+	#icon = 9
+}
+
+mongol_fury = {
+	potential = {
+		normal_or_historical_nations = yes
 		tag = AFG
 	}
 
 	trigger = {
-		
-		
 		tag = AFG
 		
 	}
@@ -46,28 +59,30 @@ mongol_fury = {
 	religious_unity = 0.8	
 	#icon = 9
 }
-
-stormfiend_fury = {
+stormfiend_fury2 = {
 	potential = {
 		normal_or_historical_nations = yes
 		
+		OR = {
+			tag = SWE
 		
-		tag = SWE
-		tag = SCA
+			tag = SCA
+		}
 	}
 
 	trigger = {
+		OR = {
+			tag = SWE
 		
+			tag = SCA
+		}
 		
-		tag = SWE
-		tag = SCA
 		
 	}
 
 	
-	
-	discipline = 0.025	
-	extra_manpower_at_religious_war = yes		
+	discipline = 0.025
+	extra_manpower_at_religious_war = yes	
 	#icon = 9
 }
 
@@ -82,14 +97,11 @@ immortal_hre = {
 	}
 
 	trigger = {
-		
-		
 		tag = Y63
 		
 		
 	}
 
-	
 	
 	imperial_authority = 0.1
 	imperial_authority_value = 0.3	
@@ -98,5 +110,6 @@ immortal_hre = {
 		
 	#icon = 9
 }
+
 
 

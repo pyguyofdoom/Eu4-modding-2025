@@ -23,7 +23,7 @@ country_decisions = {
 				AND = {
 					ai = yes
 					num_of_cities = 10
-					adm_tech = 18
+					adm_tech = 12
 				}
 			}
 			is_colonial_nation = no

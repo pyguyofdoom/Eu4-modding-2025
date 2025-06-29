@@ -1,4 +1,16 @@
 ﻿l_english:
+ kickman_government:0 "Swords of Bohemia"
+ kickman_government_desc:0 "The Bohemian swords are the militarists currently in charge of the state, and are the major force behind the young prince Hamburglar. While it is inevitible they lose power over time, we can make the most use of the popular support while we can. There is NO WAY we can keep support up permanently, so let us try to reform the realm as quickly as possible."
+ kickman_decadence:0 "Militarist support"
+ kickman_decadence_desc:0 "Support is extremely high under the current king, however, within a few decades our first rush of support will quickly degrade. We must use this chance to conquer as much as possible."
+ kickman_fury_desc:0 "Under the one true king, no, EMPEROR, we will carve a path through Europe!"
+ monthly_kickman_decadence:0 "Monthly Militarism"
+
+
+
+
+ stormfiend_fury2:0 "The Fylkir"
+ stormfiend_fury2_desc:0 "As seat of the norse religion, and with the stormfiends still being nominal temporal leaders of the religion, we can call great holy wars upon religious enemies of the realm."
  radiant_ideas_start:0 "Holy Roman Traditions"
  radiant_ideas:0 "Holy Roman Ideas"
  rad_diplo:0 "Silver Tongues"

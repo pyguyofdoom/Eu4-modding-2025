@@ -8,5 +8,6 @@ kickman_fury = {
 	global_tax_income = 120
 	land_morale = 0.2
 	monarch_lifespan = 10
-	
+	monthly_kickman_decadence = 1
 }
+

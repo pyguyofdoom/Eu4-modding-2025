@@ -59,8 +59,14 @@ country_event = {
 				who = Z56
 				casus_belli = cb_hundred_years_war
 			}
-
 		}
+		add_government_power = { 
+			mechanic_type = kickman_decadence_mechanic
+			power_type = kickman_decadence
+			value = 100
+		}
+
+		
 		
 	}
 }
