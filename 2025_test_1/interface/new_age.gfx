@@ -1,0 +1,56 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ab_pagan_offensive"
+		texturefile = "gfx/interface/ages/ab_pagan_offensive.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_pagan_defense"
+		texturefile = "gfx/interface/ages/ab_pagan_defense.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_revive_the_bloodline"
+		texturefile = "gfx/interface/ages/ab_revive_the_bloodline.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_bohemian_conqueror"
+		texturefile = "gfx/interface/ages/ab_bohemian_conqueror.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_leader_of_slavs"
+		texturefile = "gfx/interface/ages/ab_leader_of_slavs.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_explore_new_lands"
+		texturefile = "gfx/interface/ages/ab_explore_new_lands.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_viking_gods"
+		texturefile = "gfx/interface/ages/ab_viking_gods.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_ruthenian_legitimacy"
+		texturefile = "gfx/interface/ages/ab_ruthenian_legitimacy.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_malacca_rule_the_waves"
+		texturefile = "gfx/interface/ages/ab_malacca_rule_the_waves.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_modern_emperorship"
+		texturefile = "gfx/interface/ages/ab_modern_emperorship.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_italian_development"
+		texturefile = "gfx/interface/ages/ab_italian_development.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_greek_trade"
+		texturefile = "gfx/interface/ages/ab_greek_trade.dds"
+	}
+	spriteType = {
+		name = "GFX_ab_coal_extraction"
+		texturefile = "gfx/interface/ages/ab_coal_extraction.dds"
+	}
+	
+}

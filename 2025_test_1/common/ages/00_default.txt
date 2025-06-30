@@ -594,7 +594,10 @@ age_of_reformation = {
 		ab_malacca_rule_the_waves = {
 		#replace persia development bonus
 			allow = {
-				tag = MLC
+				OR = {
+					tag = MLC
+					tag = MSA
+				}
 			}
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
