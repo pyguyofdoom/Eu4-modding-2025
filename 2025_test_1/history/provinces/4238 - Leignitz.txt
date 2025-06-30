@@ -9,6 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = HAB
+add_permanent_claim = BOH
 add_permanent_claim = SIL
 discovered_by = MGE
 discovered_by = chinese

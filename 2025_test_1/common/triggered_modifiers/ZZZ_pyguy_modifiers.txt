@@ -33,8 +33,8 @@ heretic_fury = {
 
 	
 	diplomatic_reputation = 1
-	land_forcelimit	= 25
-	global_manpower = 10	
+	land_forcelimit	= 59
+	global_manpower = 30	
 	global_tax_income = 24
 	#icon = 9
 }
@@ -52,7 +52,7 @@ mongol_fury = {
 
 	
 	
-	land_forcelimit	= 100
+	land_forcelimit	= 80
 	global_manpower = 50	
 	global_tax_income = 180
 	cav_to_inf_ratio = 0.25
