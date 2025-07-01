@@ -1,3 +1,8 @@
+
+
+
+
+
 provence_fury = {
 	potential = {
 		normal_or_historical_nations = yes
@@ -111,5 +116,24 @@ immortal_hre = {
 	#icon = 9
 }
 
+polish_fury = {
+	potential = {
+		normal_or_historical_nations = yes
+		
+		
+		tag = POL
+	}
 
+	trigger = {
+		tag = POL
+		
+	}
+
+	
+	
+	land_forcelimit	= 25
+	global_manpower = 10	
+	global_tax_income = 24
+	#icon = 9
+}
 

@@ -1,5 +1,5 @@
-owner = Z00
-controller = Z00
+owner = Z02
+controller = Z02
 capital = "Carcassonne"
 is_city = yes
 culture = occitain
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = PRO
-add_core = Z00
+add_core = Z02
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

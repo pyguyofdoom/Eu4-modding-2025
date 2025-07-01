@@ -658,6 +658,21 @@ christian = {
 			global_colonial_growth = 10
 			tolerance_own = 1
 		}
+		will_get_center = { #Refered to even for initial CoR Spawn
+			any_owned_province = {
+				can_have_center_of_reformation_trigger = {
+					RELIGION = orthodox
+				}
+			}
+		}
+		allowed_center_conversion = {
+			sunni
+			shiite
+			catholic
+			coptic
+			hinduism
+		}
+
 		province = {
 			local_missionary_strength = -0.01
 		}

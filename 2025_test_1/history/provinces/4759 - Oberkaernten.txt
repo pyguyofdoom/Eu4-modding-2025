@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = TEM
+controller = TEM
 capital = "Villach"
 is_city = yes
 culture = venetian
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = Z19
+add_core = TEM
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
