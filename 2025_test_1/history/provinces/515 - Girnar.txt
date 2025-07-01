@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = GUJ
+controller = GUJ
 capital = "Girnar"
 is_city = yes
 culture = saurashtri
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = AFG
+
 add_core = JGD
 add_core = Y39
 discovered_by = MGE

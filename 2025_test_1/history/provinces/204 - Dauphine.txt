@@ -1,5 +1,5 @@
-owner = DAU
-controller = DAU
+owner = X93
+controller = X93
 capital = "Grenoble"
 is_city = yes
 culture = occitain
@@ -9,9 +9,9 @@ fort_15th = yes
 base_tax = 5
 base_production = 3
 base_manpower = 3
-add_core = DAU
+add_core = X93
 add_core = PRO
-hre = yes
+
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

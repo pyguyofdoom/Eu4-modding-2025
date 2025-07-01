@@ -1,5 +1,5 @@
-owner = Y09
-controller = Y09
+owner = NRM
+controller = NRM
 capital = "Norwich"
 is_city = yes
 culture = essexian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 2
 add_core = DAN
-add_core = Y09
+add_core = NRM
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

@@ -1,8 +1,8 @@
 owner = FKN
 controller = FKN
-capital = "Berlin-Cölln"
+capital = "Berlin-Cï¿½lln"
 is_city = yes
-culture = czech
+culture = sorbian
 religion = catholic
 trade_goods = cloth
 base_tax = 4

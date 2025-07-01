@@ -1,5 +1,5 @@
-owner = PUN
-controller = PUN
+owner = Z92
+controller = Z92
 capital = "Bhera"
 is_city = yes
 culture = panjabi
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 5
 base_production = 2
 base_manpower = 3
-add_core = PUN
+add_core = Z92
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

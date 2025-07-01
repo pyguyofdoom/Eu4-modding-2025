@@ -1,5 +1,5 @@
-owner = Y83
-controller = Y83
+owner = Y95
+controller = Y95
 capital = "Ar Rakkah"
 is_city = yes
 culture = al_suryah_arabic
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = Y83
+add_core = Y95
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

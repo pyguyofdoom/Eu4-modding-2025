@@ -1,5 +1,5 @@
-owner = X77
-controller = X77
+owner = PUN
+controller = PUN
 capital = "Meerut"
 is_city = yes
 culture = kanauji
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 3
 base_manpower = 4
 add_core = DLH
-add_core = X77
+add_core = PUN
 add_core = Z91
 discovered_by = MGE
 discovered_by = chinese

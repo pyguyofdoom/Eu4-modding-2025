@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = GUJ
+controller = GUJ
 capital = "Patan"
 is_city = yes
 culture = gujarati
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 9
 base_production = 3
 base_manpower = 3
-add_core = AFG
+
 add_core = GUJ
 discovered_by = MGE
 discovered_by = chinese

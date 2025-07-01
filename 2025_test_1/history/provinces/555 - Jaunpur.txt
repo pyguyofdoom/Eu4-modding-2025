@@ -1,5 +1,5 @@
-owner = Z85
-controller = Z85
+owner = Z49
+controller = Z49
 capital = "Jaunpur"
 is_city = yes
 culture = avadhi
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 3
 add_core = ODH
-add_core = Z85
+add_core = Z49
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

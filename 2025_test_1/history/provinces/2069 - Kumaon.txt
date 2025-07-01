@@ -1,5 +1,5 @@
-owner = KMN
-controller = KMN
+owner = GHR
+controller = GHR
 capital = "Champawat"
 is_city = yes
 culture = pahari
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 6
 base_production = 3
 base_manpower = 3
-add_core = KMN
+add_core = GHR
 add_permanent_claim = KSH
 discovered_by = MGE
 discovered_by = chinese

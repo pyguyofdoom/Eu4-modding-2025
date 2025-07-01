@@ -1,9 +1,9 @@
-government = monarchy
-add_government_reform = autocracy_reform
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 technology_group = indian
-religion = buddhism
-primary_culture = bengali
+religion = tengri_pagan_reformed
+primary_culture = khalkha
 capital = 561
 fixed_capital = 561
 1444.11.11= {
@@ -14,8 +14,8 @@ fixed_capital = 561
 		dip = 5
 		mil = 2
 		birth_date = 1408.3.22
-		religion = buddhism
-		culture = bengali
+		religion = tengri_pagan_reformed
+		culture = khalkha
 	}
 	add_ruler_personality = benevolent_personality
 	add_ruler_personality = charismatic_negotiator_personality
@@ -45,8 +45,8 @@ fixed_capital = 561
 		death_date = 1496.6.13
 		female = yes
 		claim = 89
-		religion = buddhism
-		culture = bengali
+		religion = tengri_pagan_reformed
+		culture = khalkha
 	}
 	add_heir_personality = just_personality
 	add_heir_personality = obsessive_perfectionist_personality

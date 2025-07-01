@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = FLA
+controller = FLA
 capital = "Mainz"
 is_city = yes
 culture = hessian
@@ -11,7 +11,7 @@ base_production = 1
 base_manpower = 4
 extra_cost = 8
 center_of_trade = 1
-add_core = BUR
+add_core = FLA
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

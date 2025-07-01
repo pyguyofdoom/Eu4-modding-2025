@@ -1,5 +1,5 @@
-owner = W11
-controller = W11
+owner = BGL
+controller = BGL
 capital = "Saugor"
 is_city = yes
 culture = vindhyan
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 add_core = BND
-add_core = W11
+add_core = BGL
 add_core = X27
 add_permanent_claim = BGL
 discovered_by = MGE

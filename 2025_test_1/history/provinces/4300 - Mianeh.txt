@@ -1,5 +1,5 @@
-owner = KRY
-controller = KRY
+owner = TAB
+controller = TAB
 capital = "Mianeh"
 is_city = yes
 culture = azerbaijani
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 5
 base_manpower = 3
-add_core = KRY
+add_core = TAB
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

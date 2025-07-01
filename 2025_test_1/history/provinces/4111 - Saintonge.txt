@@ -1,5 +1,5 @@
-owner = Z60
-controller = Z60
+owner = BRI
+controller = BRI
 capital = "Saintes"
 is_city = yes
 culture = basque
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 4
 add_core = NAV
-add_core = Y28
+add_core = BRI
 add_core = Z60
 discovered_by = MGE
 discovered_by = chinese

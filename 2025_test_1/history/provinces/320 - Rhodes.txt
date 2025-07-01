@@ -1,5 +1,5 @@
-owner = KNI
-controller = KNI
+owner = CYP
+controller = CYP
 capital = "Rhodes"
 is_city = yes
 culture = greek
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 3
 base_manpower = 2
 add_core = GRE
-add_core = KNI
+add_core = CYP
 add_permanent_claim = Z41
 discovered_by = MGE
 discovered_by = chinese

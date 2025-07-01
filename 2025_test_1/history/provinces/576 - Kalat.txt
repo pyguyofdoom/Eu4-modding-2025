@@ -1,5 +1,5 @@
-owner = Z31
-controller = Z31
+owner = BAL
+controller = BAL
 capital = "Kalat"
 is_city = yes
 culture = khorasani
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 add_core = KHO
-add_core = Z31
+add_core = BAL
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

@@ -1,5 +1,5 @@
-owner = CAS
-controller = CAS
+owner = Z02
+controller = Z02
 capital = "Narbonne"
 is_city = yes
 culture = occitain
@@ -8,7 +8,7 @@ trade_goods = wine
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = CAS
+add_core = Z02
 add_core = CAT
 discovered_by = MGE
 discovered_by = chinese

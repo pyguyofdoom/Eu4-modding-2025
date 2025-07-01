@@ -1,5 +1,5 @@
-owner = X85
-controller = X85
+owner = Z56
+controller = Z56
 capital = "Litomerice"
 is_city = yes
 culture = czech
@@ -8,7 +8,7 @@ trade_goods = glass
 base_tax = 6
 base_production = 3
 base_manpower = 3
-add_core = X85
+add_core = Z56
 add_permanent_claim = BOH
 discovered_by = MGE
 discovered_by = chinese

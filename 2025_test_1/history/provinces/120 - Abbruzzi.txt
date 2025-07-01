@@ -1,5 +1,5 @@
-owner = SYR
-controller = SYR
+owner = Z17
+controller = Z17
 capital = "L'Aquila"
 is_city = yes
 culture = umbrian
@@ -8,7 +8,7 @@ trade_goods = wine
 base_tax = 2
 base_production = 7
 base_manpower = 2
-add_core = SYR
+add_core = Z17
 add_core = URB
 discovered_by = MGE
 discovered_by = chinese

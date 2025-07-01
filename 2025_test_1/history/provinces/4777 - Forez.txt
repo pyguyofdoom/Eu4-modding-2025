@@ -1,5 +1,5 @@
-owner = DAU
-controller = DAU
+owner = X93
+controller = X93
 capital = "Montbrison"
 is_city = yes
 culture = occitain
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 5
 base_production = 3
 base_manpower = 3
-add_core = DAU
+add_core = X93
 add_core = PRO
 add_core = X43
 hre = yes

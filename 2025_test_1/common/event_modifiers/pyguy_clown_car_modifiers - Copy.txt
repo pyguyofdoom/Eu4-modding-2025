@@ -1,0 +1,13 @@
+
+
+
+kickman_fury = {
+	
+	land_forcelimit	= 25
+	global_manpower = 25	
+	global_tax_income = 120
+	land_morale = 0.2
+	monarch_lifespan = 10
+	monthly_kickman_decadence = 1
+}
+

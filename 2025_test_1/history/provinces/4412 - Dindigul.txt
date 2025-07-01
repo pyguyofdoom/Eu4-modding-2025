@@ -1,5 +1,5 @@
-owner = KND
-controller = KND
+owner = W10
+controller = W10
 capital = "Dindigul"
 is_city = yes
 culture = tamil
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = KND
+add_core = W10
 add_core = MAD
 discovered_by = MGE
 discovered_by = chinese

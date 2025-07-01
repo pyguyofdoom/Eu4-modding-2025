@@ -1,5 +1,5 @@
-owner = ARL
-controller = ARL
+owner = Z73
+controller = Z73
 capital = "Shamakhi"
 is_city = yes
 culture = georgian
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = ARL
+add_core = Z73
 add_core = GEO
 discovered_by = MGE
 discovered_by = chinese

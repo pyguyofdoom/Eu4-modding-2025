@@ -1,5 +1,5 @@
-owner = AFG
-controller = AFG
+owner = ALH
+controller = ALH
 capital = "Savah"
 is_city = yes
 culture = kurdish
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 7
 base_production = 6
 base_manpower = 4
-add_core = AFG
+add_core = ALH
 add_core = ARD
 add_core = QOM
 discovered_by = MGE

@@ -1,5 +1,5 @@
-owner = V01
-controller = V01
+owner = X11
+controller = X11
 capital = "Zürich"
 is_city = yes
 culture = swiss
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 add_core = SWI
-add_core = V01
+add_core = X11
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

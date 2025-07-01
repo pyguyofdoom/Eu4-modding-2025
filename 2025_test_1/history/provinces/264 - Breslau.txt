@@ -11,6 +11,7 @@ base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
 add_core = HAB
+add_permanent_claim = BOH
 add_permanent_claim = SIL
 discovered_by = MGE
 discovered_by = chinese

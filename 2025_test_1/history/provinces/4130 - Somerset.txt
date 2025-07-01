@@ -1,5 +1,5 @@
-owner = Y46
-controller = Y46
+owner = X24
+controller = X24
 capital = "Bath"
 is_city = yes
 culture = wessexian
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 2
 add_core = WSX
-add_core = Y46
+add_core = X24
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

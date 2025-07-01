@@ -1,5 +1,5 @@
-owner = W61
-controller = W61
+owner = W04
+controller = W04
 capital = "Perth"
 is_city = yes
 culture = elsinorian
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 add_core = DAN
-add_core = W61
+add_core = W04
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

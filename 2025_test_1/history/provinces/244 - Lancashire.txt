@@ -1,5 +1,5 @@
-owner = X79
-controller = X79
+owner = KOI
+controller = KOI
 capital = "Lancaster"
 is_city = yes
 culture = elsinorian
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 2
 add_core = DAN
-add_core = X79
+add_core = KOI
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

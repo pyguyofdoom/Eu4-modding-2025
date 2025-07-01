@@ -1,5 +1,5 @@
-owner = MLO
-controller = MLO
+owner = Y63
+controller = Y63
 capital = "Metz"
 is_city = yes
 culture = alsatian
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = MLO
+add_core = Y63
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african

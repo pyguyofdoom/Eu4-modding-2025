@@ -1,5 +1,5 @@
-owner = GEL
-controller = GEL
+owner = W29
+controller = W29
 capital = "Shrewsbury"
 is_city = yes
 culture = mercian

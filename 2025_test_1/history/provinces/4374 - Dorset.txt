@@ -1,5 +1,5 @@
-owner = GEL
-controller = GEL
+owner = X24
+controller = X24
 capital = "Weymouth"
 is_city = yes
 culture = wessexian
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = GEL
+add_core = X24
 add_core = WSX
 add_core = Z62
 discovered_by = MGE

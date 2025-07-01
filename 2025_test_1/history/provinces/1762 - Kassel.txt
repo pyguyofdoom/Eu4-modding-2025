@@ -1,5 +1,5 @@
-owner = TRP
-controller = TRP
+owner = HES
+controller = HES
 capital = "Kassel"
 is_city = yes
 culture = czech
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = TRP
+add_core = HES
 add_permanent_claim = HES
 discovered_by = MGE
 discovered_by = chinese

@@ -1,5 +1,5 @@
-owner = BAL
-controller = BAL
+owner = Y77
+controller = Y77
 capital = "Chakansur"
 is_city = yes
 culture = khorasani
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = BAL
+add_core = Y77
 add_core = KHO
 add_core = SIS
 discovered_by = MGE

@@ -1,5 +1,5 @@
-owner = KRM
-controller = KRM
+owner = Z98
+controller = Z98
 capital = "Kerman"
 is_city = yes
 culture = persian
@@ -8,7 +8,7 @@ trade_goods = paper
 base_tax = 6
 base_production = 2
 base_manpower = 2
-add_core = KRM
+add_core = Z98
 add_core = PER
 discovered_by = MGE
 discovered_by = chinese

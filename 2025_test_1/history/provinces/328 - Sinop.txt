@@ -1,5 +1,5 @@
-owner = Z21
-controller = Z21
+owner = TRE
+controller = TRE
 capital = "Sinop"
 is_city = yes
 culture = georgian
@@ -11,7 +11,7 @@ base_manpower = 2
 extra_cost = 16
 center_of_trade = 2
 add_core = GEO
-add_core = Z21
+add_core = TRE
 discovered_by = MGE
 discovered_by = chinese
 discovered_by = east_african
