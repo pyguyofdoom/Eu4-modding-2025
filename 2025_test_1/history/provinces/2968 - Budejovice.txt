@@ -1,5 +1,5 @@
-owner = BOH
-controller = BOH
+owner = Z56
+controller = Z56
 capital = "Budejovice"
 is_city = yes
 culture = czech
