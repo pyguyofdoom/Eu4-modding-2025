@@ -332,7 +332,7 @@ SWE_ideas = {
 	Sweden_idea_02 = {
 		has_marines = yes
 		allowed_marine_fraction = 0.1
-		global_sailors_modifier = 0.1
+		global_sailors_modifier = 0.25
 		
 	}
 	Sweden_idea_03 = {
@@ -621,7 +621,7 @@ Stormfiend_ideas = {
 	free = yes
 
 	Stormfiend_idea_01 = {
-		colonist_placement_chance = 0.05
+		colonist_placement_chance = 0.1
 		colonists = 1
 		
 	}
@@ -638,14 +638,14 @@ Stormfiend_ideas = {
 	}
 	Stormfiend_idea_04 = {
 		has_marines = yes
-		allowed_marine_fraction = 0.2
-		global_sailors_modifier = 0.2
+		allowed_marine_fraction = 0.25
+		global_sailors_modifier = 0.40
 		naval_morale = 0.15
 	
 	}
 	Stormfiend_idea_05 = {
 		local_defensiveness = 0.15
-		cavalry_power = 0.1
+		cavalry_power = 0.15
 	}
 	Stormfiend_idea_06 = {
 		development_cost_in_primary_culture = -0.1
