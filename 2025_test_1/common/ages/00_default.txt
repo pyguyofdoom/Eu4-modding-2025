@@ -518,22 +518,16 @@ age_of_reformation = {
 			}
 		}
 
-		ab_spain_shock_tactics = {
+		ab_revert_gaul = {
 		#Will replace spain bonus with brittany bonus. Will work on as soon as I know what flush is doing
 			allow = {
-				OR = {
-					tag = SPA
-					AND = {
-						government_rank = 2
-						culture_group = iberian
-						num_of_colonies = 2
-					}
-				}
+				religion = druidic_pagan_reformed
 			}
 			effect = { 
 				on_age_ability_taken = { age = age_of_reformation }
 			}
 			modifier = {
+				missionaries = 1
 				leader_land_shock = 1
 				num_of_age_rewards = 1
 			}
