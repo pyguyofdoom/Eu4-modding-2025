@@ -402,7 +402,11 @@ pagan = {
 		}
 		
 			uses_karma = yes
-		
+		allowed_center_conversion = {
+			norse_pagan
+			norse_pagan_reformed
+
+		}
 		
 		heretic = {  ELUVEITIE ASTERIX  }
 	}
