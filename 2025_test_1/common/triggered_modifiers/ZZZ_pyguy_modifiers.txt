@@ -88,7 +88,7 @@ stormfiend_fury2 = {
 	
 	discipline = 0.025
 	extra_manpower_at_religious_war = yes	
-	
+	allowed_marine_fraction = 0.1
 	#icon = 9
 }
 

@@ -402,17 +402,24 @@ pagan = {
 		}
 		
 			uses_karma = yes
+		will_get_center = { #Refered to even for initial CoR Spawn
+			any_owned_province = {
+				can_have_center_of_reformation_trigger = {
+					RELIGION = norse_pagan_reformed
+				}
+			}
+		}
 		allowed_center_conversion = {
 			norse_pagan
 			norse_pagan_reformed
 
 		}
-		
-				allowed_conversion = {
-				norse_pagan_reformed
+			
+		allowed_conversion = {
+		norse_pagan_reformed
 		}
 		
-			date = 1517.10.31
+			
 		heretic = {  ELUVEITIE ASTERIX  }
 	}
 	finnish_pagan = {

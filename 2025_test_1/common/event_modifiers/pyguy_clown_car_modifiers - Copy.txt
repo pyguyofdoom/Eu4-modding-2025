@@ -1,7 +1,7 @@
 str_strict_marines = {	#Permanent
 	discipline = 0.05
 	shock_damage_received = -0.15
-	allowed_marine_fraction = 0.1	
+		
 	is_marine_modifier = yes
 	
 }
