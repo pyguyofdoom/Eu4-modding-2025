@@ -132,9 +132,9 @@ polish_fury = {
 
 	
 	
-	land_forcelimit	= 25
-	global_manpower = 10	
-	global_tax_income = 24
+	land_forcelimit	= 30
+	global_manpower = 15	
+	global_tax_income = 36
 	#icon = 9
 }
 

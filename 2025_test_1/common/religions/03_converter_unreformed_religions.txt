@@ -1,4 +1,5 @@
 pagan = {
+	can_form_personal_unions = yes
 	arabic_pagan = {
 		icon = 150
 		color = { 140 20 50 }
