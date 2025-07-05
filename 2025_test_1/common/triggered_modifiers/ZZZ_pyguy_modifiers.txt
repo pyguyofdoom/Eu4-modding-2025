@@ -38,6 +38,7 @@ heretic_fury = {
 
 	
 	diplomatic_reputation = 1
+	land_morale = 0.1
 	land_forcelimit	= 59
 	global_manpower = 30	
 	global_tax_income = 24

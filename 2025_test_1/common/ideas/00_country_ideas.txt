@@ -638,8 +638,8 @@ Stormfiend_ideas = {
 	}
 	Stormfiend_idea_04 = {
 		has_marines = yes
-		allowed_marine_fraction = 0.25
-		global_sailors_modifier = 0.40
+		allowed_marine_fraction = 0.3
+		global_sailors_modifier = 0.5
 		naval_morale = 0.15
 	
 	}

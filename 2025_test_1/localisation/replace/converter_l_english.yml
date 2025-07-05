@@ -1,4 +1,6 @@
 ﻿l_english:
+ obj_relieve_tension:0 "Relieve Tension"
+ obj_relieve_tension_desc:0 "Have at least 90% religious unity"
  the_pagan_offensive:0 "The Pagan Offensive"
  the_pagan_defensive:0 "The Pagan Defensive"
  norse_holy_grounds:0 "Norse Holy Grounds"
