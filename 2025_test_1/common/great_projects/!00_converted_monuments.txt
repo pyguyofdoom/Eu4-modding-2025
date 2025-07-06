@@ -363,7 +363,7 @@ wonder_university_9 = {
 		}
 
 		country_modifiers = {
-			idea_cost = -0.5
+			idea_cost = -0.05
 			technology_cost = -0.10
 			
 		}
