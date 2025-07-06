@@ -39,11 +39,11 @@
  kick_dev:0 "Feed the Machine"
  kick_dev_desc:0 "Every worker and farmhand works for the empire. Every peasant toils for hours past nightfall just to hit the newest quota. Every noble is put to death if bound for corruption. We are one, and we are the machine."
  kick_discipline:0 "The Bohemian Legion"
- kick_discipline_desc:0 "Modelled after the Roman legions of old, the legion acts as the largest unit size in the Bohemian army. Veterans are expected to train new recruits, and morale is kept high with generous rations and daily drills. Our generals are also highly experienced from the many campaigns of Bohemian reconquest. 
+ kick_discipline_desc:0 "Modelled after the Roman legions of old, the legion acts as the largest unit size in the Bohemian army. Veterans are expected to train new recruits, and morale is kept high with generous rations and daily drills. Our generals are also highly experienced from the many campaigns of Bohemian reconquest." 
  kick_burger:0 "Burgermeister Academy for Very Smart Lads"
  kick_burger_desc:0 "Naturally named after our dynasty of intelligent fellows, the B.A.V.S.L is a top-tier university dedicated to tutoring the nobles of the realm. Every Burgermeister is run through their paces here."
  kick_prague:0 "The Brillites"
- kick_prague_desc:0 "The society of brilliant inventors, or the brillites, are a group centered in prague focused on the development and research of new groundbreaking creations. They often are unwelcome by the imperial court, but our wise emperors still take their lessons as valuable data. 
+ kick_prague_desc:0 "The society of brilliant inventors, or the brillites, are a group centered in prague focused on the development and research of new groundbreaking creations. They often are unwelcome by the imperial court, but our wise emperors still take their lessons as valuable data."
  kick_knights:0 "New Age Hussars"
  kick_knights_desc:0 "While the knights of old simply fought in melee, our new knights are a different breed. Inspired by mongol keshigs, our heavy cavalry pelts the enemy wings with carbine fire and powder before charging in. Our focus on mobile gunpowder warfare gives us a massive edge over our opponents on the open field."
  kick_defender:0 "Shield of Christendom" 
